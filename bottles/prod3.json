@@ -1,0 +1,2811 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 15,
+    "credits_remaining": 85,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.in",
+    "asin": "B07P7ZWQMZ",
+    "type": "product"
+  },
+  "request_metadata": {
+    "created_at": "2022-07-19T13:52:53.638Z",
+    "processed_at": "2022-07-19T13:53:01.579Z",
+    "total_time_taken": 7.94,
+    "amazon_url": "https://www.amazon.in/dp/B07P7ZWQMZ?th=1&psc=1"
+  },
+  "product": {
+    "title": "Amazon Brand - Solimo Plastic Fridge Bottle Set (6 pieces, 1L, Checkered pattern, Multicolour) 6 Pieces Checkered Bottle",
+    "search_alias": {
+      "title": "Home & Kitchen",
+      "value": "kitchen"
+    },
+    "title_excluding_variant_name": "Amazon Brand - Solimo Plastic Fridge Bottle Set (6 pieces, 1L, Checkered pattern, Multicolour)",
+    "keywords": "Amazon,Brand,-,Solimo,Plastic,Fridge,Bottle,Set,(6,pieces,,1L,,Checkered,pattern,,Multicolour)",
+    "keywords_list": [
+      "Amazon",
+      "Brand",
+      "Solimo",
+      "Plastic",
+      "Fridge",
+      "Bottle",
+      "pieces",
+      "Checkered",
+      "pattern",
+      "Multicolour)"
+    ],
+    "asin": "B07P7ZWQMZ",
+    "parent_asin": "B09QQXDWYQ",
+    "link": "https://www.amazon.in/Amazon-Brand-Plastic-Checkered-Multicolour/dp/B07P7ZWQMZ",
+    "brand": "Amazon Brand - Solimo",
+    "sell_on_amazon": true,
+    "variants": [
+      {
+        "asin": "B085GQ5FR2",
+        "title": "3 Pieces Checkered Bottle + Jars",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B085GQ5FR2?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "3 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Jars"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51ju2D98UKL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51ju2D98UKL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91q+Rvk-fFL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91tJlRRBNSL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71cGyxCiXJL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71l4HmK0A8L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/818U73xLhhL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B085GPY1V5",
+        "title": "3 Pieces Checkered Bottle + Vegetable Masher",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B085GPY1V5?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "3 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Vegetable Masher"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61+UOP3IIdL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61+UOP3IIdL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91q+Rvk-fFL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91tJlRRBNSL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71-URTe9eGL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/914MLhrWSnL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/71TPH8LYWvL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B085GP4K39",
+        "title": "3 Pieces Checkered Bottle + Chopping Board",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B085GP4K39?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "3 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Chopping Board"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61W34CLFXTL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61W34CLFXTL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91q+Rvk-fFL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91tJlRRBNSL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91jpReyjRDL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81jTvZFPxNL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/71ZqEoUfl4L._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B085GQ2PXS",
+        "title": "6 Pieces Checkered Bottle + Glasses",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B085GQ2PXS?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "6 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Glasses"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51ARPYU2ovL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51ARPYU2ovL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91LvKER5jhL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91nGfkGh7HL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71MIvOJ9sqL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71Qqpe33rXL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61bwU0IIDnL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B085GPTZWH",
+        "title": "6 Pieces Checkered Bottle + Container Set, 1Litre",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B085GPTZWH?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "6 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Container Set, 1Litre"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51DGoihuItL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51DGoihuItL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91LvKER5jhL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91nGfkGh7HL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61Las+g1DJL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/61V6emeDiBL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/81k6SHOKmAL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08BTKN4WR",
+        "title": "6 Pieces Checkered Bottle + Bottle, Citrus",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B08BTKN4WR?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "6 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Bottle, Citrus"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51jmfLwKt3L._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51jmfLwKt3L._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91LvKER5jhL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91nGfkGh7HL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81IQnsicidL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/7167YsPQorL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/91CH-FcwuqL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08BTGD9D3",
+        "title": "6 Pieces Checkered Bottle + Bottle, Geometric",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B08BTGD9D3?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "6 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Bottle, Geometric"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51ZUI2owbTL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51ZUI2owbTL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91LvKER5jhL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91nGfkGh7HL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81fLSi2FOgL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/812Y06nyBCL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/91Be67j7PHL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B085GNR34G",
+        "title": "6 Pieces Checkered Bottle + Container Set",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B085GNR34G?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "6 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Container Set"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51AOj+XZR6L._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51AOj+XZR6L._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91LvKER5jhL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91nGfkGh7HL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91Hffht29zL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81+NY5fOZrL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/91Qdj6mfc6L._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B07P94V9NY",
+        "title": "3 Pieces Checkered Bottle",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B07P94V9NY?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "3 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/91q+Rvk-fFL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/91q+Rvk-fFL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91tJlRRBNSL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/61Bt+QiKNhL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08BTGVYL7",
+        "title": "6 Pieces Checkered Bottle + Bottle with Flip Cap",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B08BTGVYL7?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "6 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Bottle with Flip Cap"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51c3qOSnqaL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51c3qOSnqaL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91LvKER5jhL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91nGfkGh7HL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71YSjeRjNmL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81xzjqzCdEL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/71PvQbqjmuL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08BTGY1B8",
+        "title": "6 Pieces Checkered Bottle + Container Set (20-Pieces)",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B08BTGY1B8?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "6 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Container Set (20-Pieces)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/513U73XQuRL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/513U73XQuRL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91LvKER5jhL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91nGfkGh7HL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/817z08bughL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71pxVYvsIdL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/91Tm2viGRKL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B085GQCQ83",
+        "title": "6 Pieces Checkered Bottle + Cooking Spoon",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B085GQCQ83?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "6 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Cooking Spoon"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51-igzQDiJL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51-igzQDiJL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91LvKER5jhL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91nGfkGh7HL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61LYpAxspjL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81v6xjaF07L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/6162a5kU8IL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08PDBVRYQ",
+        "title": "3 Pieces Checkered Bottle + Storage Container",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B08PDBVRYQ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "3 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Storage Container"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51Mw2Q70BPL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51Mw2Q70BPL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91q+Rvk-fFL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91tJlRRBNSL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71WcRM3QWHL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71Y0vW954bL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/81Ka4iJtCIL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B07P94WPV1",
+        "title": "4 Pieces Citrus Bottle",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B07P94WPV1?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "4 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Citrus"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81FhsN94hoL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81FhsN94hoL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71xT1fdD3eL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/919oRVK+muL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/718WzYc26lL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT12",
+            "link": "https://m.media-amazon.com/images/I/31FXvZR-wKL.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08PDD3H2F",
+        "title": "3 Pieces Checkered Bottle + Marvel Small Jar",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B08PDD3H2F?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "3 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Marvel Small Jar"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61-tKRsCf0L._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61-tKRsCf0L._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91q+Rvk-fFL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91tJlRRBNSL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91ZuaHBsvDL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/812kYS5QtfL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/919mr4knibL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B085GQ4NLZ",
+        "title": "3 Pieces Checkered Bottle + Bottle Opener",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B085GQ4NLZ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "3 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Bottle Opener"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51NC1W2LQ6L._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51NC1W2LQ6L._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91q+Rvk-fFL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91tJlRRBNSL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/714IIgeYTqL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/91d3fS2ONgL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/71MgH4fvImL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B085GQ7W2X",
+        "title": "3 Pieces Checkered Bottle + Sauce Pan, 12 cm",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B085GQ7W2X?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "3 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Sauce Pan, 12 cm"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51mByCCONhL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51mByCCONhL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91q+Rvk-fFL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91tJlRRBNSL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/51xyO6ZcwAL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/51J9zpS7BKL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61KuYPj1XYL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B085GPRF7G",
+        "title": "6 Pieces Checkered Bottle + Room Heater",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B085GPRF7G?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "6 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Room Heater"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51bemm5BYJL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51bemm5BYJL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91LvKER5jhL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91nGfkGh7HL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/8156ue8HEXL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71pZ-T1ahyL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/81I7jL7CdZL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B085GQ2SS7",
+        "title": "6 Pieces Checkered Bottle + Sauce Pan",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B085GQ2SS7?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "6 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Sauce Pan"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/5156bPcV-ML._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/5156bPcV-ML._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91LvKER5jhL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91nGfkGh7HL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71MpH3PFFPL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/718ykSZUEKL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/91Vwvpjqq3L._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B085GPY55N",
+        "title": "3 Pieces Checkered Bottle + Knife Set, 3 Pcs",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B085GPY55N?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "3 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Knife Set, 3 Pcs"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51u524atOrL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51u524atOrL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91q+Rvk-fFL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91tJlRRBNSL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71jj-o10m-L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/91wDT0cVJlL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61393OVjZBL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B085GQ49H2",
+        "title": "6 Pieces Checkered Bottle + Airtight Jar",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B085GQ49H2?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "6 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Airtight Jar"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/6124Ta+6IVL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/6124Ta+6IVL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91LvKER5jhL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91nGfkGh7HL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91G2LrArLvL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81yuraMcPXL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/817WvLs5xML._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B085GP17PJ",
+        "title": "6 Pieces Checkered Bottle + Jar",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B085GP17PJ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "6 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Jar"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51FLaMf4JuL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51FLaMf4JuL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91LvKER5jhL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91nGfkGh7HL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/9102qMsTY1L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81Y+oW5tHyL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/81nn20LyjvL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08BTKFDCP",
+        "title": "6 Pieces Checkered Bottle + Rack set (16 pieces)",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B08BTKFDCP?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "6 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Rack set (16 pieces)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/617L0kDSDEL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/617L0kDSDEL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91LvKER5jhL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91nGfkGh7HL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81u0Uo4nQdL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/91Lgi9VVyBL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/71+LJeg1dJL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B085GPHWQS",
+        "title": "3 Pieces Checkered Bottle + Container, Brown",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B085GPHWQS?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "3 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Container, Brown"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51UbKa0LF3L._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51UbKa0LF3L._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91q+Rvk-fFL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91tJlRRBNSL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71u1Dy+7QsL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08BTCCP8Q",
+        "title": "6 Pieces Checkered Bottle + Chopper, 725 ml",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B08BTCCP8Q?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "6 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Chopper, 725 ml"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51F8nB2BqrL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51F8nB2BqrL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91LvKER5jhL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91nGfkGh7HL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/814GgXpBvfL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/910pHGbgHOL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/71eiru6JL9L._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B085GQG8SR",
+        "title": "6 Pieces Checkered Bottle + Container, Blue",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B085GQG8SR?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "6 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Container, Blue"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/511Y+QSZktL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/511Y+QSZktL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91LvKER5jhL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91nGfkGh7HL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71WcRM3QWHL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71Y0vW954bL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/81Ka4iJtCIL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08BTFH8ZX",
+        "title": "6 Pieces Checkered Bottle + Chopping Board",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B08BTFH8ZX?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "6 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Chopping Board"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51Vp9smoHVL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51Vp9smoHVL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91LvKER5jhL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91nGfkGh7HL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91jpReyjRDL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81jTvZFPxNL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/71ZqEoUfl4L._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08BTH7ZM6",
+        "title": "6 Pieces Checkered Bottle + Fridge Organizer Set (4 pcs)",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B08BTH7ZM6?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "6 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Fridge Organizer Set (4 pcs)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51CwZAAGUdL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51CwZAAGUdL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91LvKER5jhL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91nGfkGh7HL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71JiS80ROZL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81x+dsHjTOL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/71ySvw0BEvL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B07P5XM67X",
+        "title": "6 Pieces Geometric Bottle",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B07P5XM67X?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "6 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Geometric"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81fLSi2FOgL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81fLSi2FOgL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/812Y06nyBCL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91Be67j7PHL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81aE3S+wIFL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT12",
+            "link": "https://m.media-amazon.com/images/I/31GPXgYy7-L.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08PDCFLGG",
+        "title": "3 Pieces Checkered Bottle + Plastic Water Bottle Set",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B08PDCFLGG?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "3 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Plastic Water Bottle Set"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61jUWxYzD3L._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61jUWxYzD3L._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91q+Rvk-fFL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91tJlRRBNSL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/919LbYYLuQL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71oPgpTNJ4L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/710FwdPQduL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08PD27H66",
+        "title": "3 Pieces Checkered Bottle + Water Bottle Set",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B08PD27H66?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "3 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Water Bottle Set"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/6152WS8YAiL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/6152WS8YAiL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91q+Rvk-fFL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91tJlRRBNSL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91s6LAAHwjL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81lxcfSX71L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/81Foztjp+NL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B07PC9XM2C",
+        "title": "4 Pieces Geometric Bottle",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B07PC9XM2C?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "4 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Geometric"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/918suVbCWZL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/918suVbCWZL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81-Fu7qyL8L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/915+qVgjvPL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81BLXZ-nKoL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT12",
+            "link": "https://m.media-amazon.com/images/I/31GPXgYy7-L.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B07P5XN4KZ",
+        "title": "6 Pieces Citrus Bottle",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B07P5XN4KZ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "6 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Citrus"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81IQnsicidL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81IQnsicidL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/7167YsPQorL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91CH-FcwuqL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/712hvMoppaL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT12",
+            "link": "https://m.media-amazon.com/images/I/31TMvIzq8nL.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B085GPNZNH",
+        "title": "6 Pieces Checkered Bottle + Container Set, 7.5 Litre",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B085GPNZNH?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "6 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle + Container Set, 7.5 Litre"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51jHDoJ+qzL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51jHDoJ+qzL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91LvKER5jhL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91nGfkGh7HL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71pnt1+3vZL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71u1Dy+7QsL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/81HHIHOmgrL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B07P7ZWQMZ",
+        "title": "6 Pieces Checkered Bottle",
+        "is_current_product": true,
+        "link": "https://www.amazon.in/dp/B07P7ZWQMZ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "6 Pieces"
+          },
+          {
+            "name": "Style name",
+            "value": "Checkered"
+          },
+          {
+            "name": "Pattern name",
+            "value": "Bottle"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/91LvKER5jhL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/91LvKER5jhL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91nGfkGh7HL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/61Bt+QiKNhL._SL1500_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B085GQ5FR2,B085GPY1V5,B085GP4K39,B085GQ2PXS,B085GPTZWH,B08BTKN4WR,B08BTGD9D3,B085GNR34G,B07P94V9NY,B08BTGVYL7,B08BTGY1B8,B085GQCQ83,B08PDBVRYQ,B07P94WPV1,B08PDD3H2F,B085GQ4NLZ,B085GQ7W2X,B085GPRF7G,B085GQ2SS7,B085GPY55N,B085GQ49H2,B085GP17PJ,B08BTKFDCP,B085GPHWQS,B08BTCCP8Q,B085GQG8SR,B08BTFH8ZX,B08BTH7ZM6,B07P5XM67X,B08PDCFLGG,B08PD27H66,B07PC9XM2C,B07P5XN4KZ,B085GPNZNH,B07P7ZWQMZ",
+    "categories": [
+      {
+        "name": "Home & Kitchen",
+        "link": "https://www.amazon.in/Home-Kitchen/b/ref=dp_bc_aui_C_1?ie=UTF8&node=976442031",
+        "category_id": "976442031"
+      },
+      {
+        "name": "Kitchen & Dining",
+        "link": "https://www.amazon.in/Kitchen-Dining-Store/b/ref=dp_bc_aui_C_2?ie=UTF8&node=5925789031",
+        "category_id": "5925789031"
+      },
+      {
+        "name": "Kitchen Storage & Containers",
+        "link": "https://www.amazon.in/Kitchen-Storage-Containers/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1379989031",
+        "category_id": "1379989031"
+      },
+      {
+        "name": "Water Bottles",
+        "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_4?ie=UTF8&node=13956517031",
+        "category_id": "13956517031"
+      }
+    ],
+    "categories_flat": "Home & Kitchen > Kitchen & Dining > Kitchen Storage & Containers > Water Bottles",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "third_party": true
+    },
+    "sub_title": {
+      "text": "Brand: Amazon Brand - Solimo",
+      "link": "https://www.amazon.in/Amazon-Brand-Solimo/b/ref=bl_dp_s_web_10405556031?ie=UTF8&node=10405556031&field-lbr_brands_browse-bin=Amazon+Brand+-+Solimo"
+    },
+    "amazons_choice": {
+      "keywords": "solimo water bottle 1 litre",
+      "link": "https://www.amazon.in/s/ref=choice_dp_b?keywords=solimo%20water%20bottle%201%20litre"
+    },
+    "has_coupon": true,
+    "coupon_text": "Apply 5% coupon.",
+    "rating": 4.4,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 62,
+        "count": 12103
+      },
+      "four_star": {
+        "percentage": 24,
+        "count": 4685
+      },
+      "three_star": {
+        "percentage": 8,
+        "count": 1561
+      },
+      "two_star": {
+        "percentage": 2,
+        "count": 390
+      },
+      "one_star": {
+        "percentage": 4,
+        "count": 780
+      }
+    },
+    "ratings_total": 19521,
+    "reviews_total": 19521,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/91LvKER5jhL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/91LvKER5jhL._SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91nGfkGh7HL._SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61Bt+QiKNhL._SL1500_.jpg",
+        "variant": "PT03"
+      }
+    ],
+    "images_count": 4,
+    "images_flat": "https://m.media-amazon.com/images/I/91LvKER5jhL._SL1500_.jpg,https://m.media-amazon.com/images/I/712xYV28kUL._SL1500_.jpg,https://m.media-amazon.com/images/I/91nGfkGh7HL._SL1500_.jpg,https://m.media-amazon.com/images/I/61Bt+QiKNhL._SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 76,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/da1717b8-9d97-4b81-9aa8-4a7573ed4d21/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/314YA2bJ3JL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Amazon Brand ? Amazon Brand - Solimo Plastic Fridge Bottle Set"
+      },
+      {
+        "duration_seconds": 40,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/d205ed00-eb66-4994-a4fe-7689cc0ffeb3/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51AoxZuU03L.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Solimo Plastic Fridge Bottle Set"
+      }
+    ],
+    "videos_count": 2,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/da1717b8-9d97-4b81-9aa8-4a7573ed4d21/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/d205ed00-eb66-4994-a4fe-7689cc0ffeb3/default.jobtemplate.mp4.480.mp4",
+    "is_bundle": false,
+    "feature_bullets": [
+      "Fit for regular use: with each bottle weighing 106 gms, made of thick material tested thoroughly for the purpose",
+      "Safe storage: as the material used is PET, Grade 1 high-quality food grade plastic which is 100% BPA free",
+      "Colourful appearance: A set of 6 multi-coloured bottles of 1L each",
+      "Firmer grip and attractive design: with a pattern of squared checks on the body",
+      "Ease of use: ensured by smoothly opening lid and neck diameter of 3.2 cm which allows only appropriate quantity of water to come out",
+      "Spill-proof water storage: with snugly fitting lid",
+      "Ideal for storing cold water or water at room temperature. Not meant for storing hot water"
+    ],
+    "feature_bullets_count": 7,
+    "feature_bullets_flat": "Ideal for storing cold water or water at room temperature. Not meant for storing hot water. Spill-proof water storage: with snugly fitting lid. Ease of use: ensured by smoothly opening lid and neck diameter of 3.2 cm which allows only appropriate quantity of water to come out. Firmer grip and attractive design: with a pattern of squared checks on the body. Colourful appearance: A set of 6 multi-coloured bottles of 1L each. Safe storage: as the material used is PET, Grade 1 high-quality food grade plastic which is 100% BPA free. Fit for regular use: with each bottle weighing 106 gms, made of thick material tested thoroughly for the purpose.",
+    "attributes": [
+      {
+        "name": "Material",
+        "value": "Plastic"
+      },
+      {
+        "name": "Brand",
+        "value": "Amazon Brand - Solimo"
+      },
+      {
+        "name": "Capacity",
+        "value": "1 litres"
+      },
+      {
+        "name": "Age Range (Description)",
+        "value": "Adult,Kid"
+      },
+      {
+        "name": "Colour",
+        "value": "White"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "R20DRWBOXZP44A",
+        "title": "Good quality & amazing colours 😍",
+        "body": "Bottles are of good quality plastic maybe the food grade. The colours are vibrant but i feel the absence of green, which is my favourite one. Overall the bottles are good & they deserve the price & also the 5 star rating. Recommend... 👍👍 Thanks Amazon for this accurate time delivery.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Bottles are of good quality plastic maybe the food grade. The colours are vibrant but i feel the absence of green, which is my favourite one. Overall the bottles are good &amp; they deserve the price &amp; also the 5 star rating.<br>Recommend...<br>👍👍 Thanks Amazon for this accurate time delivery.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R20DRWBOXZP44A/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07P7ZWQMZ",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 16 June 2019",
+          "utc": "2019-06-16T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Haraprasad Mishra",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AEAGDHETEJW76NBCCTF24UNBWEPQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEAGDHETEJW76NBCCTF24UNBWEPQ",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/0470a522-cffa-42ff-94c2-9b597e0ee19d._CR0,0,402,402_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 127,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R1R6A2NHWD6601",
+        "title": "A bad purchase through and through",
+        "body": "Really disappointed with this purchase. Bought a set of three and one broke up within two hours of the delivery. Several design flaws,  1. A single ring to seal the cap to the bottle. (Most others have 3-4 layers) 2. Plastic at the bottom could've been reinforced a bit. 3. Stylish, but cumbersome to hold at the bottom. Anybody would logically hold it by the cap or at the neck, both of which are slippery.  So the piece I've mentioned above was damaged precisely for the above three reasons. The bottle basically failed to latch on proper with the cap and fell from about knee height and now has crack at the bottom. Hence useless.  Give the other two at best a month or two before they meet the same fate.  Do a favor to yourself and avoid purchasing these folks. Unusual because most other Solimo products are a class apart quality-wise.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Really disappointed with this purchase. Bought a set of three and one broke up within two hours of the delivery. Several design flaws,<br><br>1. A single ring to seal the cap to the bottle. (Most others have 3-4 layers)<br>2. Plastic at the bottom could've been reinforced a bit.<br>3. Stylish, but cumbersome to hold at the bottom. Anybody would logically hold it by the cap or at the neck, both of which are slippery.<br><br>So the piece I've mentioned above was damaged precisely for the above three reasons. The bottle basically failed to latch on proper with the cap and fell from about knee height and now has crack at the bottom. Hence useless.<br><br>Give the other two at best a month or two before they meet the same fate.<br><br>Do a favor to yourself and avoid purchasing these folks. Unusual because most other Solimo products are a class apart quality-wise.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R1R6A2NHWD6601/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07P7ZWQMZ",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 11 October 2019",
+          "utc": "2019-10-11T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Amazon Customer",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AF2QHSZHG7TFOUWKSUVR3G3TUFJQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AF2QHSZHG7TFOUWKSUVR3G3TUFJQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 104,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "RQ9VMUFFF5PAZ",
+        "title": "Top class",
+        "body": "What a lovely set of bottles. Look and feel is just wow. And the size is ideal for either fridge or simply to be kept on the dining table. The colors are very attractive as well. Very high quality product.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>What a lovely set of bottles. Look and feel is just wow. And the size is ideal for either fridge or simply to be kept on the dining table. The colors are very attractive as well. Very high quality product.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/RQ9VMUFFF5PAZ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07P7ZWQMZ",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 7 June 2019",
+          "utc": "2019-06-07T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Manikantan Narayanan",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AEYOGR5TRGDYPGY4525TF2OI5PXQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEYOGR5TRGDYPGY4525TF2OI5PXQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 95,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R2IC44DYWVBI9L",
+        "title": "Smelling and leaking.",
+        "body": "The main problem is all the Bottles smell after keeping the water for minimum two hours... All the time I have to throw the left over water and wash properly which is very irritating. Second point it's Leaking from cap . one bottle specially the black colour the cap is not leak proofed... thought Amazon brand will be good but no. dissatisfied.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The main problem is all the Bottles smell after keeping the water for minimum two hours... All the time I have to throw the left over water and wash properly which is very irritating. Second point it's Leaking from cap . one bottle specially the black colour the cap is not leak proofed... thought Amazon brand will be good but no. dissatisfied.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2IC44DYWVBI9L/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07P7ZWQMZ",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 19 February 2020",
+          "utc": "2020-02-19T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Amazon Customer",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AFOVEW3OV6Q5SDJHZZHNRE5CINBQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFOVEW3OV6Q5SDJHZZHNRE5CINBQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 18,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R3T8CZ5BTNNYAQ",
+        "title": "Horrible quality",
+        "body": "The media could not be loaded. First when I received the bottle it had scratches all over them, then I placed it for exchange. Second time when I received the bottle the condition was even worse. It had scratches and were smelling awful. It didn’t even had that small package which protects it from smelling bad. Horrible experience!Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\"><div id=\"video-block-R3T8CZ5BTNNYAQ\" class=\"a-section a-spacing-small a-spacing-top-mini video-block\">                                                      <div id=\"review-video-id-R3T8CZ5BTNNYAQ\" class=\"cr-video-desktop cr-video-desktop-placeholder\" data-review-id=\"R3T8CZ5BTNNYAQ\" data-video-url=\"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/2f61cd8b-de92-4775-ad76-85455b956e1d/default.jobtemplate.hls.m3u8\" data-thumbnail-url=\"https://m.media-amazon.com/images/I/516QpVQR9-L._SY256._SY256.jpg\">       <div class=\"cr-media-status-container\">     <span class=\"a-spinner a-spinner-medium cr-media-spinner\"></span>     <span class=\"a-color-inverse cr-media-error-msg\">      The media could not be loaded.     </span>    </div>     </div>            </div><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/2f61cd8b-de92-4775-ad76-85455b956e1d/default.jobtemplate.mp4.480.mp4\" class=\"video-url\"><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/I/516QpVQR9-L._SY256._SY256.jpg\" class=\"video-slate-img-url\">             <span>&nbsp;First when I received the bottle it had scratches all over them, then I placed it for exchange. Second time when I received the bottle the condition was even worse. It had scratches and were smelling awful. It didn’t even had that small package which protects it from smelling bad. Horrible experience!</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R3T8CZ5BTNNYAQ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07P7ZWQMZ",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 12 May 2021",
+          "utc": "2021-05-12T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Akanksha Singh",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AECJHDWX3M4DI2U6XIEIOC6AOAHQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AECJHDWX3M4DI2U6XIEIOC6AOAHQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "videos": [
+          {
+            "video": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/2f61cd8b-de92-4775-ad76-85455b956e1d/default.jobtemplate.mp4.480.mp4",
+            "image": "https://m.media-amazon.com/images/I/516QpVQR9-L._SY256._SY256.jpg"
+          }
+        ],
+        "helpful_votes": 9,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "RT6CUOBXFW830",
+        "title": "\"Worst products Amazon's SALIMO Water Bottle\"",
+        "body": "I never recommend salimo brand plastic water bottle because of Salimo bottles reproduce intolerable odd smell both in bottle & it's cap within 3 days after good washing. I am confused about it's hygiene level regarding human health. Moreover these bottles never produced bad smell during 1st 7 days after receive. It's shameful that Amazon's like brand name used 'Salimo' like products under Amazon Online Shopping....Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I never recommend salimo brand plastic water bottle because of Salimo bottles reproduce intolerable odd smell both in bottle &amp; it's cap within 3 days after good washing. I am confused about it's hygiene level regarding human health. Moreover these bottles never produced bad smell during 1st 7 days after receive. It's shameful that Amazon's like brand name used 'Salimo' like products under Amazon Online Shopping....</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/RT6CUOBXFW830/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07P7ZWQMZ",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 6 January 2022",
+          "utc": "2022-01-06T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "ARUN SURI1",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AEGOGFVEVVWORLOAUYQT3TWPLHIA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEGOGFVEVVWORLOAUYQT3TWPLHIA",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/92792386-56ea-46f9-baa6-fd62eabc87df._CR0,0,400,400_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 5,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R2VC0SYXK7C1LA",
+        "title": "Plastic with good quality|| not handy when used while travelling",
+        "body": "The plastic quality is good and shape, size & colour combination is good for a choice. The product was packaged properly.  There in one problem although...the cap of the bottle is little loose for you to handle from top..there are chances that by mistake if you keep the bottle in bag with little negligence then water will leak from bottle..  It is handy product to use in household only...you have to be very cautious while using it in travelling..if buyed for home use only then go for itRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The plastic quality is good and shape, size &amp; colour combination is good for a choice. The product was packaged properly.<br><br>There in one problem although...the cap of the bottle is little loose for you to handle from top..there are chances that by mistake if you keep the bottle in bag with little negligence then water will leak from bottle..<br><br>It is handy product to use in household only...you have to be very cautious while using it in travelling..if buyed for home use only then go for it</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2VC0SYXK7C1LA/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07P7ZWQMZ",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in India on 16 July 2019",
+          "utc": "2019-07-16T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Rohan Mittal",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AGL36DDLPNSZS66YILDA7EBOHJQA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGL36DDLPNSZS66YILDA7EBOHJQA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 11,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R3I6B47FEYTD3Y",
+        "title": "Superb classy product ....best in market",
+        "body": "The solimo water bottles are so solid and quality item that you will love it at your first site...once u purchase it from amazon home brand you will fallen in love with these bottles ...they are actually value for money , fashionable, durable and Classy❤️❤️❤️ Thanks amazon..keep amazing us by your service.❤️❤️❤️👌🏻👍🏻Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The solimo water bottles are so solid and quality item that you will love it at your first site...once u purchase it from amazon home brand you will fallen in love with these bottles ...they are actually value for money , fashionable, durable and Classy❤️❤️❤️ Thanks amazon..keep amazing us by your service.❤️❤️❤️👌🏻👍🏻</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R3I6B47FEYTD3Y/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07P7ZWQMZ",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 11 March 2020",
+          "utc": "2020-03-11T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Satyendra Tiwari",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AHLWXV6KXVQKKMW6JJHXTID2HUNA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHLWXV6KXVQKKMW6JJHXTID2HUNA",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/157164b1-d129-4fd4-8b6e-b19dad2d90ba._CR0,0,426,426_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 11,
+        "review_country": "in",
+        "is_global_review": false
+      }
+    ],
+    "buybox_winner": {
+      "offer_id": "2ZEXkP3aTsBWLD/d30XNvNEHcsbAFbA3+lqnh3b2JVdMd6erSW0ImGt2+a4An6JhG5MnY/KQsDTn8g2ng4KOLzWg3nqQaAm2h8OYhW990AIYlXhcR9RxTJA0g9HMGKphF420g3sd/H3qosn9lQ+DUgSEghZrv0x5",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In stock.",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "2p",
+        "standard_delivery": {
+          "date": "Thursday, 21 July",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Tomorrow, July 20",
+          "name": "Or fastest delivery Tomorrow, July 20. Order within 4 hrs 7 mins. Details"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "RetailEZ Pvt Ltd",
+          "link": "https://www.amazon.in/sp?marketplaceID=A21TJRUUN4KGV&seller=AXOGFIT0PZZ7G&isAmazonFulfilled=1&ref=dp_merchant_link",
+          "id": "AXOGFIT0PZZ7G"
+        }
+      },
+      "price": {
+        "symbol": "₹",
+        "value": 449,
+        "currency": "INR",
+        "raw": "₹449.00"
+      },
+      "rrp": {
+        "symbol": "₹",
+        "value": 700,
+        "currency": "INR",
+        "raw": "₹700.00"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Manufacturer",
+        "value": "‎Dinewell"
+      },
+      {
+        "name": "Country of Origin",
+        "value": "‎India"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎SOPLA02"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎30 x 8.1 x 30 cm; 643 Grams"
+      },
+      {
+        "name": "ASIN",
+        "value": "‎B07P7ZWQMZ"
+      },
+      {
+        "name": "Style",
+        "value": "‎Checkered"
+      },
+      {
+        "name": "Number of Items",
+        "value": "‎3"
+      },
+      {
+        "name": "Net Quantity",
+        "value": "‎1 U"
+      },
+      {
+        "name": "Item Dimensions LxWxH",
+        "value": "‎30 x 8.1 x 30 Centimeters"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎30W x 30H Centimeters"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "Dinewell, Marketed by : Cloudtail India Private Limited, Ground Floor, Rear Portion, H-9, Block B-1, Mohan Cooperative Industrial Area, Mathura Road, New Delhi-110044 Customer Support Desk :Cloudtail India Pvt Ltd., 6th & 7th Floor, Divyasree Chambers, ‘B’ Wing, #11, O’Shaugnessy Road, Langford Town, Bangalore, Karnataka - 560025. Ph No. : 18004190416 Email ID: cloudtail@blubirch.com"
+      },
+      {
+        "name": "Packer",
+        "value": "Marketed by : Cloudtail India Private Limited, Ground Floor, Rear Portion, H-9, Block B-1, Mohan Cooperative Industrial Area, Mathura Road, New Delhi-110044 Customer Support Desk :Cloudtail India Pvt Ltd., 6th & 7th Floor, Divyasree Chambers, ‘B’ Wing, #11, O’Shaugnessy Road, Langford Town, Bangalore, Karnataka - 560025. Ph No. : 18004190416 Email ID: cloudtail@blubirch.com"
+      },
+      {
+        "name": "Item Weight",
+        "value": "643 g"
+      },
+      {
+        "name": "Item Dimensions LxWxH",
+        "value": "30 x 8.1 x 30 Centimeters"
+      },
+      {
+        "name": "Net Quantity",
+        "value": "1 U"
+      },
+      {
+        "name": "Included Components",
+        "value": "6 pieces plastic bottles"
+      },
+      {
+        "name": "Generic Name",
+        "value": "Plastic water Bottles"
+      },
+      {
+        "name": "Material",
+        "value": "Plastic"
+      },
+      {
+        "name": "Brand",
+        "value": "Amazon Brand - Solimo"
+      },
+      {
+        "name": "Capacity",
+        "value": "1 litres"
+      },
+      {
+        "name": "Age Range (Description)",
+        "value": "Adult,Kid"
+      },
+      {
+        "name": "Colour",
+        "value": "White"
+      }
+    ],
+    "specifications_flat": "Colour: White. Age Range (Description): Adult,Kid. Capacity: 1 litres. Brand: Amazon Brand - Solimo. Material: Plastic. Generic Name: Plastic water Bottles. Included Components: 6 pieces plastic bottles. Net Quantity: 1 U. Item Dimensions LxWxH: 30 x 8.1 x 30 Centimeters. Item Weight: 643 g. Packer: Marketed by : Cloudtail India Private Limited, Ground Floor, Rear Portion, H-9, Block B-1, Mohan Cooperative Industrial Area, Mathura Road, New Delhi-110044 Customer Support Desk :Cloudtail India Pvt Ltd., 6th & 7th Floor, Divyasree Chambers, ‘B’ Wing, #11, O’Shaugnessy Road, Langford Town, Bangalore, Karnataka - 560025. Ph No. : 18004190416 Email ID: cloudtail@blubirch.com. Manufacturer: Dinewell, Marketed by : Cloudtail India Private Limited, Ground Floor, Rear Portion, H-9, Block B-1, Mohan Cooperative Industrial Area, Mathura Road, New Delhi-110044 Customer Support Desk :Cloudtail India Pvt Ltd., 6th & 7th Floor, Divyasree Chambers, ‘B’ Wing, #11, O’Shaugnessy Road, Langford Town, Bangalore, Karnataka - 560025. Ph No. : 18004190416 Email ID: cloudtail@blubirch.com. Product Dimensions: ‎30W x 30H Centimeters. Item Dimensions LxWxH: ‎30 x 8.1 x 30 Centimeters. Net Quantity: ‎1 U. Number of Items: ‎3. Style: ‎Checkered. ASIN: ‎B07P7ZWQMZ. Product Dimensions: ‎30 x 8.1 x 30 cm; 643 Grams. Item model number: ‎SOPLA02. Country of Origin: ‎India. Manufacturer: ‎Dinewell.",
+    "color": "White",
+    "material": "Plastic",
+    "manufacturer": "Dinewell, Marketed by : Cloudtail India Private Limited, Ground Floor, Rear Portion, H-9, Block B-1, Mohan Cooperative Industrial Area, Mathura Road, New Delhi-110044 Customer Support Desk :Cloudtail India Pvt Ltd., 6th & 7th Floor, Divyasree Chambers, ‘B’ Wing, #11, O’Shaugnessy Road, Langford Town, Bangalore, Karnataka - 560025. Ph No. : 18004190416 Email ID: cloudtail@blubirch.com",
+    "weight": "643 g",
+    "dimensions": "‎30W x 30H Centimeters",
+    "model_number": "‎SOPLA02"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "₹",
+      "value": 1397,
+      "currency": "INR",
+      "raw": "₹1,397.00"
+    },
+    "products": [
+      {
+        "asin": "B07P7ZWQMZ",
+        "title": "Amazon Brand ââ‚¬â€œ Solimo Plastic Fridge Bottle Set (3 pieces, 1L, Checkered pattern, Multicolour) & Fridge Organizer Set (4 pieces) Combo",
+        "link": "https://www.amazon.in/dp/B07P7ZWQMZ",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+        "price": {
+          "symbol": "₹",
+          "value": 449,
+          "currency": "INR",
+          "raw": "₹449.00"
+        }
+      },
+      {
+        "asin": "B07PB95QJG",
+        "title": "Amazon Brand - Solimo Plastic Water Bottle, 800ml, 6 Pieces, White",
+        "link": "https://www.amazon.in/dp/B07PB95QJG",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71aEA4YJPJL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 649,
+          "currency": "INR",
+          "raw": "₹649.00"
+        }
+      },
+      {
+        "asin": "B07HCS39QD",
+        "title": "Amazon Brand - Solimo Plastic Water Bottle Set with Flip cap (Set of 3, 975ml, Multicolor)",
+        "link": "https://www.amazon.in/dp/B07HCS39QD",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/91Qv8YhWOPL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 299,
+          "currency": "INR",
+          "raw": "₹299.00"
+        }
+      }
+    ]
+  },
+  "shop_by_look": {
+    "items": [
+      {
+        "position": 1,
+        "asin": "B088XJRDKJ",
+        "link": "https://www.amazon.in/dp/B088XJRDKJ",
+        "title": "Amazon Brand ââ‚¬â€œ Solimo Plastic Fridge Bottle Set (3 pieces, 1L, Checkered pattern, Multicolour) & Fridge Organizer Set (4 pieces) Combo",
+        "image": "https://m.media-amazon.com/images/I/51I1rm11jHL._AC_UL400_.jpg",
+        "rating": 5,
+        "ratings_total": 2,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 538,
+          "currency": "INR",
+          "raw": "₹538.00"
+        }
+      },
+      {
+        "position": 2,
+        "asin": "B07WW7LY66",
+        "link": "https://www.amazon.in/dp/B07WW7LY66",
+        "title": "Sarthak Uphaar Premium PET Water Bottle (1000 ml, Mix) (Mix with Cover)",
+        "image": "https://m.media-amazon.com/images/I/71PsBz2zd3L._AC_UL400_.jpg",
+        "rating": 4,
+        "ratings_total": 10,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 299,
+          "currency": "INR",
+          "raw": "₹299.00"
+        }
+      },
+      {
+        "position": 3,
+        "asin": "B099NPFCLD",
+        "link": "https://www.amazon.in/dp/B099NPFCLD",
+        "title": "JM SELLER Plastic Fridge Water Bottle , Rounded pattern (1 Ltr ,Pack Of 12)(Multicolor)",
+        "image": "https://m.media-amazon.com/images/I/818Pv9jpB4L._AC_UL400_.jpg",
+        "rating": 4,
+        "ratings_total": 16,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 499,
+          "currency": "INR",
+          "raw": "₹499.00"
+        }
+      },
+      {
+        "position": 4,
+        "asin": "B07CRXCDXT",
+        "link": "https://www.amazon.in/dp/B07CRXCDXT",
+        "title": "Aarushi Food Grade Plastic Water Bottles (Multi, 500 ml) - Pack of 6",
+        "image": "https://m.media-amazon.com/images/I/61fDzQTz-NL._AC_UL400_.jpg",
+        "rating": 3,
+        "ratings_total": 4,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 630,
+          "currency": "INR",
+          "raw": "₹630.00"
+        }
+      },
+      {
+        "position": 5,
+        "asin": "B095HZ9MH3",
+        "link": "https://www.amazon.in/dp/B095HZ9MH3",
+        "title": "Exclusive Water Bottles for Fridge School College Office Use Bubble Shape Designer Bottle 1000 ml Set of 6 (Pack 6, Multicolor, Plastic) (6 Bottle)",
+        "image": "https://m.media-amazon.com/images/I/61WoUs4b0WS._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 2,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 379,
+          "currency": "INR",
+          "raw": "₹379.00"
+        }
+      },
+      {
+        "position": 6,
+        "asin": "B09PNW8115",
+        "link": "https://www.amazon.in/dp/B09PNW8115",
+        "title": "VM BOND Fridge Water Bottle Virgin Plastic 100% BPA Free Freezer Safe multi - colors Set of - 6 (Round)",
+        "image": "https://m.media-amazon.com/images/I/81pevu2kbLL._AC_UL400_.jpg",
+        "rating": 3.5,
+        "ratings_total": 20,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 369,
+          "currency": "INR",
+          "raw": "₹369.00"
+        }
+      },
+      {
+        "position": 7,
+        "asin": "B09R4ZXVC6",
+        "link": "https://www.amazon.in/dp/B09R4ZXVC6",
+        "title": "VM BOND Fridge Water Bottle Leak Proof 100% BPA Free Freezer Safe Pack of - 12(multi -colors)",
+        "image": "https://m.media-amazon.com/images/I/91lKy80x4SL._AC_UL400_.jpg",
+        "rating": 3.5,
+        "ratings_total": 2,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 699,
+          "currency": "INR",
+          "raw": "₹699.00"
+        }
+      },
+      {
+        "position": 8,
+        "asin": "B08BSKHXSQ",
+        "link": "https://www.amazon.in/dp/B08BSKHXSQ",
+        "title": "Kuber Industries Plastic 6 Pieces Coral Fridge Water Bottle Set with Lid (1000ml, Purple & Red)-KUBERMART438",
+        "image": "https://m.media-amazon.com/images/I/61I8HGCAF3L._AC_UL400_.jpg",
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 599,
+          "currency": "INR",
+          "raw": "₹599.00"
+        }
+      },
+      {
+        "position": 9,
+        "asin": "B085GPW3N9",
+        "link": "https://www.amazon.in/dp/B085GPW3N9",
+        "title": "Amazon Brand - Solimo Plastic Fridge Bottle Set (3 pieces, 1L, Checkered pattern, Multicolour) & Plastic Storage Container Set, 1 Litre, Set of 3, Multicolour Combo",
+        "image": "https://m.media-amazon.com/images/I/51dBDXH9Y4L._AC_UL400_.jpg",
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 508,
+          "currency": "INR",
+          "raw": "₹508.00"
+        }
+      },
+      {
+        "position": 10,
+        "asin": "B09KM4DMK4",
+        "link": "https://www.amazon.in/dp/B09KM4DMK4",
+        "title": "Plastic Fridge Bottle Set (3 pieces, 1L, Checkered pattern, Multicolour)",
+        "image": "https://m.media-amazon.com/images/I/417Q+KnHQsL._AC_UL400_.jpg",
+        "rating": 4,
+        "ratings_total": 7,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 207,
+          "currency": "INR",
+          "raw": "₹207.00"
+        }
+      },
+      {
+        "position": 11,
+        "asin": "B09XB1WMCW",
+        "link": "https://www.amazon.in/dp/B09XB1WMCW",
+        "title": "Plastic Water Bottles Set For Home Fridge,Office,School,Gym,Sports Set Of 4 Unbreakable And Leak Proof Bottles With Modern Design (BMW)",
+        "image": "https://m.media-amazon.com/images/I/81-mZQX+blL._AC_UL400_.jpg",
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 399,
+          "currency": "INR",
+          "raw": "₹399.00"
+        }
+      },
+      {
+        "position": 12,
+        "asin": "B091TSJH18",
+        "link": "https://www.amazon.in/dp/B091TSJH18",
+        "title": "Jiya Enterprise Plastic Fridge Water Bottle Set ,1000 ml Bottles Checkered Pattern (1L,Multicolor) (Pack Of -8)",
+        "image": "https://m.media-amazon.com/images/I/61dSRM2-hvL._AC_UL400_.jpg",
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 399,
+          "currency": "INR",
+          "raw": "₹399.00"
+        }
+      }
+    ],
+    "title": "Get instant recommendations"
+  },
+  "sponsored_products": [
+    {
+      "title": "Amazon Brand - Solimo Plastic Water Bottle Set (6 pieces, Multicolor, Dotted pattern)",
+      "asin": "B07P94V2ZL",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A0302353G77ZQUP0OBIY&qualifier=1658238776&id=2598242727612748&widgetName=sp_detail&url=%2Fdp%2FB07P94V2ZL%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB07P94V2ZL%26pd_rd_w%3Dler1v%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DTHDX2C91EPZ9JC9DYD9F%26pd_rd_wg%3DGsP5L%26pd_rd_r%3Dbd67f7cb-3b8d-48d6-be91-0426ef720edd%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41EeXDRHGeL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 1970,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 449,
+        "currency": "INR",
+        "raw": "₹449.00"
+      }
+    },
+    {
+      "title": "OINOZ Frosty Plastic Dotted Food Grade Fridge Square Water Bottle Set(3 Pieces, 1L,)",
+      "asin": "B09YKYTBRX",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A09255392LKCJ0ZILN8Y4&qualifier=1658238776&id=2598242727612748&widgetName=sp_detail&url=%2Fdp%2FB09YKYTBRX%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09YKYTBRX%26pd_rd_w%3Dler1v%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DTHDX2C91EPZ9JC9DYD9F%26pd_rd_wg%3DGsP5L%26pd_rd_r%3Dbd67f7cb-3b8d-48d6-be91-0426ef720edd%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/510iD++U6oL._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 5,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 347,
+        "currency": "INR",
+        "raw": "₹347.00"
+      }
+    },
+    {
+      "title": "Amazon Brand - Solimo Plastic Water Bottle, 800ml, 6 Pieces, White",
+      "asin": "B07PB95QJG",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A00295783D5C91EOCX6JX&qualifier=1658238776&id=2598242727612748&widgetName=sp_detail&url=%2Fdp%2FB07PB95QJG%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB07PB95QJG%26pd_rd_w%3Dler1v%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DTHDX2C91EPZ9JC9DYD9F%26pd_rd_wg%3DGsP5L%26pd_rd_r%3Dbd67f7cb-3b8d-48d6-be91-0426ef720edd%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41CWYYPK5SL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 1204,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 649,
+        "currency": "INR",
+        "raw": "₹649.00"
+      }
+    },
+    {
+      "title": "Amazon Brand - Solimo Plastic Water Bottle Set with Flip cap (Set of 6, 975ml, Multicolor)",
+      "asin": "B07HCLLG27",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A0302141I7H75SVGXRKB&qualifier=1658238776&id=2598242727612748&widgetName=sp_detail&url=%2Fdp%2FB07HCLLG27%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB07HCLLG27%26pd_rd_w%3Dler1v%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DTHDX2C91EPZ9JC9DYD9F%26pd_rd_wg%3DGsP5L%26pd_rd_r%3Dbd67f7cb-3b8d-48d6-be91-0426ef720edd%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41kZU7NzZRL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 1362,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 569,
+        "currency": "INR",
+        "raw": "₹569.00"
+      }
+    },
+    {
+      "title": "Amazon Brand - Solimo Fridge Organizer Set (4 pieces)",
+      "asin": "B07P5ZBPGD",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A04424233PL7Z3KXA9PCF&qualifier=1658238776&id=2598242727612748&widgetName=sp_detail&url=%2Fdp%2FB07P5ZBPGD%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB07P5ZBPGD%26pd_rd_w%3Dler1v%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DTHDX2C91EPZ9JC9DYD9F%26pd_rd_wg%3DGsP5L%26pd_rd_r%3Dbd67f7cb-3b8d-48d6-be91-0426ef720edd%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41BNwkJEEmL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 7127,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 299,
+        "currency": "INR",
+        "raw": "₹299.00"
+      }
+    },
+    {
+      "title": "BRAMHANI ENTERPRISE water bottles 1 liter set, bottles for fridge, Transparent, 1000ml (Crystal Diamond Bottle) (2)",
+      "asin": "B09YCC3G54",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A038131232MDIZGCH2L62&qualifier=1658238776&id=2598242727612748&widgetName=sp_detail&url=%2Fdp%2FB09YCC3G54%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB09YCC3G54%26pd_rd_w%3Dler1v%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DTHDX2C91EPZ9JC9DYD9F%26pd_rd_wg%3DGsP5L%26pd_rd_r%3Dbd67f7cb-3b8d-48d6-be91-0426ef720edd%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/51xBZ8G-E1L._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 4,
+      "price": {
+        "symbol": "₹",
+        "value": 249,
+        "currency": "INR",
+        "raw": "₹249.00"
+      }
+    },
+    {
+      "title": "Attro Iceberg Unbreakable PET Fridge Water Bottle Set For Office,Sports,School,Travelling,Gym,Yoga-BPA And Leak Free,Set Of 3,1000 ml,Multicolor (Model Number: ATTRO_ICEBERG_SO3_ASSRTD)",
+      "asin": "B094NTV4PH",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A0207816I6SYPCKVCZ4A&qualifier=1658238776&id=2598242727612748&widgetName=sp_detail&url=%2Fdp%2FB094NTV4PH%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB094NTV4PH%26pd_rd_w%3Dler1v%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DTHDX2C91EPZ9JC9DYD9F%26pd_rd_wg%3DGsP5L%26pd_rd_r%3Dbd67f7cb-3b8d-48d6-be91-0426ef720edd%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41JR30xvOzS._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 45,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 355,
+        "currency": "INR",
+        "raw": "₹355.00"
+      }
+    },
+    {
+      "title": "PEARLPET Plastic Fridge Water Bottle Set of 5 - Multicolor , 500 ml",
+      "asin": "B0B25JJNYH",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A02305703G8Z2F3UTFPWY&qualifier=1658238776&id=2598242727612748&widgetName=sp_detail&url=%2Fdp%2FB0B25JJNYH%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB0B25JJNYH%26pd_rd_w%3Dler1v%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DTHDX2C91EPZ9JC9DYD9F%26pd_rd_wg%3DGsP5L%26pd_rd_r%3Dbd67f7cb-3b8d-48d6-be91-0426ef720edd%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41-N-f3cRUL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 210,
+        "currency": "INR",
+        "raw": "₹210.00"
+      }
+    },
+    {
+      "title": "Amazon Brand - Solimo Plastic Water Bottle Set with Flip Cap (Set of 6, 1 Liters, Circular Pattern,Multicolor)",
+      "asin": "B07HCJJKTY",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A092964833JKJ0OZBHN3L&qualifier=1658238776&id=2598242727612748&widgetName=sp_detail&url=%2Fdp%2FB07HCJJKTY%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB07HCJJKTY%26pd_rd_w%3Dler1v%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DTHDX2C91EPZ9JC9DYD9F%26pd_rd_wg%3DGsP5L%26pd_rd_r%3Dbd67f7cb-3b8d-48d6-be91-0426ef720edd%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/412CZ0xvefL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 1070,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 569,
+        "currency": "INR",
+        "raw": "₹569.00"
+      }
+    },
+    {
+      "title": "Amazon Brand - Solimo Plastic Container Set With Metal Finish Lids- 20 pieces, Silver",
+      "asin": "B07HCLLQ2C",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A09441723GR93HEA7ZKSN&qualifier=1658238776&id=2598242727612748&widgetName=sp_detail&url=%2Fdp%2FB07HCLLQ2C%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB07HCLLQ2C%26pd_rd_w%3Dler1v%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DTHDX2C91EPZ9JC9DYD9F%26pd_rd_wg%3DGsP5L%26pd_rd_r%3Dbd67f7cb-3b8d-48d6-be91-0426ef720edd%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41POrMVUaTL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 13569,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1449,
+        "currency": "INR",
+        "raw": "₹1,449.00"
+      }
+    },
+    {
+      "title": "Amazon Brand - Solimo Plastic Water Bottle Set (6 pieces, Multicolor, Dotted pattern)",
+      "asin": "B07P94V2ZL",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A0302353G77ZQUP0OBIY&qualifier=1658238776&id=8937760090940734&widgetName=sp_detail2&url=%2Fdp%2FB07P94V2ZL%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB07P94V2ZL%26pd_rd_w%3DfqomK%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DTHDX2C91EPZ9JC9DYD9F%26pd_rd_wg%3DGsP5L%26pd_rd_r%3Dbd67f7cb-3b8d-48d6-be91-0426ef720edd%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41EeXDRHGeL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 1970,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 449,
+        "currency": "INR",
+        "raw": "₹449.00"
+      }
+    },
+    {
+      "title": "Amazon Brand - Solimo Fridge Organizer Set (4 pieces)",
+      "asin": "B07P5ZBPGD",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A04424233PL7Z3KXA9PCF&qualifier=1658238776&id=8937760090940734&widgetName=sp_detail2&url=%2Fdp%2FB07P5ZBPGD%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB07P5ZBPGD%26pd_rd_w%3DfqomK%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DTHDX2C91EPZ9JC9DYD9F%26pd_rd_wg%3DGsP5L%26pd_rd_r%3Dbd67f7cb-3b8d-48d6-be91-0426ef720edd%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41BNwkJEEmL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 7127,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 299,
+        "currency": "INR",
+        "raw": "₹299.00"
+      }
+    },
+    {
+      "title": "OINOZ Frosty Plastic Dotted Food Grade Fridge Square Water Bottle Set(3 Pieces, 1L,)",
+      "asin": "B09YKYTBRX",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A09255392LKCJ0ZILN8Y4&qualifier=1658238776&id=8937760090940734&widgetName=sp_detail2&url=%2Fdp%2FB09YKYTBRX%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB09YKYTBRX%26pd_rd_w%3DfqomK%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DTHDX2C91EPZ9JC9DYD9F%26pd_rd_wg%3DGsP5L%26pd_rd_r%3Dbd67f7cb-3b8d-48d6-be91-0426ef720edd%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/510iD++U6oL._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 5,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 347,
+        "currency": "INR",
+        "raw": "₹347.00"
+      }
+    },
+    {
+      "title": "Amazon Brand - Solimo Plastic Water Bottle Set with Flip cap (Set of 6, 975ml, Multicolor)",
+      "asin": "B07HCLLG27",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A0302141I7H75SVGXRKB&qualifier=1658238776&id=8937760090940734&widgetName=sp_detail2&url=%2Fdp%2FB07HCLLG27%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB07HCLLG27%26pd_rd_w%3DfqomK%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DTHDX2C91EPZ9JC9DYD9F%26pd_rd_wg%3DGsP5L%26pd_rd_r%3Dbd67f7cb-3b8d-48d6-be91-0426ef720edd%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41kZU7NzZRL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 1362,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 569,
+        "currency": "INR",
+        "raw": "₹569.00"
+      }
+    },
+    {
+      "title": "Amazon Brand - Solimo Plastic Water Bottle, 800ml, 6 Pieces, White",
+      "asin": "B07PB95QJG",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A00295783D5C91EOCX6JX&qualifier=1658238776&id=8937760090940734&widgetName=sp_detail2&url=%2Fdp%2FB07PB95QJG%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB07PB95QJG%26pd_rd_w%3DfqomK%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DTHDX2C91EPZ9JC9DYD9F%26pd_rd_wg%3DGsP5L%26pd_rd_r%3Dbd67f7cb-3b8d-48d6-be91-0426ef720edd%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41CWYYPK5SL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 1204,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 649,
+        "currency": "INR",
+        "raw": "₹649.00"
+      }
+    },
+    {
+      "title": "BRAMHANI ENTERPRISE water bottles 1 liter set, bottles for fridge, Transparent, 1000ml (Crystal Diamond Bottle) (2)",
+      "asin": "B09YCC3G54",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A038131232MDIZGCH2L62&qualifier=1658238776&id=8937760090940734&widgetName=sp_detail2&url=%2Fdp%2FB09YCC3G54%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB09YCC3G54%26pd_rd_w%3DfqomK%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DTHDX2C91EPZ9JC9DYD9F%26pd_rd_wg%3DGsP5L%26pd_rd_r%3Dbd67f7cb-3b8d-48d6-be91-0426ef720edd%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51xBZ8G-E1L._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 4,
+      "price": {
+        "symbol": "₹",
+        "value": 249,
+        "currency": "INR",
+        "raw": "₹249.00"
+      }
+    },
+    {
+      "title": "SHAYONAM (PACK OF 4) Food Storage Container, Fridge Organizer Case With Removable Drain Plate Stackable Freezer Storage Containers Keep Fresh For Storing Fish, Meat, Vegetables (1500ML) (PACK OF 4)",
+      "asin": "B09NQDQQ55",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A01096203PLM4L6KOH577&qualifier=1658238776&id=8937760090940734&widgetName=sp_detail2&url=%2Fdp%2FB09NQDQQ55%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB09NQDQQ55%26pd_rd_w%3DfqomK%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DTHDX2C91EPZ9JC9DYD9F%26pd_rd_wg%3DGsP5L%26pd_rd_r%3Dbd67f7cb-3b8d-48d6-be91-0426ef720edd%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51JuLLYQFeL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 652,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 499,
+        "currency": "INR",
+        "raw": "₹499.00"
+      }
+    },
+    {
+      "title": "L’Oréal Professionnel Vitamino Color Hair Mask with Resveratrol for Color-treated Hair, Serie Expert, 250gm",
+      "asin": "B0744HVYWK",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A03726121KQXZHYWCSSS&qualifier=1658238776&id=8937760090940734&widgetName=sp_detail2&url=%2Fdp%2FB0744HVYWK%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB0744HVYWK%26pd_rd_w%3DfqomK%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DTHDX2C91EPZ9JC9DYD9F%26pd_rd_wg%3DGsP5L%26pd_rd_r%3Dbd67f7cb-3b8d-48d6-be91-0426ef720edd%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31EPjAtTYkL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 771,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 860,
+        "currency": "INR",
+        "raw": "₹860.00"
+      }
+    },
+    {
+      "title": "Kuber Industries Plastic Water Bottles -1 Litre Water Bottle (Set of 6), Pearl White | Break Proof, Multipurpose, BPA Free, Ideal for Fridge/ Refrigerator.",
+      "asin": "B09YXQ6XGT",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A01184441USGUOBU41LXZ&qualifier=1658238776&id=8937760090940734&widgetName=sp_detail2&url=%2Fdp%2FB09YXQ6XGT%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB09YXQ6XGT%26pd_rd_w%3DfqomK%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DTHDX2C91EPZ9JC9DYD9F%26pd_rd_wg%3DGsP5L%26pd_rd_r%3Dbd67f7cb-3b8d-48d6-be91-0426ef720edd%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/417xd9A3jhL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 11,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 569,
+        "currency": "INR",
+        "raw": "₹569.00"
+      }
+    },
+    {
+      "title": "Kuber Industries Plastic Water Bottles -1 Litre Water Bottle (Set of 6), Sea Green | Break Proof, Multipurpose, BPA Free, Ideal for Fridge/ Refrigerator.",
+      "asin": "B09YXSKX3J",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A00787012W2AGMHOFTQVB&qualifier=1658238776&id=8937760090940734&widgetName=sp_detail2&url=%2Fdp%2FB09YXSKX3J%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB09YXSKX3J%26pd_rd_w%3DfqomK%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DTHDX2C91EPZ9JC9DYD9F%26pd_rd_wg%3DGsP5L%26pd_rd_r%3Dbd67f7cb-3b8d-48d6-be91-0426ef720edd%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41PnrcSJLLL._AC_SR160,160_.jpg",
+      "rating": 5,
+      "ratings_total": 1,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 569,
+        "currency": "INR",
+        "raw": "₹569.00"
+      }
+    }
+  ]
+}
