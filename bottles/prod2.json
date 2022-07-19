@@ -1,0 +1,1553 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14,
+    "credits_remaining": 86,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.in",
+    "asin": "B079R9W1B6",
+    "type": "product"
+  },
+  "request_metadata": {
+    "created_at": "2022-07-19T13:49:46.152Z",
+    "processed_at": "2022-07-19T13:49:51.090Z",
+    "total_time_taken": 4.94,
+    "amazon_url": "https://www.amazon.in/dp/B079R9W1B6?th=1&psc=1"
+  },
+  "product": {
+    "title": "Milton Aqua 1000 Stainless Steel Water Bottle, 1 pc, 950 ml, Silver",
+    "search_alias": {
+      "title": "Home & Kitchen",
+      "value": "kitchen"
+    },
+    "keywords": "Milton,Aqua,1000,Stainless,Steel,Water,Bottle,,1,pc,,950,ml,,Silver",
+    "keywords_list": [
+      "Milton",
+      "Aqua",
+      "1000",
+      "Stainless",
+      "Steel",
+      "Water",
+      "Bottle",
+      "Silver"
+    ],
+    "asin": "B079R9W1B6",
+    "parent_asin": "B09WTZ24YY",
+    "link": "https://www.amazon.in/Milton-Aqua-1000-Stainless-Bottle-Silver/dp/B079R9W1B6",
+    "brand": "MILTON",
+    "sell_on_amazon": true,
+    "bestseller_badge": {
+      "link": "https://www.amazon.in/gp/bestsellers/kitchen/13956517031/ref=zg_b_bs_13956517031_1",
+      "category": "Water Bottles",
+      "badge_text": "#1 Best Seller"
+    },
+    "variants": [
+      {
+        "asin": "B09DDGSTN6",
+        "title": "Aqua 1000, 6 Pc",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09DDGSTN6?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Pattern name",
+            "value": "Aqua 1000, 6 Pc"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71Upg7lkjSL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71Upg7lkjSL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/715RlnBB+aL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81nTGH758qL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81anwNSPdAL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71T4gNGPkmL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/61ONTB+nkyL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61H2i91afKL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09DDDRRFV",
+        "title": "Aqua 1000, 4 Pc",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09DDDRRFV?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Pattern name",
+            "value": "Aqua 1000, 4 Pc"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71ygUH-PSoL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71ygUH-PSoL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/715RlnBB+aL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81nTGH758qL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81anwNSPdAL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71T4gNGPkmL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/61ONTB+nkyL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/610e8-CcecL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09DDF6KHP",
+        "title": "Aqua 750, 6 Pc",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09DDF6KHP?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Pattern name",
+            "value": "Aqua 750, 6 Pc"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71UIw3THCfL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71UIw3THCfL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71i6-TjioTL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81pPjF+jynL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81I5Yoxy6+L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71IV8xFg-OL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71AFkvHXZTL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61crvPZioeL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B07CVWQS7M",
+        "title": "Aqua 750, 3 Pc",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B07CVWQS7M?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Pattern name",
+            "value": "Aqua 750, 3 Pc"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/717fn3DssDL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/717fn3DssDL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81pPjF+jynL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71IhA5wn3qL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81I5Yoxy6+L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71F43bMPXKL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71AFkvHXZTL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/71z+ASlABkL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B079R9W1B6",
+        "title": "Bottle",
+        "is_current_product": true,
+        "link": "https://www.amazon.in/dp/B079R9W1B6?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Pattern name",
+            "value": "Bottle"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61X1b09mK0L._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61X1b09mK0L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81nTGH758qL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71-qM9CUcWL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81anwNSPdAL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71F43bMPXKL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71AFkvHXZTL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/71Jvj29NisL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B07CVYN944",
+        "title": "Aqua 750, 2 Pc",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B07CVYN944?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Pattern name",
+            "value": "Aqua 750, 2 Pc"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71Ir+f8IA2L._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71Ir+f8IA2L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81pPjF+jynL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71IhA5wn3qL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81I5Yoxy6+L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71F43bMPXKL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71AFkvHXZTL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/71z+ASlABkL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09DDF4QZC",
+        "title": "Aqua 1000, 5 Pc",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09DDF4QZC?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Pattern name",
+            "value": "Aqua 1000, 5 Pc"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71Jm8AV4iiL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71Jm8AV4iiL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/715RlnBB+aL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81nTGH758qL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81anwNSPdAL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71T4gNGPkmL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/61ONTB+nkyL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/613CAw7XuaL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0829D4KYR",
+        "title": "Aqua 500, 1 Pc",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B0829D4KYR?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Pattern name",
+            "value": "Aqua 500, 1 Pc"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61d2S24-TFL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61d2S24-TFL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81pPjF+jynL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71IhA5wn3qL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81I5Yoxy6+L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71F43bMPXKL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71AFkvHXZTL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/71g9VMspMBL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B092SX55F4",
+        "title": "Aqua 750, 1 Pc",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B092SX55F4?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Pattern name",
+            "value": "Aqua 750, 1 Pc"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61d2S24-TFL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61d2S24-TFL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81pPjF+jynL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71IhA5wn3qL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81I5Yoxy6+L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71F43bMPXKL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71AFkvHXZTL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/71z+ASlABkL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09DDBWBM9",
+        "title": "Aqua 750, 5 Pc",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09DDBWBM9?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Pattern name",
+            "value": "Aqua 750, 5 Pc"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/7182toTgC0L._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/7182toTgC0L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71i6-TjioTL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81pPjF+jynL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81I5Yoxy6+L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71fRIYfvraL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71AFkvHXZTL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61pBpuTw77L._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B07CVZ8G7T",
+        "title": "Aqua 1000, 3 Pc",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B07CVZ8G7T?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Pattern name",
+            "value": "Aqua 1000, 3 Pc"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71miJj-txUL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71miJj-txUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81nTGH758qL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/715RlnBB+aL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81anwNSPdAL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71T4gNGPkmL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/61ONTB+nkyL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61A5M-EMpwL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09DDDBKFN",
+        "title": "Aqua 750, 4 Pc",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09DDDBKFN?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Pattern name",
+            "value": "Aqua 750, 4 Pc"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71YRfMXh9NL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71YRfMXh9NL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71i6-TjioTL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81pPjF+jynL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81I5Yoxy6+L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71fRIYfvraL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71AFkvHXZTL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61EfSz0ZB7L._SL1500_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B09DDGSTN6,B09DDDRRFV,B09DDF6KHP,B07CVWQS7M,B079R9W1B6,B07CVYN944,B09DDF4QZC,B0829D4KYR,B092SX55F4,B09DDBWBM9,B07CVZ8G7T,B09DDDBKFN",
+    "documents": [
+      {
+        "name": "User Manual (PDF)",
+        "link": "https://m.media-amazon.com/images/I/81NErWGMuPS.pdf"
+      }
+    ],
+    "categories": [
+      {
+        "name": "Home & Kitchen",
+        "link": "https://www.amazon.in/Home-Kitchen/b/ref=dp_bc_aui_C_1?ie=UTF8&node=976442031",
+        "category_id": "976442031"
+      },
+      {
+        "name": "Kitchen & Dining",
+        "link": "https://www.amazon.in/Kitchen-Dining-Store/b/ref=dp_bc_aui_C_2?ie=UTF8&node=5925789031",
+        "category_id": "5925789031"
+      },
+      {
+        "name": "Kitchen Storage & Containers",
+        "link": "https://www.amazon.in/Kitchen-Storage-Containers/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1379989031",
+        "category_id": "1379989031"
+      },
+      {
+        "name": "Water Bottles",
+        "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_4?ie=UTF8&node=13956517031",
+        "category_id": "13956517031"
+      }
+    ],
+    "categories_flat": "Home & Kitchen > Kitchen & Dining > Kitchen Storage & Containers > Water Bottles",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "title": "MILTON Aqua Stainless Steel Water Bottle"
+      },
+      "third_party": true
+    },
+    "sub_title": {
+      "text": "Visit the MILTON Store",
+      "link": "https://www.amazon.in/stores/MILTON/page/75EA6387-D085-4B32-BA5E-FFF84F7E1D94?ref_=ast_bln"
+    },
+    "rating": 4,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 49,
+        "count": 13068
+      },
+      "four_star": {
+        "percentage": 24,
+        "count": 6401
+      },
+      "three_star": {
+        "percentage": 11,
+        "count": 2933
+      },
+      "two_star": {
+        "percentage": 5,
+        "count": 1333
+      },
+      "one_star": {
+        "percentage": 11,
+        "count": 2933
+      }
+    },
+    "ratings_total": 26671,
+    "reviews_total": 26671,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/61X1b09mK0L.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/61X1b09mK0L._SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81nTGH758qL._SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71-qM9CUcWL._SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81anwNSPdAL._SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71F43bMPXKL._SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71AFkvHXZTL._SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71Jvj29NisL._SL1500_.jpg",
+        "variant": "PT06"
+      }
+    ],
+    "images_count": 7,
+    "images_flat": "https://m.media-amazon.com/images/I/61X1b09mK0L._SL1500_.jpg,https://m.media-amazon.com/images/I/81nTGH758qL._SL1500_.jpg,https://m.media-amazon.com/images/I/71-qM9CUcWL._SL1500_.jpg,https://m.media-amazon.com/images/I/81anwNSPdAL._SL1500_.jpg,https://m.media-amazon.com/images/I/71F43bMPXKL._SL1500_.jpg,https://m.media-amazon.com/images/I/71AFkvHXZTL._SL1500_.jpg,https://m.media-amazon.com/images/I/71Jvj29NisL._SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 71,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/d6316632-e5d2-4b9b-97d6-d1fb96066454/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/31sfl1QBMvL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Milton Aqua 1000 Stainless Steel Water Bottle"
+      },
+      {
+        "duration_seconds": 75,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/8be305c1-1368-464d-a7da-5a09a28ff2bd/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/31ZhK86rpiL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Milton Aqua 1000 Stainless Steel Water Bottle"
+      },
+      {
+        "duration_seconds": 108,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/a9828216-f0ea-48c5-90df-e0bd37bf1819/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/91w6y3rlt3L.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Milton Water Bottle"
+      },
+      {
+        "duration_seconds": 35,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/94c7541f-2c07-458d-a164-fe16be9e223d/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/514Mc4bEjkL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Milton Aqua 1000 Stainless Steel Water Bottle"
+      }
+    ],
+    "videos_count": 4,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/d6316632-e5d2-4b9b-97d6-d1fb96066454/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/8be305c1-1368-464d-a7da-5a09a28ff2bd/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/a9828216-f0ea-48c5-90df-e0bd37bf1819/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/94c7541f-2c07-458d-a164-fe16be9e223d/default.jobtemplate.mp4.480.mp4",
+    "is_bundle": false,
+    "feature_bullets": [
+      "Single wall fridge bottle with inside outside stainless steel made of grade 304, which is rust free",
+      "Convenient size fits in the side pocket of bags which you can carry for school, trekking or office, car bottle holder etc",
+      "This bottle is easy to clean and maintain, Use a mild detergent or dish wash liquid and clean on the inside with a bottle brush",
+      "This Bottle is unique in shape, it has leak proof technology, which make this product easy to carry at school, travelling and work, it is Odour Free and 100 percent Food Grade",
+      "The taste and nutritive value of the drinks remains intact. Making the bottle very appropriate choice for storing beverages"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "The taste and nutritive value of the drinks remains intact. Making the bottle very appropriate choice for storing beverages. This Bottle is unique in shape, it has leak proof technology, which make this product easy to carry at school, travelling and work, it is Odour Free and 100 percent Food Grade. This bottle is easy to clean and maintain, Use a mild detergent or dish wash liquid and clean on the inside with a bottle brush. Convenient size fits in the side pocket of bags which you can carry for school, trekking or office, car bottle holder etc. Single wall fridge bottle with inside outside stainless steel made of grade 304, which is rust free.",
+    "attributes": [
+      {
+        "name": "Material",
+        "value": "Stainless Steel"
+      },
+      {
+        "name": "Brand",
+        "value": "MILTON"
+      },
+      {
+        "name": "Capacity",
+        "value": "930 Milliliters"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Freezer Safe, Insulated"
+      },
+      {
+        "name": "Colour",
+        "value": "Silver"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "R397QEI2DV9RD1",
+        "title": "18/8 stainless steel is not magnetic. This bottle is !",
+        "body": "You can google the properties of 18-8 stainless steel and you'll find that this kind of steel is not magnetic. But magnets easily still to this bottle ( look at the picture I posted).  In other words we are being fooled. A lower grade steel is being sold to us, hoping that Indian customers are too stupid and gullible to fall for this.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>You can google the properties of 18-8 stainless steel and you'll find that this kind of steel is not magnetic. But magnets easily still to this bottle ( look at the picture I posted).<br><br>In other words we are being fooled. A lower grade steel is being sold to us, hoping that Indian customers are too stupid and gullible to fall for this.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R397QEI2DV9RD1/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B079R9W1B6",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 17 May 2018",
+          "utc": "2018-05-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Amazon Customer",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AGGKBNXKVF3DALNMSEF2DWDNCLVQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGGKBNXKVF3DALNMSEF2DWDNCLVQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 1976,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R16Y2JUFX8BUNG",
+        "title": "Wanted to return bad steel",
+        "body": "Wanted to return this product, but I thrown the outer pacing box of bottle. it is not good steel, magnets are sticking, I'm shocked to see that even the old thermo bottle which I had from 15 years also bad steel, not expected this from reputed company like miltonRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Wanted to return this product, but I thrown the outer pacing box of bottle. it is not good steel, magnets are sticking, I'm shocked to see that even the old thermo bottle which I had from 15 years also bad steel, not expected this from reputed company like milton</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R16Y2JUFX8BUNG/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B079R9W1B6",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 22 September 2018",
+          "utc": "2018-09-22T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "bingo8055",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AEAJAUHNRABJYFSLGD5BYANRSDXQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEAJAUHNRABJYFSLGD5BYANRSDXQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 523,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R2ZCS0Z7GXAAP9",
+        "title": "Metallic smells",
+        "body": "I'm getting metallic smells whenever I open the bottle with filled water.. not able to drink . Purchased the product only for brand name Milton. But not good at all.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I'm getting metallic smells whenever I open the bottle with filled water.. not able to drink . Purchased the product only for brand name Milton. But not good at all.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2ZCS0Z7GXAAP9/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B079R9W1B6",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 3 September 2018",
+          "utc": "2018-09-03T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Sumanta",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AHVAOEAL7HL6KS6SGCTDZTROJJUQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHVAOEAL7HL6KS6SGCTDZTROJJUQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 505,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R3FSAEMXIRED42",
+        "title": "Magnetism is not how you test the chemical composition of steel!",
+        "body": "This is a good steel bottle, and a good alternative to plastic bottles. The body of the bottle is made of a rather thin sheet of metal and the build could have been sturdier. The body as well as the lid are made of steel. The lid seems to have some plastic on the insIde, I would have preferred it to be all steel with silicone. The lid in particular is important in a bottle as there are studies which show that bottles with plastic lids can lead to small particles of plastic brushing down the bottle when you open and close the lid.  The package and the website mention the steel to be 18/8 composition. A few reviewers have noted that the bottle is magnetic. It is a myth that 18/8 steel cannot be magnetic when in fact it is very common for 18/8 steel to become magnetic on cold working. Magnetism is not the proper way to test for steel composition. Somehow I doubt that a company like Milton would make a false claim in this regard (as they can be sued, right?). Someone should get the bottle tested for its material composition and the presence of harmful elements like lead.  Iron as it exists in nature exhibits magnetic properties. However in some forms of steel, the iron atoms are arranged in such an alternating way that they cancel out each other's magnetism. Hence the net magnetism turns out to be zero. 18-8 is one such steel which is normally non-magnetic. However, when you cold work this type of steel (physically deform it in some way, bend it, etc.) the structure partially changes to a different one where the iron atoms are not located so as to be able to completely cancel out each other's magnetism, leading to partial magnetism in the steel. This is probably what is happening with this bottle. The chemical composition however remains the same since you or only changing the physical structure, so the steel is still 18-8 but has become partially magnetic. Unless the magnetism poses a problem, this is not an issue (why should it be?). Technically speaking, 18-8 is an austenitic steel which is non-magnetic, but on cold working some of it transforms to martensitic steel which is magnetic.  Will all 18-8 steels become magnetic on cold forming? No, the process partially depends on the amount of carbon in the steel. Steels with lower carbon content would probably not get magnetised as much. The magnetism can also be removed after the cold work by heating the steel to a fairly high temperature to remove the internal stresses and bring the stucture back to austenitic where the iron atoms cancel out each others' magnetism.  I have bottles from the US - from a brand called Klean Kanteen which is fairly well-reputed, and unsurprisingly they are magnetic too while claiming to be 18-8 or 304 steel. The reason being the same - cold working makes 18-8 steel partially magnetic.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This is a good steel bottle, and a good alternative to plastic bottles. The body of the bottle is made of a rather thin sheet of metal and the build could have been sturdier. The body as well as the lid are made of steel. The lid seems to have some plastic on the insIde, I would have preferred it to be all steel with silicone. The lid in particular is important in a bottle as there are studies which show that bottles with plastic lids can lead to small particles of plastic brushing down the bottle when you open and close the lid.<br><br>The package and the website mention the steel to be 18/8 composition. A few reviewers have noted that the bottle is magnetic. It is a myth that 18/8 steel cannot be magnetic when in fact it is very common for 18/8 steel to become magnetic on cold working. Magnetism is not the proper way to test for steel composition. Somehow I doubt that a company like Milton would make a false claim in this regard (as they can be sued, right?). Someone should get the bottle tested for its material composition and the presence of harmful elements like lead.<br><br>Iron as it exists in nature exhibits magnetic properties. However in some forms of steel, the iron atoms are arranged in such an alternating way that they cancel out each other's magnetism. Hence the net magnetism turns out to be zero. 18-8 is one such steel which is normally non-magnetic. However, when you cold work this type of steel (physically deform it in some way, bend it, etc.) the structure partially changes to a different one where the iron atoms are not located so as to be able to completely cancel out each other's magnetism, leading to partial magnetism in the steel. This is probably what is happening with this bottle. The chemical composition however remains the same since you or only changing the physical structure, so the steel is still 18-8 but has become partially magnetic. Unless the magnetism poses a problem, this is not an issue (why should it be?). Technically speaking, 18-8 is an austenitic steel which is non-magnetic, but on cold working some of it transforms to martensitic steel which is magnetic.<br><br>Will all 18-8 steels become magnetic on cold forming? No, the process partially depends on the amount of carbon in the steel. Steels with lower carbon content would probably not get magnetised as much. The magnetism can also be removed after the cold work by heating the steel to a fairly high temperature to remove the internal stresses and bring the stucture back to austenitic where the iron atoms cancel out each others' magnetism.<br><br>I have bottles from the US - from a brand called Klean Kanteen which is fairly well-reputed, and unsurprisingly they are magnetic too while claiming to be 18-8 or 304 steel. The reason being the same - cold working makes 18-8 steel partially magnetic.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R3FSAEMXIRED42/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B079R9W1B6",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in India on 13 May 2019",
+          "utc": "2019-05-13T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jitin",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AE5SVWH5MWUEMSJBBEEOZV7XYVWA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AE5SVWH5MWUEMSJBBEEOZV7XYVWA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 242,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R2AW4XK0KSWZ57",
+        "title": "Mismatch in the photo and the actual product; Milton logo is different",
+        "body": "1. The word Unisteel is stickered on actual product instead of paint/ etching. In the photograph attached difference can be seen. 2. Logo is different. There are no curvy arrows on top and bottom of \"O\" in MILTON.  For this reason I doubt if this is original product ?Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>1. The word Unisteel is stickered on actual product instead of paint/ etching. In the photograph attached difference can be seen.<br>2. Logo is different. There are no curvy arrows on top and bottom of \"O\" in MILTON.<br><br>For this reason I doubt if this is original product ?</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2AW4XK0KSWZ57/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B079R9W1B6",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 22 April 2019",
+          "utc": "2019-04-22T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Kiran",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AEHJXD6U6OMGTK7L3INQEI7LN5LA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEHJXD6U6OMGTK7L3INQEI7LN5LA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 219,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R2KA7VW82UYSYH",
+        "title": "FAKE Product... Its NOT MILTON...!!!",
+        "body": "A fake product is packed in a real Milton box! The logo is not as shown in the image. The real MILTON logo has a Saturn like ring. On this bottle 'UNISTEEL' is written on a sticker!! And the material is not steel!! It may rust... So I planned to return.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>A fake product is packed in a real Milton box! The logo is not as shown in the image. The real MILTON logo has a Saturn like ring. On this bottle 'UNISTEEL' is written on a sticker!! And the material is not steel!! It may rust... So I planned to return.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2KA7VW82UYSYH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B079R9W1B6",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 30 April 2019",
+          "utc": "2019-04-30T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Greeshma KM",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AF47ICF2GEWEVXNLBYA7UKZRM3WQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AF47ICF2GEWEVXNLBYA7UKZRM3WQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 97,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R7HLHIV0NS5WC",
+        "title": "Not robust. Not recommended.",
+        "body": "Quality is not robust at all. It got dents after 1-2 falls from 3-4 feet and it started leakaging too much. The print (logo & model name) on the bottle started fading after 15 days. No update from customer care even after 20+ days.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Quality is not robust at all. It got dents after 1-2 falls from 3-4 feet and it started leakaging too much. The print (logo &amp; model name) on the bottle started fading after 15 days. No update from customer care even after 20+ days.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R7HLHIV0NS5WC/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B079R9W1B6",
+        "rating": 2,
+        "date": {
+          "raw": "Reviewed in India on 24 October 2018",
+          "utc": "2018-10-24T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Sanchit",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AFXCTFPZRIN4V567KQXHJM3XEUZQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFXCTFPZRIN4V567KQXHJM3XEUZQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 54,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R8QNOUAV9EKXF",
+        "title": "Product very delicate",
+        "body": "Not so strong within a month position as above.i didnt expect this from miltonas it was a brand I bought flasks and so many things but this time greatly disappointedRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Not so strong within a month position as above.i didnt expect this from miltonas it was a brand I bought flasks and so many things but this time greatly disappointed</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R8QNOUAV9EKXF/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B079R9W1B6",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 15 October 2018",
+          "utc": "2018-10-15T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Amazon Customer",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AFDTOI6CRXGGVSTTEFTCCQP7C52A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFDTOI6CRXGGVSTTEFTCCQP7C52A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 56,
+        "review_country": "in",
+        "is_global_review": false
+      }
+    ],
+    "buybox_winner": {
+      "offer_id": "l0rlFWG5AVSuno0LDueVq1MydPgE2XAfCqZ90v/xUMODdiktTQBU3VgsPLpz2/8WN9HIvzQI3vu8YwoV+VIlQvflGT/OMylBnaLJs/qH3vubeRdszEqecguBfJaHUZLbAqqKYVEClE9Y7SKentvTo521Xl6BX60n",
+      "new_offers_count": 5,
+      "new_offers_from": {
+        "symbol": "₹",
+        "value": 327,
+        "currency": "INR",
+        "raw": "₹327.00"
+      },
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In stock.",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "2p",
+        "standard_delivery": {
+          "date": "Thursday, 21 July",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Tomorrow, July 20",
+          "name": "Or fastest delivery Tomorrow, July 20. Order within 4 hrs 10 mins. Details"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "RetailEZ Pvt Ltd",
+          "link": "https://www.amazon.in/sp?marketplaceID=A21TJRUUN4KGV&seller=AXOGFIT0PZZ7G&isAmazonFulfilled=1&ref=dp_merchant_link",
+          "id": "AXOGFIT0PZZ7G"
+        }
+      },
+      "price": {
+        "symbol": "₹",
+        "value": 327,
+        "currency": "INR",
+        "raw": "₹327.00"
+      },
+      "rrp": {
+        "symbol": "₹",
+        "value": 441,
+        "currency": "INR",
+        "raw": "₹441.00"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "more_buying_choices": [
+      {
+        "price": {
+          "symbol": "₹",
+          "value": 343,
+          "currency": "INR",
+          "raw": "₹343.00"
+        },
+        "seller_name": "Hamilton Housewares",
+        "free_shipping": true,
+        "position": 1
+      },
+      {
+        "price": {
+          "symbol": "₹",
+          "value": 441,
+          "currency": "INR",
+          "raw": "₹441.00"
+        },
+        "seller_name": "SHIV home world",
+        "free_shipping": true,
+        "position": 2
+      }
+    ],
+    "specifications": [
+      {
+        "name": "Manufacturer",
+        "value": "‎Milton"
+      },
+      {
+        "name": "Country of Origin",
+        "value": "‎India"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎DUTNFTB010STPC0020"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎18.7 x 7.2 x 7.2 cm; 187 Grams"
+      },
+      {
+        "name": "ASIN",
+        "value": "‎B079R9W1B6"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "Milton"
+      },
+      {
+        "name": "Packer",
+        "value": "Hamilton Housewares Private Limited; 18002092151 Plot No. 1B. Sector-12, IIE-BHEL, Haridwar-249423, Uttrakhand"
+      },
+      {
+        "name": "Item Weight",
+        "value": "187 g"
+      },
+      {
+        "name": "Item Dimensions LxWxH",
+        "value": "18.7 x 7.2 x 7.2 Centimeters"
+      },
+      {
+        "name": "Net Quantity",
+        "value": "1.00 count"
+      },
+      {
+        "name": "Included Components",
+        "value": "1-Piece Water Bottle"
+      },
+      {
+        "name": "Material",
+        "value": "Stainless Steel"
+      },
+      {
+        "name": "Brand",
+        "value": "MILTON"
+      },
+      {
+        "name": "Capacity",
+        "value": "930 Milliliters"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Freezer Safe, Insulated"
+      },
+      {
+        "name": "Colour",
+        "value": "Silver"
+      }
+    ],
+    "specifications_flat": "Colour: Silver. Special Feature: Freezer Safe, Insulated. Capacity: 930 Milliliters. Brand: MILTON. Material: Stainless Steel. Included Components: 1-Piece Water Bottle. Net Quantity: 1.00 count. Item Dimensions LxWxH: 18.7 x 7.2 x 7.2 Centimeters. Item Weight: 187 g. Packer: Hamilton Housewares Private Limited; 18002092151 Plot No. 1B. Sector-12, IIE-BHEL, Haridwar-249423, Uttrakhand. Manufacturer: Milton. ASIN: ‎B079R9W1B6. Product Dimensions: ‎18.7 x 7.2 x 7.2 cm; 187 Grams. Item model number: ‎DUTNFTB010STPC0020. Country of Origin: ‎India. Manufacturer: ‎Milton.",
+    "color": "Silver",
+    "material": "Stainless Steel",
+    "manufacturer": "Milton",
+    "weight": "187 g",
+    "dimensions": "‎18.7 x 7.2 x 7.2 cm; 187 Grams",
+    "model_number": "‎DUTNFTB010STPC0020"
+  },
+  "brand_store": {
+    "id": "75EA6387-D085-4B32-BA5E-FFF84F7E1D94",
+    "link": "https://www.amazon.in/stores/MILTON/page/75EA6387-D085-4B32-BA5E-FFF84F7E1D94"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "₹",
+      "value": 1094,
+      "currency": "INR",
+      "raw": "₹1,094.00"
+    },
+    "products": [
+      {
+        "asin": "B079R9W1B6",
+        "title": "Pexpo Stainless Steel Wide Mouth Fridge/Refrigerator Single Wall Leakproof Water Bottle with Steel Matt Finish, MADE IN INDIA (Pack of 1, Silver Colour, Capacity 1000 ml, Chromo Bottle)",
+        "link": "https://www.amazon.in/dp/B079R9W1B6",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      },
+      {
+        "asin": "B08RXYS6W6",
+        "title": "Milton Elate 750 Stainless Steel Water Bottle, 635 ml, Silver",
+        "link": "https://www.amazon.in/dp/B08RXYS6W6",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/6136nHG7V7L._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 283,
+          "currency": "INR",
+          "raw": "₹283.00"
+        }
+      },
+      {
+        "asin": "B07F5R2JCK",
+        "title": "Cello H2O Stainless Steel Water Bottle, 1L, Brown, 1 Piece",
+        "link": "https://www.amazon.in/dp/B07F5R2JCK",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61-xAXIl-mL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 484,
+          "currency": "INR",
+          "raw": "₹484.00"
+        }
+      }
+    ]
+  },
+  "shop_by_look": {
+    "items": [
+      {
+        "position": 1,
+        "asin": "B093S9JXF5",
+        "link": "https://www.amazon.in/dp/B093S9JXF5",
+        "title": "Pexpo Stainless Steel Wide Mouth Fridge/Refrigerator Single Wall Leakproof Water Bottle with Steel Matt Finish, MADE IN INDIA (Pack of 1, Silver Colour, Capacity 1000 ml, Chromo Bottle)",
+        "image": "https://m.media-amazon.com/images/I/61oqBJ7OP9L._AC_UL400_.jpg",
+        "rating": 3,
+        "ratings_total": 10,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 323,
+          "currency": "INR",
+          "raw": "₹323.00"
+        }
+      },
+      {
+        "position": 2,
+        "asin": "B083ZDY9YY",
+        "link": "https://www.amazon.in/dp/B083ZDY9YY",
+        "title": "Classic Essentials Spring Stainless Steel Single Walled Fridge Water Bottle (1000ml,Silver) Leakproof BPA Free Lids,Great for Travel,Picnic,Camping Etc.",
+        "image": "https://m.media-amazon.com/images/I/31HQLZKHnVL._AC_UL400_.jpg",
+        "rating": 3.5,
+        "ratings_total": 655,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 299,
+          "currency": "INR",
+          "raw": "₹299.00"
+        }
+      },
+      {
+        "position": 3,
+        "asin": "B086WZJGT6",
+        "link": "https://www.amazon.in/dp/B086WZJGT6",
+        "title": "JENSONS Aqua Stainless Steel Thunder Water Bottle 650 ml HIGH Gloss",
+        "image": "https://m.media-amazon.com/images/I/51KvQyojm7L._AC_UL400_.jpg",
+        "rating": 3,
+        "ratings_total": 15,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 349,
+          "currency": "INR",
+          "raw": "₹349.00"
+        }
+      },
+      {
+        "position": 4,
+        "asin": "B08FZD5WQ1",
+        "link": "https://www.amazon.in/dp/B08FZD5WQ1",
+        "title": "Ankaret Stainless Steel Water Bottle Silver, Sipper Cap, Set of 1",
+        "image": "https://m.media-amazon.com/images/I/51ljkqbpEWL._AC_UL400_.jpg",
+        "rating": 3.5,
+        "ratings_total": 12,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 349,
+          "currency": "INR",
+          "raw": "₹349.00"
+        }
+      },
+      {
+        "position": 5,
+        "asin": "B09K4N4Y4N",
+        "link": "https://www.amazon.in/dp/B09K4N4Y4N",
+        "title": "VALENTINE VIBE Stainless Steel Single Walled Bottle (Silver, 1000 ml)",
+        "image": "https://m.media-amazon.com/images/I/615+2OZ5TZL._AC_UL400_.jpg",
+        "rating": 4,
+        "ratings_total": 1,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 360,
+          "currency": "INR",
+          "raw": "₹360.00"
+        }
+      },
+      {
+        "position": 6,
+        "asin": "B07216Z6S2",
+        "link": "https://www.amazon.in/dp/B07216Z6S2",
+        "title": "Pigeon 10068 Stainless Steel Water Bottle, 750ml, 1 Piece, Silver",
+        "image": "https://m.media-amazon.com/images/I/21liFMXVfXL._AC_UL400_.jpg",
+        "rating": 3.5,
+        "ratings_total": 37,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 445,
+          "currency": "INR",
+          "raw": "₹445.00"
+        }
+      },
+      {
+        "position": 7,
+        "asin": "B0B2P4315J",
+        "link": "https://www.amazon.in/dp/B0B2P4315J",
+        "title": "Pexpo Stainless Steel Wide Mouth Fridge/Refrigerator Single Wall Leakproof Water Bottle with Steel Matt Finish (Pack of 1, Silver Colour, Capacity 1000 ml, Vertigo Bottle)",
+        "image": "https://m.media-amazon.com/images/I/4199cIKC1CL._AC_UL400_.jpg",
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 391,
+          "currency": "INR",
+          "raw": "₹391.00"
+        }
+      },
+      {
+        "position": 8,
+        "asin": "B0B2P36M85",
+        "link": "https://www.amazon.in/dp/B0B2P36M85",
+        "title": "Pexpo Stainless Steel Wide Mouth Fridge/Refrigerator Single Wall Leakproof Water Bottle with Steel Matt Finish (Pack of 1, Silver Colour, Capacity 750 ml, Chromo Bottle)",
+        "image": "https://m.media-amazon.com/images/I/61PpJB3PY1L._AC_UL400_.jpg",
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 314,
+          "currency": "INR",
+          "raw": "₹314.00"
+        }
+      },
+      {
+        "position": 9,
+        "asin": "B0B2P4D7BV",
+        "link": "https://www.amazon.in/dp/B0B2P4D7BV",
+        "title": "Pexpo Stainless Steel Wide Mouth Sports/Fridge/Refrigerator Single Wall Leakproof Water Bottle with Steel Matt Finish (Pack of 1, Silver Colour, Capacity 1000 ml, Vertigo Bottle)",
+        "image": "https://m.media-amazon.com/images/I/61LfmNYLjjL._AC_UL400_.jpg",
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 352,
+          "currency": "INR",
+          "raw": "₹352.00"
+        }
+      },
+      {
+        "position": 10,
+        "asin": "B07RQ8N239",
+        "link": "https://www.amazon.in/dp/B07RQ8N239",
+        "title": "MILTON Alpine Copper Bottle, 928ml, 1 Piece, Brown",
+        "image": "https://m.media-amazon.com/images/I/61EvRHd3AvL._AC_UL400_.jpg",
+        "rating": 4,
+        "ratings_total": 110,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 990,
+          "currency": "INR",
+          "raw": "₹990.00"
+        }
+      },
+      {
+        "position": 11,
+        "asin": "B09XKPMMF2",
+        "link": "https://www.amazon.in/dp/B09XKPMMF2",
+        "title": "Sumeet Stainless Steel Leak-Proof Water Bottle / Fridge Bottle - 1000ml - Pack of 1",
+        "image": "https://m.media-amazon.com/images/I/61iJNOZ3gvL._AC_UL400_.jpg",
+        "rating": 1,
+        "ratings_total": 1,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 444,
+          "currency": "INR",
+          "raw": "₹444.00"
+        }
+      },
+      {
+        "position": 12,
+        "asin": "B08KTJCGSZ",
+        "link": "https://www.amazon.in/dp/B08KTJCGSZ",
+        "title": "Taluka Stainless Steel Hot & Cold Water Bottle, 1000 ML, 10\" X 2.8\", Silver Fridge/Refrigerator Bottle (3)",
+        "image": "https://m.media-amazon.com/images/I/61RIPiAyN3L._AC_UL400_.jpg",
+        "rating": 3.5,
+        "ratings_total": 47,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 699,
+          "currency": "INR",
+          "raw": "₹699.00"
+        }
+      }
+    ],
+    "title": "Get instant recommendations"
+  },
+  "sponsored_products": [
+    {
+      "title": "Milton Copperas 1000 Copper Bottle, 920 ml, 1 Piece, Copper",
+      "asin": "B07CZHBWLH",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A01008041MJMIISX6MKQY&qualifier=1658238587&id=6524518037326348&widgetName=sp_detail&url=%2Fdp%2FB07CZHBWLH%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB07CZHBWLH%26pd_rd_w%3DHxhZn%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D89895MB5C8YHGNGHJTZ1%26pd_rd_wg%3DpXAwH%26pd_rd_r%3D674576c7-ff76-4c92-83df-8de19985bbf6%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31FMfqPsT9L._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 10722,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 875,
+        "currency": "INR",
+        "raw": "₹875.00"
+      }
+    },
+    {
+      "title": "Milton Elfin Thermosteel 160ml Bottle - Grey(EC-TMS-FIS-0051_Grey)",
+      "asin": "B00NAS7C7I",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A02426981BC7CXVK1RZDO&qualifier=1658238587&id=6524518037326348&widgetName=sp_detail&url=%2Fdp%2FB00NAS7C7I%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB00NAS7C7I%26pd_rd_w%3DHxhZn%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D89895MB5C8YHGNGHJTZ1%26pd_rd_wg%3DpXAwH%26pd_rd_r%3D674576c7-ff76-4c92-83df-8de19985bbf6%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/311QSWKwGvL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 7239,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 464,
+        "currency": "INR",
+        "raw": "₹464.00"
+      }
+    },
+    {
+      "title": "STAR WORK Water Coffee Thermos 500 ml | Large Thermal Water Bottle for Tea Hot & Cold Drinks | Stainless Steel Vacuum Sealed Insulated Thermos Water Flasks Bottles for Work & Travel (Silver Black)",
+      "asin": "B09VL2TKT3",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A05827982J2GE1VHLW9GP&qualifier=1658238587&id=6524518037326348&widgetName=sp_detail&url=%2Fdp%2FB09VL2TKT3%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB09VL2TKT3%26pd_rd_w%3DHxhZn%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D89895MB5C8YHGNGHJTZ1%26pd_rd_wg%3DpXAwH%26pd_rd_r%3D674576c7-ff76-4c92-83df-8de19985bbf6%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31qVBYEN-mL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 165,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 474.05,
+        "currency": "INR",
+        "raw": "₹474.05"
+      }
+    },
+    {
+      "title": "Milton Glassy 1000 Thermosteel 24 Hours Hot and Cold Water Bottle with Drinking Cup Lid, 1 Litre, Grey",
+      "asin": "B01IQYNO8G",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A01504873R38W9UQR9XI6&qualifier=1658238587&id=6524518037326348&widgetName=sp_detail&url=%2Fdp%2FB01IQYNO8G%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB01IQYNO8G%26pd_rd_w%3DHxhZn%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D89895MB5C8YHGNGHJTZ1%26pd_rd_wg%3DpXAwH%26pd_rd_r%3D674576c7-ff76-4c92-83df-8de19985bbf6%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31-KNzXvxPL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 4183,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 935,
+        "currency": "INR",
+        "raw": "₹935.00"
+      }
+    },
+    {
+      "title": "UNBOTTLE Stainless Steel Water Bottle (All Matte Blue) | Double Wall Vacuum Insulated Water Bottle for Gym, School & Work | Leak-Proof & BPA Free - Hot & Cold Bottle - 500 ml - Pack of 1",
+      "asin": "B09L4NTMSF",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A02811772OIDZK52SB3O5&qualifier=1658238587&id=6524518037326348&widgetName=sp_detail&url=%2Fdp%2FB09L4NTMSF%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB09L4NTMSF%26pd_rd_w%3DHxhZn%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D89895MB5C8YHGNGHJTZ1%26pd_rd_wg%3DpXAwH%26pd_rd_r%3D674576c7-ff76-4c92-83df-8de19985bbf6%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/418TR3P9obL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 252,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1099,
+        "currency": "INR",
+        "raw": "₹1,099.00"
+      }
+    },
+    {
+      "title": "W-Tech Stainless Steel Water Bottle, 1 litres, Silver",
+      "asin": "B08G567SYH",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A01831391EKRXIAOVT108&qualifier=1658238587&id=6524518037326348&widgetName=sp_detail&url=%2Fdp%2FB08G567SYH%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB08G567SYH%26pd_rd_w%3DHxhZn%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D89895MB5C8YHGNGHJTZ1%26pd_rd_wg%3DpXAwH%26pd_rd_r%3D674576c7-ff76-4c92-83df-8de19985bbf6%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/21PsxBZhP3L._AC_SR160,160_.jpg",
+      "price": {
+        "symbol": "₹",
+        "value": 514,
+        "currency": "INR",
+        "raw": "₹514.00"
+      }
+    },
+    {
+      "title": "Ankaret Stainless Steel Fridge Water Bottle for office/Gym/School 100% Leakproof, Portable, 1L Capacity, Matt Black, BPA Free Plastic Sipper Cap, 1 (Set of 1)",
+      "asin": "B08LQJYDWV",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A02403282OWRLW29RS8LZ&qualifier=1658238587&id=6524518037326348&widgetName=sp_detail&url=%2Fdp%2FB08LQJYDWV%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB08LQJYDWV%26pd_rd_w%3DHxhZn%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D89895MB5C8YHGNGHJTZ1%26pd_rd_wg%3DpXAwH%26pd_rd_r%3D674576c7-ff76-4c92-83df-8de19985bbf6%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/216iuJ7Ay-L._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 1851,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 349,
+        "currency": "INR",
+        "raw": "₹349.00"
+      }
+    },
+    {
+      "title": "Milton Copper Crown 1100 Water Bottle, 1.09 Litre, 1 Piece, Copper",
+      "asin": "B08YF58QL2",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A01003682MJ42SKWCLIDY&qualifier=1658238587&id=7922012583690793&widgetName=sp_detail2&url=%2Fdp%2FB08YF58QL2%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB08YF58QL2%26pd_rd_w%3DAXJJn%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D89895MB5C8YHGNGHJTZ1%26pd_rd_wg%3DpXAwH%26pd_rd_r%3D674576c7-ff76-4c92-83df-8de19985bbf6%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31+YczIriHS._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 10704,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 815,
+        "currency": "INR",
+        "raw": "₹815.00"
+      }
+    },
+    {
+      "title": "Milton Pro Cook Black Pearl Induction Fry Pan, 28 cm /2.5 Litre",
+      "asin": "B08LCWNYTN",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A0049377GS5KZ1N5QUL8&qualifier=1658238587&id=7922012583690793&widgetName=sp_detail2&url=%2Fdp%2FB08LCWNYTN%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB08LCWNYTN%26pd_rd_w%3DAXJJn%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D89895MB5C8YHGNGHJTZ1%26pd_rd_wg%3DpXAwH%26pd_rd_r%3D674576c7-ff76-4c92-83df-8de19985bbf6%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/21bpq17-iZL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 506,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 969,
+        "currency": "INR",
+        "raw": "₹969.00"
+      }
+    },
+    {
+      "title": "Milton Pro Cook Granito Induction Fry Pan, 28 cm, Black",
+      "asin": "B08KMBDJZH",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A0049221DB8KNC1RV62R&qualifier=1658238587&id=7922012583690793&widgetName=sp_detail2&url=%2Fdp%2FB08KMBDJZH%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB08KMBDJZH%26pd_rd_w%3DAXJJn%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D89895MB5C8YHGNGHJTZ1%26pd_rd_wg%3DpXAwH%26pd_rd_r%3D674576c7-ff76-4c92-83df-8de19985bbf6%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/4125TqMfQHL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 155,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1159,
+        "currency": "INR",
+        "raw": "₹1,159.00"
+      }
+    },
+    {
+      "title": "Milton Elfin Thermosteel 160ml Bottle - Grey(EC-TMS-FIS-0051_Grey)",
+      "asin": "B00NAS7C7I",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A02426981BC7CXVK1RZDO&qualifier=1658238587&id=7922012583690793&widgetName=sp_detail2&url=%2Fdp%2FB00NAS7C7I%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB00NAS7C7I%26pd_rd_w%3DAXJJn%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D89895MB5C8YHGNGHJTZ1%26pd_rd_wg%3DpXAwH%26pd_rd_r%3D674576c7-ff76-4c92-83df-8de19985bbf6%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/311QSWKwGvL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 7239,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 464,
+        "currency": "INR",
+        "raw": "₹464.00"
+      }
+    },
+    {
+      "title": "Milton Thermosteel Flip Lid Flask, 1000 milliliters, Silver",
+      "asin": "B00MIYM0VS",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A01507671ZQYDTQF38W96&qualifier=1658238587&id=7922012583690793&widgetName=sp_detail2&url=%2Fdp%2FB00MIYM0VS%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB00MIYM0VS%26pd_rd_w%3DAXJJn%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D89895MB5C8YHGNGHJTZ1%26pd_rd_wg%3DpXAwH%26pd_rd_r%3D674576c7-ff76-4c92-83df-8de19985bbf6%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41DlfDtSkbL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 81654,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 915,
+        "currency": "INR",
+        "raw": "₹915.00"
+      }
+    },
+    {
+      "title": "Meyer Anzen Healthy Ceramic Coated Cookware Frypan, 28cm, Aluminum, Grey",
+      "asin": "B07XD9QS3J",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A0631941QCJ77UO3GHNK&qualifier=1658238587&id=7922012583690793&widgetName=sp_detail2&url=%2Fdp%2FB07XD9QS3J%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB07XD9QS3J%26pd_rd_w%3DAXJJn%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D89895MB5C8YHGNGHJTZ1%26pd_rd_wg%3DpXAwH%26pd_rd_r%3D674576c7-ff76-4c92-83df-8de19985bbf6%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31ZhJyKMtdL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 85,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 2300,
+        "currency": "INR",
+        "raw": "₹2,300.00"
+      }
+    },
+    {
+      "title": "Milton Duo DLX 1000 Thermosteel 24 Hours Hot and Cold Water Bottle, 1 Litre, Silver",
+      "asin": "B00JDACK3S",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A01506432TZYRXM8WZN3T&qualifier=1658238587&id=7922012583690793&widgetName=sp_detail2&url=%2Fdp%2FB00JDACK3S%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB00JDACK3S%26pd_rd_w%3DAXJJn%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D89895MB5C8YHGNGHJTZ1%26pd_rd_wg%3DpXAwH%26pd_rd_r%3D674576c7-ff76-4c92-83df-8de19985bbf6%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31r6OJquN5L._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 57221,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1149,
+        "currency": "INR",
+        "raw": "₹1,149.00"
+      }
+    }
+  ]
+}
