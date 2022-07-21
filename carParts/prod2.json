@@ -1,0 +1,802 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 24,
+    "credits_remaining": 76,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.in",
+    "asin": "B07RFSLNQ9",
+    "type": "product"
+  },
+  "request_metadata": {
+    "created_at": "2022-07-21T18:19:35.289Z",
+    "processed_at": "2022-07-21T18:19:38.920Z",
+    "total_time_taken": 3.63,
+    "amazon_url": "https://www.amazon.in/dp/B07RFSLNQ9?th=1&psc=1"
+  },
+  "product": {
+    "title": "Newlly Microfiber Leather Car Steering Wheel Cover (Black)",
+    "search_alias": {
+      "title": "Car & Motorbike",
+      "value": "automotive"
+    },
+    "keywords": "Newlly,Microfiber,Leather,Car,Steering,Wheel,Cover,(Black)",
+    "keywords_list": [
+      "Newlly",
+      "Microfiber",
+      "Leather",
+      "Steering",
+      "Wheel",
+      "Cover",
+      "(Black)"
+    ],
+    "asin": "B07RFSLNQ9",
+    "link": "https://www.amazon.in/Newlly-Microfiber-Leather-Steering-Wheel/dp/B07RFSLNQ9",
+    "brand": "Newlly",
+    "sell_on_amazon": true,
+    "categories": [
+      {
+        "name": "Car & Motorbike",
+        "link": "https://www.amazon.in/Car-Motorbike-Store/b/ref=dp_bc_aui_C_1?ie=UTF8&node=4772060031",
+        "category_id": "4772060031"
+      },
+      {
+        "name": "Car Parts",
+        "link": "https://www.amazon.in/Car-Parts/b/ref=dp_bc_aui_C_2?ie=UTF8&node=5257475031",
+        "category_id": "5257475031"
+      },
+      {
+        "name": "Interior Fittings",
+        "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_3?ie=UTF8&node=5257538031",
+        "category_id": "5257538031"
+      },
+      {
+        "name": "Steering Wheels, Hubs & Accessories",
+        "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_4?ie=UTF8&node=5257842031",
+        "category_id": "5257842031"
+      },
+      {
+        "name": "Steering Wheel Covers",
+        "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_5?ie=UTF8&node=5258293031",
+        "category_id": "5258293031"
+      }
+    ],
+    "categories_flat": "Car & Motorbike > Car Parts > Interior Fittings > Steering Wheels, Hubs & Accessories > Steering Wheel Covers",
+    "description": "Give your steering a comfortable grip and enhance your driving comfort. Simple, rich look and sober designs are available. Natural leather material used to give you a cool feeling in hot weather condition. Comfortable and cozy grip to give you a wonderful driving experience. Long durability due to high standards of raw material. Tight and firm grip for safer and comfortable driving experience. Environment friendly and easy to clean. Perfect decor for your car, also protect your steering wheel. Accustomed for all weather conditions.",
+    "promotions_feature": "No cost EMI available on select cards. Please check 'EMI options' above for more details. Here's how Get GST invoice and save up to 28% on business purchases. Sign up for free Here's how",
+    "sub_title": {
+      "text": "Brand: Newlly",
+      "link": "https://www.amazon.in/s/ref=bl_dp_s_web_0?ie=UTF8&search-alias=aps&field-keywords=Newlly"
+    },
+    "marketplace_id": "A21TJRUUN4KGV",
+    "rating": 4,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 47,
+        "count": 274
+      },
+      "four_star": {
+        "percentage": 26,
+        "count": 152
+      },
+      "three_star": {
+        "percentage": 14,
+        "count": 81
+      },
+      "two_star": {
+        "percentage": 4,
+        "count": 23
+      },
+      "one_star": {
+        "percentage": 9,
+        "count": 52
+      }
+    },
+    "ratings_total": 585,
+    "reviews_total": 585,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/61UN2flr0vS.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/61UN2flr0vS._SL1100_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61jqx7tKBdL._SL1100_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61ZB3f8R84L._SL1100_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61rkDy4-RfL._SL1100_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61DpWregq7L._SL1100_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61G8HYQ10iL._SL1001_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61NzksVZDAL._SL1001_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61mTN9RID-L._SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61cDKfGleNL._SL1500_.jpg",
+        "variant": "PT08"
+      }
+    ],
+    "images_count": 9,
+    "images_flat": "https://m.media-amazon.com/images/I/61UN2flr0vS._SL1100_.jpg,https://m.media-amazon.com/images/I/61jqx7tKBdL._SL1100_.jpg,https://m.media-amazon.com/images/I/61ZB3f8R84L._SL1100_.jpg,https://m.media-amazon.com/images/I/61rkDy4-RfL._SL1100_.jpg,https://m.media-amazon.com/images/I/61DpWregq7L._SL1100_.jpg,https://m.media-amazon.com/images/I/61G8HYQ10iL._SL1001_.jpg,https://m.media-amazon.com/images/I/61NzksVZDAL._SL1001_.jpg,https://m.media-amazon.com/images/I/61mTN9RID-L._SL1500_.jpg,https://m.media-amazon.com/images/I/61cDKfGleNL._SL1500_.jpg",
+    "is_bundle": false,
+    "feature_bullets": [
+      "Made of smooth and durable microfiber leather",
+      "Suitable for middle-size steering wheels",
+      "Perfect decor for your car, also protect your steering wheel",
+      "Reliable performance",
+      "Attractive pricing"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Attractive pricing. Reliable performance. Perfect decor for your car, also protect your steering wheel. Suitable for middle-size steering wheels. Made of smooth and durable microfiber leather.",
+    "attributes": [
+      {
+        "name": "Colour",
+        "value": "Black"
+      },
+      {
+        "name": "Material",
+        "value": "Faux Leather, Leather"
+      },
+      {
+        "name": "Brand",
+        "value": "Newlly"
+      },
+      {
+        "name": "Vehicle Service Type",
+        "value": "Car"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "R2UOQBMAK0YVTG",
+        "title": "A very nice product..",
+        "body": "A very good product.. it does fits perfectly on my new Honda Amaze 2019... good grip, good finish, also it does add little weight for smooth and enjoyable driving experience...Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>A very good product.. it does fits perfectly on my new Honda Amaze 2019... good grip, good finish, also it does add little weight for smooth and enjoyable driving experience...</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2UOQBMAK0YVTG/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07RFSLNQ9",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 12 September 2019",
+          "utc": "2019-09-12T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Ashwani Dusadh",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AH6DDE75M6QZQ344SFCY4JBZCYUA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AH6DDE75M6QZQ344SFCY4JBZCYUA",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/2926795d-b9db-4d38-8e48-0f6280381301._CR83,0,333,333_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 12,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "RK8OP2OD0CUAC",
+        "title": "Fits perfect ...",
+        "body": "Good Product, Fits Perfectly on my Verna's Steering, the only problem is Rubbery Smell which i feel will Go with time, But all in all A Good Product.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Good Product, Fits Perfectly on my Verna's Steering, the only problem is Rubbery Smell which i feel will Go with time, But all in all A Good Product.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/RK8OP2OD0CUAC/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07RFSLNQ9",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 19 December 2020",
+          "utc": "2020-12-19T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "BaBaDook",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AETF56FMRO34QUKD2J3EYCB7UBKQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AETF56FMRO34QUKD2J3EYCB7UBKQ",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/759a08b4-8c7e-426c-bdb7-9d18b4d8d9a6._CR0,44.0,245,245_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 6,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R3D243MWSSLEY2",
+        "title": "perfect fit",
+        "body": "good product fits well on the steering wheel.Does not slip or slide as you turn.worth the buy.It is not leather but is rexine .Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>good product fits well on the steering wheel.Does not slip or slide as you turn.worth the buy.It is not leather but is rexine .</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R3D243MWSSLEY2/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07RFSLNQ9",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 5 November 2019",
+          "utc": "2019-11-05T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "sailendran",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AFOPNPT5XNHQ6PUYBG7H4PR2VT4A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFOPNPT5XNHQ6PUYBG7H4PR2VT4A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 8,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R2OEEBRAKK9V9Z",
+        "title": "Poor Quality",
+        "body": "Very poor quality. The cover is cracking like a poor quality vinyl.  I got it in July mind you. I live in Noida.This is not even summers. It did not survive a month. Look at the pictures.  I usually don't give a bad review but this is unacceptable quality.  It,s comfortable on hands and easy to put. But such poor quality.  So don't buy. Zero stars overall.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Very poor quality. The cover is cracking like a poor quality vinyl.<br><br>I got it in July mind you. I live in Noida.This is not even summers. It did not survive a month. Look at the pictures.<br><br>I usually don't give a bad review but this is unacceptable quality.<br><br>It,s comfortable on hands and easy to put. But such poor quality.<br><br>So don't buy. Zero stars overall.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2OEEBRAKK9V9Z/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07RFSLNQ9",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 12 August 2021",
+          "utc": "2021-08-12T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Prashant Vasishth",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AFT7FCUTQFZ4NXKBIGE5GNQVBUBQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFT7FCUTQFZ4NXKBIGE5GNQVBUBQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 2,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R1QUNZ15D34KL8",
+        "title": "Very worst product.pls don't buy.",
+        "body": "The media could not be loaded. I fixed 4 my wru.very low quality.amazon pls cheak the supplier.becoz all credits goes to amazon only.within a month the cover damaged.u people cheak and sell.v r not getting free.v paying 4 u r product.u r loosing customer like us.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\"><div id=\"video-block-R1QUNZ15D34KL8\" class=\"a-section a-spacing-small a-spacing-top-mini video-block\">                                                      <div id=\"review-video-id-R1QUNZ15D34KL8\" class=\"cr-video-desktop cr-video-desktop-placeholder\" data-review-id=\"R1QUNZ15D34KL8\" data-video-url=\"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/f93cab3d-9f01-4f21-8a57-d59f1bfe5f6b/default.jobtemplate.hls.m3u8\" data-thumbnail-url=\"https://m.media-amazon.com/images/I/410NkohQnCL._SY256._SY256.jpg\">       <div class=\"cr-media-status-container\">     <span class=\"a-spinner a-spinner-medium cr-media-spinner\"></span>     <span class=\"a-color-inverse cr-media-error-msg\">      The media could not be loaded.     </span>    </div>     </div>            </div><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/f93cab3d-9f01-4f21-8a57-d59f1bfe5f6b/default.jobtemplate.mp4.480.mp4\" class=\"video-url\"><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/I/410NkohQnCL._SY256._SY256.jpg\" class=\"video-slate-img-url\">             <span>&nbsp;I fixed 4 my wru.very low quality.amazon pls cheak the supplier.becoz all credits goes to amazon only.within a month the cover damaged.u people cheak and sell.v r not getting free.v paying 4 u r product.u r loosing customer like us.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R1QUNZ15D34KL8/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07RFSLNQ9",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 22 October 2021",
+          "utc": "2021-10-22T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Sathes6",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AFK5AYCWZ7ID4LTCHA465GSM76WQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFK5AYCWZ7ID4LTCHA465GSM76WQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "videos": [
+          {
+            "video": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/f93cab3d-9f01-4f21-8a57-d59f1bfe5f6b/default.jobtemplate.mp4.480.mp4",
+            "image": "https://m.media-amazon.com/images/I/410NkohQnCL._SY256._SY256.jpg"
+          }
+        ],
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R33DINOLYSV3Z3",
+        "title": "Good/bad",
+        "body": "It not easy to install. I have to use many thing to install. It better if they give installing kit with it. It have nice grip. It did not slip in my hands even in sweat. Worth of money. Overall good product.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>It not easy to install.<br>I have to use many thing to install.<br>It better if they give installing kit with it.<br>It have nice grip.<br>It did not slip in my hands even in sweat.<br>Worth of money.<br>Overall good product.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R33DINOLYSV3Z3/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07RFSLNQ9",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 2 March 2022",
+          "utc": "2022-03-02T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Purushottam sharma",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AGQTZWZKJ3TJKBQISKC6YLIXH4QQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGQTZWZKJ3TJKBQISKC6YLIXH4QQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R2TEY1I034E957",
+        "title": "Excellent!!",
+        "body": "It looks fantastic on my Fiat Palio. The Grip is just Insane. You'll definitely love it. To be honest, it looks elegant as well. 😉😅Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>It looks fantastic on my Fiat Palio. The Grip is just Insane. You'll definitely love it. To be honest, it looks elegant as well. 😉😅</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2TEY1I034E957/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07RFSLNQ9",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 22 June 2021",
+          "utc": "2021-06-22T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Venkates",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AHCJZZK6S4XPFM67W6KUVVHJIR6A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHCJZZK6S4XPFM67W6KUVVHJIR6A",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/87d70730-0890-41ef-b963-803ebefc85ec._CR10,0,618,618_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R2FK7C5O0TQXJL",
+        "title": "Worth a lot",
+        "body": "Perfect fit and comfort. Initially smells a bit. After two days it was good. I kept open for a day to avoid smell before installation. Now its good to use.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Perfect fit and comfort. Initially smells a bit. After two days it was good. I kept open for a day to avoid smell before installation. Now its good to use.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2FK7C5O0TQXJL/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07RFSLNQ9",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 5 October 2021",
+          "utc": "2021-10-05T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Balaji",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AH2JY4KIRWWIGWHBKV3VGZYIELBA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AH2JY4KIRWWIGWHBKV3VGZYIELBA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "in",
+        "is_global_review": false
+      }
+    ],
+    "buybox_winner": {
+      "offer_id": "D+uIDFnydkixVDvxC59Rkp+udQNuOhGwZFo7PfR1CGLRz+sV9ueJ+EqFE0wa1wG8grwc2dM2g3SHSD1IAe+vk5UtjUNTzqk0lyI994lXzQGJ+e+CucEIqA/fzsjClh9gozqYE+ErlImwTrTe+nDZW++SsT7XId/c85YSviQDZEeyToPTEm801a9+x/dNmkKS",
+      "new_offers_count": 2,
+      "new_offers_from": {
+        "symbol": "₹",
+        "value": 539,
+        "currency": "INR",
+        "raw": "₹539.00"
+      },
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In stock.",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "2p",
+        "standard_delivery": {
+          "date": "Saturday, 23 July",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Tomorrow, July 22",
+          "name": "Or fastest delivery Tomorrow, July 22. Order within 13 hrs 25 mins. Details"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Newlly",
+          "link": "https://www.amazon.in/sp?marketplaceID=A21TJRUUN4KGV&seller=AY1N3BK26NBG4&isAmazonFulfilled=1&ref=dp_merchant_link",
+          "id": "AY1N3BK26NBG4"
+        }
+      },
+      "price": {
+        "symbol": "₹",
+        "value": 539,
+        "currency": "INR",
+        "raw": "₹539.00"
+      },
+      "rrp": {
+        "symbol": "₹",
+        "value": 1000,
+        "currency": "INR",
+        "raw": "₹1,000.00"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Manufacturer",
+        "value": "‎Newlly"
+      },
+      {
+        "name": "Brand",
+        "value": "‎Newlly"
+      },
+      {
+        "name": "Model",
+        "value": "‎#022"
+      },
+      {
+        "name": "Package Dimensions",
+        "value": "‎38 x 36 x 4 cm; 480 Grams"
+      },
+      {
+        "name": "Item part number",
+        "value": "‎#022"
+      },
+      {
+        "name": "Manufacturer Part Number",
+        "value": "‎#022"
+      },
+      {
+        "name": "Material",
+        "value": "‎Faux Leather, Leather"
+      },
+      {
+        "name": "Colour",
+        "value": "‎Black"
+      },
+      {
+        "name": "Assembly Required",
+        "value": "‎No"
+      },
+      {
+        "name": "Country of Origin",
+        "value": "‎India"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎480 g"
+      },
+      {
+        "name": "ASIN",
+        "value": "B07RFSLNQ9"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.0 out of 5 stars       585 ratings          4.0 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#2,285 in Car & Motorbike"
+      },
+      {
+        "name": "Date First Available",
+        "value": "6 May 2019"
+      },
+      {
+        "name": "Colour",
+        "value": "Black"
+      },
+      {
+        "name": "Material",
+        "value": "Faux Leather, Leather"
+      },
+      {
+        "name": "Brand",
+        "value": "Newlly"
+      },
+      {
+        "name": "Vehicle Service Type",
+        "value": "Car"
+      }
+    ],
+    "specifications_flat": "Vehicle Service Type: Car. Brand: Newlly. Material: Faux Leather, Leather. Colour: Black. Date First Available: 6 May 2019. Best Sellers Rank: #2,285 in Car & Motorbike. Customer Reviews: 4.0 out of 5 stars       585 ratings          4.0 out of 5 stars. ASIN: B07RFSLNQ9. Item Weight: ‎480 g. Country of Origin: ‎India. Assembly Required: ‎No. Colour: ‎Black. Material: ‎Faux Leather, Leather. Manufacturer Part Number: ‎#022. Item part number: ‎#022. Package Dimensions: ‎38 x 36 x 4 cm; 480 Grams. Model: ‎#022. Brand: ‎Newlly. Manufacturer: ‎Newlly.",
+    "bestsellers_rank": [
+      {
+        "category": "Car & Motorbike",
+        "rank": 2285,
+        "link": "https://www.amazon.in/gp/bestsellers/automotive/ref=pd_zg_ts_automotive"
+      },
+      {
+        "category": "Steering Wheel Covers",
+        "rank": 7,
+        "link": "https://www.amazon.in/gp/bestsellers/automotive/5258293031/ref=pd_zg_hrsr_automotive"
+      }
+    ],
+    "color": "Black",
+    "material": "Faux Leather, Leather",
+    "manufacturer": "‎Newlly",
+    "weight": "‎480 g",
+    "first_available": {
+      "raw": "6 May 2019",
+      "utc": "2019-05-06T00:00:00.000Z"
+    },
+    "model_number": "‎#022",
+    "bestsellers_rank_flat": "Category: Car & Motorbike | Rank: 2285, Category: Steering Wheel Covers | Rank: 7"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "₹",
+      "value": 1085,
+      "currency": "INR",
+      "raw": "₹1,085.00"
+    },
+    "products": [
+      {
+        "asin": "B07RFSLNQ9",
+        "title": "Newlly Microfiber Leather Car Steering Wheel Cover (Black)",
+        "link": "https://www.amazon.in/dp/B07RFSLNQ9",
+        "image": "https://m.media-amazon.com/images/I/81fBtwY2AAL._SS100_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 539,
+          "currency": "INR",
+          "raw": "₹539.00"
+        }
+      },
+      {
+        "asin": "B07TN7QYB6",
+        "title": "HSR Car Accessories in 10PCS/1Set Car Wiper Detergent Effervescent Tablets Washer Auto Windshield Cleaner Glass Wash Cleaning",
+        "link": "https://www.amazon.in/dp/B07TN7QYB6",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71jcFEPDLvL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 197,
+          "currency": "INR",
+          "raw": "₹197.00"
+        }
+      },
+      {
+        "asin": "B0746JGVDS",
+        "title": "ELV Car Mount Adjustable Car Phone Holder Universal Long Arm, Windshield for Smartphones - Black",
+        "link": "https://www.amazon.in/dp/B0746JGVDS",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61sCL37xvlL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 349,
+          "currency": "INR",
+          "raw": "₹349.00"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B07J5FZQVN",
+    "link": "https://www.amazon.in/dp/B07J5FZQVN/ref=vp_d_pb_TIER2_cml_lp_B07RFSLNQ9_pd?_encoding=UTF8&pf_rd_p=0f75d243-34c8-4ab1-b1cf-db0ffce087bc&pf_rd_r=ZKJ2K94YG7B5TDFA0C2K&pd_rd_wg=0VGqg&pd_rd_i=B07J5FZQVN&pd_rd_w=PqJvN&content-id=amzn1.sym.0f75d243-34c8-4ab1-b1cf-db0ffce087bc&pd_rd_r=0d7d78b7-7d53-4c0f-8c0d-1a050ec2103f",
+    "title": "Amazon Brand - Solimo Leatherette Steering Cover (Small), Black",
+    "rating": 4,
+    "ratings_total": 2180,
+    "image": "https://m.media-amazon.com/images/I/81fBtwY2AAL._SS100_.jpg",
+    "price": {
+      "value": 199,
+      "currency": "INR",
+      "symbol": "₹",
+      "raw": "199.00"
+    }
+  },
+  "compare_with_similar": [
+    {
+      "asin": "B07RFSLNQ9",
+      "image": "https://m.media-amazon.com/images/I/61UN2flr0vS._AC_SS450_.jpg",
+      "title": "Newlly Microfiber Leather Car Steering Wheel Cover (Black)",
+      "rating": 4,
+      "ratings_total": 585,
+      "link": "https://www.amazon.in/dp/B07RFSLNQ9"
+    },
+    {
+      "asin": "B074SKZTLY",
+      "image": "https://m.media-amazon.com/images/I/71rQd9xwJfL._AC_SS450_.jpg",
+      "title": "Nikavi Car Steering Wheel Cover, Microfiber, Emboss Holes, Soft Padding Great Hand Feel, Anti-Slip Matte Finish, 15 Inch Middle Size - Blackline",
+      "rating": 4,
+      "ratings_total": 409,
+      "link": "https://www.amazon.in/dp/B074SKZTLY"
+    },
+    {
+      "asin": "B07BBF5CFP",
+      "image": "https://m.media-amazon.com/images/I/61wzJbco9CL._AC_SS450_.jpg",
+      "title": "NIKAVI Car Fashion Steering Wheel Cover (Black)",
+      "rating": 4,
+      "ratings_total": 744,
+      "link": "https://www.amazon.in/dp/B07BBF5CFP"
+    },
+    {
+      "asin": "B076Q65SHC",
+      "image": "https://m.media-amazon.com/images/I/815Y0SOiILL._AC_SS450_.jpg",
+      "title": "Nikavi Luxury Microfiber Leather Auto Car Steering Wheel Cover Universal 15 Inch (Beige)",
+      "rating": 4,
+      "ratings_total": 943,
+      "link": "https://www.amazon.in/dp/B076Q65SHC"
+    },
+    {
+      "asin": "B01AG9E6JK",
+      "image": "https://m.media-amazon.com/images/I/61SQUXp0nlL._AC_SS450_.jpg",
+      "title": "Generic DIY Car Steering Wheel Cover, Black",
+      "rating": 3.5,
+      "ratings_total": 611,
+      "link": "https://www.amazon.in/dp/B01AG9E6JK"
+    }
+  ],
+  "also_bought": [
+    {
+      "title": "Amazon Brand - Solimo Leatherette Steering Cover (Small), Black",
+      "asin": "B07J5FZQVN",
+      "link": "https://www.amazon.in/Solimo-Steering-Cover-Small-Black/dp/B07J5FZQVN/ref=pb_rfob_btf_desktop_sccl_2_1/257-9427745-1746844?pd_rd_w=OKkID&content-id=amzn1.sym.eb731025-b654-41b8-b345-99c34efe9b4f&pf_rd_p=eb731025-b654-41b8-b345-99c34efe9b4f&pf_rd_r=ZKJ2K94YG7B5TDFA0C2K&pd_rd_wg=N0wlk&pd_rd_r=372a330d-a069-4a1a-8223-b2e451daf91f&pd_rd_i=B07J5FZQVN&psc=1",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/81fBtwY2AAL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.1,
+      "ratings_total": 2180,
+      "price": {
+        "symbol": "₹",
+        "value": 199,
+        "currency": "INR",
+        "raw": "₹199.00"
+      }
+    }
+  ],
+  "sponsored_products": [
+    {
+      "title": "Newlly Microfiber Leather Car Steering Wheel Cover (Beige)",
+      "asin": "B09FJCD6QX",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A02064573PU2Q0B6RV5CY&qualifier=1658427576&id=4859796273446693&widgetName=sp_detail2&url=%2Fdp%2FB09FJCD6QX%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB09FJCD6QX%26pd_rd_w%3DfieOf%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZKJ2K94YG7B5TDFA0C2K%26pd_rd_wg%3DN0wlk%26pd_rd_r%3D372a330d-a069-4a1a-8223-b2e451daf91f%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/519TmnlGCJL._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 26,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 459,
+        "currency": "INR",
+        "raw": "₹459.00"
+      }
+    },
+    {
+      "title": "JUKKRE Car Steering Wheel Cover, New Steering Wheel Cover, Wooden Pattern PU Leather Steering Covers Car Steering Wheel Cover Auto Accessories Universal-Black Wooden-1",
+      "asin": "B09SD6MLRC",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A08052341DCM37DME4VSS&qualifier=1658427576&id=4859796273446693&widgetName=sp_detail2&url=%2Fdp%2FB09SD6MLRC%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09SD6MLRC%26pd_rd_w%3DfieOf%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZKJ2K94YG7B5TDFA0C2K%26pd_rd_wg%3DN0wlk%26pd_rd_r%3D372a330d-a069-4a1a-8223-b2e451daf91f%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51v+3zp4VNL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 999,
+        "currency": "INR",
+        "raw": "₹999.00"
+      }
+    },
+    {
+      "title": "JUKKRE Soft Steering Wheel Cover for Unisex, with Bling Bling Crystal Rhinestones Steering Wheel Cover, Universal 15-inch, Non-Slip, Colorful-Black with Silver Rhombus-1",
+      "asin": "B09SCJ443F",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A00835451WY7CXSVSN00U&qualifier=1658427576&id=4859796273446693&widgetName=sp_detail2&url=%2Fdp%2FB09SCJ443F%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB09SCJ443F%26pd_rd_w%3DfieOf%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZKJ2K94YG7B5TDFA0C2K%26pd_rd_wg%3DN0wlk%26pd_rd_r%3D372a330d-a069-4a1a-8223-b2e451daf91f%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51Vh8GfpRmL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 999,
+        "currency": "INR",
+        "raw": "₹999.00"
+      }
+    },
+    {
+      "title": "ShineXPro Microfiber Car Cleaning Cloth - OG Soft 500 GSM Extra Large (35x75 cm) Microfiber Cloth for Car and Bike - Suede Edging for Scratchless Drying and Detailing (Pack of 2)",
+      "asin": "B09RWTYMCF",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A02472542AWLOHFQS214C&qualifier=1658427576&id=4859796273446693&widgetName=sp_detail2&url=%2Fdp%2FB09RWTYMCF%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB09RWTYMCF%26pd_rd_w%3DfieOf%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZKJ2K94YG7B5TDFA0C2K%26pd_rd_wg%3DN0wlk%26pd_rd_r%3D372a330d-a069-4a1a-8223-b2e451daf91f%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51cqkNHSdXL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 1485,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 499,
+        "currency": "INR",
+        "raw": "₹499.00"
+      }
+    },
+    {
+      "title": "Jukkre D Type Steering Wheel Cover, Genuine Leather with Carbon Fiber Style Anti-Slip Car Wheel Wrap, Soft & Breathable, Universal Fit 15 Inch Car /Auto/SUV Steering Wheels, Black",
+      "asin": "B0B53P9JQB",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A00095463KIQ5O0NEXH8G&qualifier=1658427576&id=4859796273446693&widgetName=sp_detail2&url=%2Fdp%2FB0B53P9JQB%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0B53P9JQB%26pd_rd_w%3DfieOf%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZKJ2K94YG7B5TDFA0C2K%26pd_rd_wg%3DN0wlk%26pd_rd_r%3D372a330d-a069-4a1a-8223-b2e451daf91f%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41ysQCZf8gL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 999,
+        "currency": "INR",
+        "raw": "₹999.00"
+      }
+    },
+    {
+      "title": "MIXEN Extra Grip Faux Leather Flat Bottom D-Shape Anti-Slip Steering Wheel Cover Compatible with Kia Seltos BMW Hyundai Venue, Black",
+      "asin": "B0B54NMRV8",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A04541682ETDPSJU5UNMJ&qualifier=1658427576&id=4859796273446693&widgetName=sp_detail2&url=%2Fdp%2FB0B54NMRV8%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0B54NMRV8%26pd_rd_w%3DfieOf%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZKJ2K94YG7B5TDFA0C2K%26pd_rd_wg%3DN0wlk%26pd_rd_r%3D372a330d-a069-4a1a-8223-b2e451daf91f%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41RO0RzmPoL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 899,
+        "currency": "INR",
+        "raw": "₹899.00"
+      }
+    },
+    {
+      "title": "Mixen Black Car Clothes Holder Headrest Car Coat Hanger Multifunction Travel Vehicle Jacket Suit Coat Car Safety Handle Hanger",
+      "asin": "B0855NG3GQ",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A03416011FBVD3UWRA21X&qualifier=1658427576&id=4859796273446693&widgetName=sp_detail2&url=%2Fdp%2FB0855NG3GQ%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0855NG3GQ%26pd_rd_w%3DfieOf%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZKJ2K94YG7B5TDFA0C2K%26pd_rd_wg%3DN0wlk%26pd_rd_r%3D372a330d-a069-4a1a-8223-b2e451daf91f%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51hwHCyFubL._AC_SR160,160_.jpg",
+      "rating": 3,
+      "ratings_total": 2,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1090,
+        "currency": "INR",
+        "raw": "₹1,090.00"
+      }
+    },
+    {
+      "title": "Docooler Car Steering Wheel Cover Protector Sport Style Contrast Color Non-Slip Sweat Good Breathable PU Leatherette 15 inch",
+      "asin": "B07R2F5R28",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A08924256FICFTZBFV9&qualifier=1658427576&id=4859796273446693&widgetName=sp_detail2&url=%2Fdp%2FB07R2F5R28%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB07R2F5R28%26pd_rd_w%3DfieOf%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZKJ2K94YG7B5TDFA0C2K%26pd_rd_wg%3DN0wlk%26pd_rd_r%3D372a330d-a069-4a1a-8223-b2e451daf91f%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51RITIPfu+L._AC_SR160,160_.jpg",
+      "price": {
+        "symbol": "₹",
+        "value": 8771,
+        "currency": "INR",
+        "raw": "₹8,771.00"
+      }
+    },
+    {
+      "title": "JUKKRE Crystal Steering Wheel Cover Universal Diamanter Velvet Steering Wheel Cover Anti-Skid Car Handcraft Steering Wheel Covers Soft Microfiber Steering Wheel Cover-38CM-Black with Silver Rhombus-1",
+      "asin": "B09SCZQYT9",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A00844372QYJYUK1ME6S5&qualifier=1658427576&id=4859796273446693&widgetName=sp_detail2&url=%2Fdp%2FB09SCZQYT9%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB09SCZQYT9%26pd_rd_w%3DfieOf%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZKJ2K94YG7B5TDFA0C2K%26pd_rd_wg%3DN0wlk%26pd_rd_r%3D372a330d-a069-4a1a-8223-b2e451daf91f%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51HY4Sl5xuL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 999,
+        "currency": "INR",
+        "raw": "₹999.00"
+      }
+    },
+    {
+      "title": "Godrej aer twist, Car Air Freshener - Cool Surf Blue (45g)",
+      "asin": "B00NNODZG6",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A0574349305UJJIGYPVVV&qualifier=1658427576&id=4859796273446693&widgetName=sp_detail2&url=%2Fdp%2FB00NNODZG6%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB00NNODZG6%26pd_rd_w%3DfieOf%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZKJ2K94YG7B5TDFA0C2K%26pd_rd_wg%3DN0wlk%26pd_rd_r%3D372a330d-a069-4a1a-8223-b2e451daf91f%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41Oa6NzmqzL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 7952,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 311,
+        "currency": "INR",
+        "raw": "₹311.00"
+      }
+    }
+  ]
+}
