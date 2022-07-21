@@ -1,0 +1,692 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 16,
+    "credits_remaining": 84,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.in",
+    "asin": "B091KNX2L1",
+    "type": "product"
+  },
+  "request_metadata": {
+    "created_at": "2022-07-21T04:37:42.746Z",
+    "processed_at": "2022-07-21T04:37:48.489Z",
+    "total_time_taken": 5.74,
+    "amazon_url": "https://www.amazon.in/dp/B091KNX2L1?th=1&psc=1"
+  },
+  "product": {
+    "title": "Van Heusen Men's Slim Shirt Navy 39",
+    "search_alias": {
+      "title": "Clothing & Accessories",
+      "value": "apparel"
+    },
+    "title_excluding_variant_name": "Van Heusen Men's Slim Shirt",
+    "keywords": "Van,Heusen,Men's,Slim,Shirt",
+    "keywords_list": [
+      "Heusen",
+      "Men's",
+      "Slim",
+      "Shirt"
+    ],
+    "asin": "B091KNX2L1",
+    "parent_asin": "B09X1TMQHS",
+    "link": "https://www.amazon.in/dp/B091KNX2L1??th=1&psc=1",
+    "brand": "Van Heusen",
+    "sell_on_amazon": true,
+    "variants": [
+      {
+        "asin": "B091KP1MF6",
+        "title": "Navy 38",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B091KP1MF6?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colour",
+            "value": "Navy"
+          },
+          {
+            "name": "Size",
+            "value": "38"
+          }
+        ]
+      },
+      {
+        "asin": "B091KQJJ4J",
+        "title": "Navy 40",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B091KQJJ4J?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colour",
+            "value": "Navy"
+          },
+          {
+            "name": "Size",
+            "value": "40"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71iXOURHOhL._UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71iXOURHOhL._UL1500_.jpg"
+          },
+          {
+            "variant": "BACK",
+            "link": "https://m.media-amazon.com/images/I/71tB4QdARwL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91iqUasEO1L._UL1500_.jpg"
+          },
+          {
+            "variant": "PT09",
+            "link": "https://m.media-amazon.com/images/I/71U9-FCQnfL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT10",
+            "link": "https://m.media-amazon.com/images/I/A16YdAm0vcL._UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B091KQF2NZ",
+        "title": "Navy 44",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B091KQF2NZ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colour",
+            "value": "Navy"
+          },
+          {
+            "name": "Size",
+            "value": "44"
+          }
+        ]
+      },
+      {
+        "asin": "B091KQHC5B",
+        "title": "Navy 42",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B091KQHC5B?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colour",
+            "value": "Navy"
+          },
+          {
+            "name": "Size",
+            "value": "42"
+          }
+        ]
+      },
+      {
+        "asin": "B091KKYW6B",
+        "title": "Navy 46",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B091KKYW6B?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colour",
+            "value": "Navy"
+          },
+          {
+            "name": "Size",
+            "value": "46"
+          }
+        ]
+      },
+      {
+        "asin": "B091KNX2L1",
+        "title": "Navy 39",
+        "is_current_product": true,
+        "link": "https://www.amazon.in/dp/B091KNX2L1?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colour",
+            "value": "Navy"
+          },
+          {
+            "name": "Size",
+            "value": "39"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B091KP1MF6,B091KQJJ4J,B091KQF2NZ,B091KQHC5B,B091KKYW6B,B091KNX2L1",
+    "categories": [
+      {
+        "name": "Clothing & Accessories",
+        "link": "https://www.amazon.in/Clothing-accesories/b/ref=dp_bc_aui_C_1?ie=UTF8&node=1571271031",
+        "category_id": "1571271031"
+      },
+      {
+        "name": "Men",
+        "link": "https://www.amazon.in/Mens-Clothing/b/ref=dp_bc_aui_C_2?ie=UTF8&node=1968024031",
+        "category_id": "1968024031"
+      },
+      {
+        "name": "Shirts",
+        "link": "https://www.amazon.in/Mens-Shirts/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1968093031",
+        "category_id": "1968093031"
+      },
+      {
+        "name": "Casual Shirts",
+        "link": "https://www.amazon.in/Casual-Shirts/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1968094031",
+        "category_id": "1968094031"
+      }
+    ],
+    "categories_flat": "Clothing & Accessories > Men > Shirts > Casual Shirts",
+    "description": "Upgrade your wardrobe with this navy solid shirt, tailored in Slim Fit from Van Heusen Denim Labs by Van Heusen.",
+    "promotions_feature": "10% Instant Discount up to INR 300 on Federal Bank Cards. Minimum purchase value INR 1000. Here's how \n   No cost EMI available on select cards. Please check 'EMI options' above for more details. Here's how \n   Get GST invoice and save up to 28% on business purchases. Sign up for free Here's how",
+    "sub_title": {
+      "text": "Visit the Van Heusen Store",
+      "link": "https://www.amazon.in/stores/VanHeusen/page/10EC8D0F-9346-4C8B-8561-758087DF07A1?ref_=ast_bln"
+    },
+    "rating": 3.5,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 27,
+        "count": 2
+      },
+      "four_star": {
+        "percentage": 36,
+        "count": 3
+      },
+      "three_star": {
+        "percentage": 12,
+        "count": 1
+      },
+      "two_star": {
+        "percentage": 12,
+        "count": 1
+      },
+      "one_star": {
+        "percentage": 12,
+        "count": 1
+      }
+    },
+    "ratings_total": 11,
+    "reviews_total": 11,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71iXOURHOhL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71iXOURHOhL._UL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71tB4QdARwL._UL1500_.jpg",
+        "variant": "BACK"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91iqUasEO1L._UL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71U9-FCQnfL._UL1500_.jpg",
+        "variant": "PT09"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/A16YdAm0vcL._UL1500_.jpg",
+        "variant": "PT10"
+      }
+    ],
+    "images_count": 5,
+    "images_flat": "https://m.media-amazon.com/images/I/71iXOURHOhL._UL1500_.jpg,https://m.media-amazon.com/images/I/71tB4QdARwL._UL1500_.jpg,https://m.media-amazon.com/images/I/91iqUasEO1L._UL1500_.jpg,https://m.media-amazon.com/images/I/71U9-FCQnfL._UL1500_.jpg,https://m.media-amazon.com/images/I/A16YdAm0vcL._UL1500_.jpg",
+    "is_bundle": false,
+    "feature_bullets": [
+      "Care Instructions: Machine Wash",
+      "Fit Type: Slim",
+      "Occasion : Casual",
+      "Pattern : Solid",
+      "Fit :Slim Fit",
+      "Material : 100% Cotton",
+      "Sleeves : Full Sleeves"
+    ],
+    "feature_bullets_count": 7,
+    "feature_bullets_flat": "Sleeves : Full Sleeves. Material : 100% Cotton. Fit :Slim Fit. Pattern : Solid. Occasion : Casual. Fit Type: Slim. Care Instructions: Machine Wash.",
+    "top_reviews": [
+      {
+        "id": "R31X7JRLRDFSXY",
+        "title": "Colour is same as shown in image and quality of fabric is too good",
+        "body": "As casual shirtRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>As casual shirt</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R31X7JRLRDFSXY/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B091KNX2L1",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 18 November 2021",
+          "utc": "2021-11-18T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Salam Krishnakumar",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AE744JQ362JHLHB2ZEHMELLQTWEQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AE744JQ362JHLHB2ZEHMELLQTWEQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "in",
+        "is_global_review": false
+      }
+    ],
+    "buybox_winner": {
+      "new_offers_count": 2,
+      "new_offers_from": {
+        "symbol": "₹",
+        "value": 1954,
+        "currency": "INR",
+        "raw": "₹1,954.00"
+      },
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In stock.",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "2p",
+        "standard_delivery": {
+          "date": "Monday, 25 July",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Saturday, 23 July",
+          "name": "Or fastest delivery Saturday, 23 July. Order within 37 mins. Details"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Aditya Birla Fashion And Retail",
+          "link": "https://www.amazon.in/sp?marketplaceID=A21TJRUUN4KGV&seller=A1XNX3UKWAQR9D&isAmazonFulfilled=1&ref=dp_merchant_link",
+          "id": "A1XNX3UKWAQR9D"
+        }
+      },
+      "price": {
+        "symbol": "₹",
+        "value": 1954,
+        "currency": "INR",
+        "raw": "₹1,954.00"
+      },
+      "rrp": {
+        "symbol": "₹",
+        "value": 2299,
+        "currency": "INR",
+        "raw": "₹2,299.00"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "more_buying_choices": [
+      {
+        "price": {
+          "symbol": "₹",
+          "value": 2299,
+          "currency": "INR",
+          "raw": "₹2,299.00"
+        },
+        "seller_name": "Aditya Birla Fashions and Retail Limited",
+        "free_shipping": true,
+        "position": 1
+      }
+    ],
+    "specifications": [
+      {
+        "name": "Product Dimensions",
+        "value": "26 x 21 x 2 cm; 300 Grams"
+      },
+      {
+        "name": "Date First Available",
+        "value": "2 April 2021"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "ABFRL"
+      },
+      {
+        "name": "ASIN",
+        "value": "B091KNX2L1"
+      },
+      {
+        "name": "Item model number",
+        "value": "VXSFCSLF819332"
+      },
+      {
+        "name": "Country of Origin",
+        "value": "India"
+      },
+      {
+        "name": "Department",
+        "value": "Men"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "ABFRL, Aditya Birla Fashion and Retail Ltd,7th Floor, Skyline Icon Business Park, 86-92, Off A.K. Road, Marol Village, Andheri (East), Mumbai, Maharashtra 400059"
+      },
+      {
+        "name": "Item Weight",
+        "value": "300 g"
+      },
+      {
+        "name": "Item Dimensions LxWxH",
+        "value": "26 x 21 x 2 Centimeters"
+      },
+      {
+        "name": "Generic Name",
+        "value": "Shirt"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "See Top 100 in Clothing & Accessories"
+      }
+    ],
+    "specifications_flat": "Best Sellers Rank: See Top 100 in Clothing & Accessories. Generic Name: Shirt. Item Dimensions LxWxH: 26 x 21 x 2 Centimeters. Item Weight: 300 g. Manufacturer: ABFRL, Aditya Birla Fashion and Retail Ltd,7th Floor, Skyline Icon Business Park, 86-92, Off A.K. Road, Marol Village, Andheri (East), Mumbai, Maharashtra 400059. Department: Men. Country of Origin: India. Item model number: VXSFCSLF819332. ASIN: B091KNX2L1. Manufacturer: ABFRL. Date First Available: 2 April 2021. Product Dimensions: 26 x 21 x 2 cm; 300 Grams.",
+    "bestsellers_rank": [
+      {
+        "category": "Clothing & Accessories",
+        "rank": 147,
+        "link": "https://www.amazon.in/gp/bestsellers/apparel/ref=pd_zg_ts_apparel"
+      },
+      {
+        "category": "Men's Casual Shirts",
+        "rank": 7,
+        "link": "https://www.amazon.in/gp/bestsellers/apparel/1968094031/ref=pd_zg_hrsr_apparel"
+      }
+    ],
+    "manufacturer": "ABFRL, Aditya Birla Fashion and Retail Ltd,7th Floor, Skyline Icon Business Park, 86-92, Off A.K. Road, Marol Village, Andheri (East), Mumbai, Maharashtra 400059",
+    "weight": "300 g",
+    "first_available": {
+      "raw": "2 April 2021",
+      "utc": "2021-04-02T00:00:00.000Z"
+    },
+    "dimensions": "26 x 21 x 2 cm; 300 Grams",
+    "model_number": "VXSFCSLF819332",
+    "bestsellers_rank_flat": "Category: Clothing & Accessories | Rank: 147, Category: Men's Casual Shirts | Rank: 7"
+  },
+  "brand_store": {
+    "id": "10EC8D0F-9346-4C8B-8561-758087DF07A1",
+    "link": "https://www.amazon.in/stores/VanHeusen/page/10EC8D0F-9346-4C8B-8561-758087DF07A1"
+  },
+  "sponsored_products": [
+    {
+      "title": "Van Heusen Men's Slim Shirt (VHSFVSLF729248_Navy 39)",
+      "asin": "B09V7ZV13W",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A06337521OW2XVSFZRO3W&qualifier=1658378264&id=7112997083711287&widgetName=sp_detail&url=%2Fdp%2FB09V7ZV13W%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB09V7ZV13W%26pd_rd_w%3DIm4O5%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DZGYVYNP83FZE0HPRGNKF%26pd_rd_wg%3DPozK4%26pd_rd_r%3Da4a8a5fb-27a5-4d51-a583-1b6e74a91cfb%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/411ZyPW8A1L._AC_SR160,200_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 2999,
+        "currency": "INR",
+        "raw": "₹2,999.00"
+      }
+    },
+    {
+      "title": "Van Heusen Men's Loose Shirt (VHSHMCUP890532_Wine 39)",
+      "asin": "B09XWGSYR3",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A06444403GM6WCVR2HWAJ&qualifier=1658378264&id=7112997083711287&widgetName=sp_detail&url=%2Fdp%2FB09XWGSYR3%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09XWGSYR3%26pd_rd_w%3DIm4O5%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DZGYVYNP83FZE0HPRGNKF%26pd_rd_wg%3DPozK4%26pd_rd_r%3Da4a8a5fb-27a5-4d51-a583-1b6e74a91cfb%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41tr3EoyO8L._AC_SR160,200_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1479,
+        "currency": "INR",
+        "raw": "₹1,479.00"
+      }
+    },
+    {
+      "title": "Van Heusen Men's Slim Shirt (VDSFESLFP16783_Green 39)",
+      "asin": "B09NC6L4N6",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A0652748EPZEKGTVGTM&qualifier=1658378264&id=7112997083711287&widgetName=sp_detail&url=%2Fdp%2FB09NC6L4N6%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB09NC6L4N6%26pd_rd_w%3DIm4O5%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DZGYVYNP83FZE0HPRGNKF%26pd_rd_wg%3DPozK4%26pd_rd_r%3Da4a8a5fb-27a5-4d51-a583-1b6e74a91cfb%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31I+cQdC5sL._AC_SR160,200_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1329,
+        "currency": "INR",
+        "raw": "₹1,329.00"
+      }
+    },
+    {
+      "title": "Van Heusen Men's Slim Shirt (VDSFESLF500234_Grey 39)",
+      "asin": "B093BYF3ND",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A06968952YX1J7A1V4WNZ&qualifier=1658378264&id=7112997083711287&widgetName=sp_detail&url=%2Fdp%2FB093BYF3ND%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB093BYF3ND%26pd_rd_w%3DIm4O5%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DZGYVYNP83FZE0HPRGNKF%26pd_rd_wg%3DPozK4%26pd_rd_r%3Da4a8a5fb-27a5-4d51-a583-1b6e74a91cfb%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/413HvdGVTBL._AC_SR160,200_.jpg",
+      "rating": 4,
+      "ratings_total": 6,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1223,
+        "currency": "INR",
+        "raw": "₹1,223.00"
+      }
+    },
+    {
+      "title": "Van Heusen Men's Slim Shirt (VDSFESLFX64714_White 39)",
+      "asin": "B09Y8X5VD7",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A06473203RMGPPI0H52GI&qualifier=1658378264&id=7112997083711287&widgetName=sp_detail&url=%2Fdp%2FB09Y8X5VD7%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB09Y8X5VD7%26pd_rd_w%3DIm4O5%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DZGYVYNP83FZE0HPRGNKF%26pd_rd_wg%3DPozK4%26pd_rd_r%3Da4a8a5fb-27a5-4d51-a583-1b6e74a91cfb%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41PDuAbZUSL._AC_SR160,200_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1793,
+        "currency": "INR",
+        "raw": "₹1,793.00"
+      }
+    },
+    {
+      "title": "Van Heusen Men's Loose Shirt (VHSFBCUBS80621_Blue 38)",
+      "asin": "B09XWQ1ZDZ",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A06876322JKRUNXGRLPW5&qualifier=1658378264&id=7112997083711287&widgetName=sp_detail&url=%2Fdp%2FB09XWQ1ZDZ%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB09XWQ1ZDZ%26pd_rd_w%3DIm4O5%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DZGYVYNP83FZE0HPRGNKF%26pd_rd_wg%3DPozK4%26pd_rd_r%3Da4a8a5fb-27a5-4d51-a583-1b6e74a91cfb%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/51Q-ba3-hoL._AC_SR160,200_.jpg",
+      "rating": 5,
+      "ratings_total": 1,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 919,
+        "currency": "INR",
+        "raw": "₹919.00"
+      }
+    },
+    {
+      "title": "Van Heusen Men's Regular Shirt (VHSFBCUBX11997_White 39)",
+      "asin": "B09XWT9ZDG",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A06775762NES4WZKBO4NV&qualifier=1658378264&id=7112997083711287&widgetName=sp_detail&url=%2Fdp%2FB09XWT9ZDG%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB09XWT9ZDG%26pd_rd_w%3DIm4O5%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DZGYVYNP83FZE0HPRGNKF%26pd_rd_wg%3DPozK4%26pd_rd_r%3Da4a8a5fb-27a5-4d51-a583-1b6e74a91cfb%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31vUtx6doPL._AC_SR160,200_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1049,
+        "currency": "INR",
+        "raw": "₹1,049.00"
+      }
+    },
+    {
+      "title": "Van Heusen Men's Loose Shirt (VHSFCCUPW68823_Green 39)",
+      "asin": "B09XWX4NLJ",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A0677240WDS2PY1U1HJB&qualifier=1658378264&id=7112997083711287&widgetName=sp_detail&url=%2Fdp%2FB09XWX4NLJ%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB09XWX4NLJ%26pd_rd_w%3DIm4O5%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DZGYVYNP83FZE0HPRGNKF%26pd_rd_wg%3DPozK4%26pd_rd_r%3Da4a8a5fb-27a5-4d51-a583-1b6e74a91cfb%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31cJ3IOCTRL._AC_SR160,200_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1699,
+        "currency": "INR",
+        "raw": "₹1,699.00"
+      }
+    },
+    {
+      "title": "Van Heusen Men's Slim Shirt (VDSFESLFI67769_Beige 39)",
+      "asin": "B08YXVMCSJ",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A0643360RS2AD6Q2DRJ1&qualifier=1658378264&id=7112997083711287&widgetName=sp_detail&url=%2Fdp%2FB08YXVMCSJ%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB08YXVMCSJ%26pd_rd_w%3DIm4O5%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DZGYVYNP83FZE0HPRGNKF%26pd_rd_wg%3DPozK4%26pd_rd_r%3Da4a8a5fb-27a5-4d51-a583-1b6e74a91cfb%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41EX3k7rTZL._AC_SR160,200_.jpg",
+      "rating": 2.5,
+      "ratings_total": 3,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1063,
+        "currency": "INR",
+        "raw": "₹1,063.00"
+      }
+    },
+    {
+      "title": "Van Heusen Men's Regular Shirt (VHSHMCUPR25866_White 39)",
+      "asin": "B091KPYMQ5",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A06695162PSOZY89Z79QT&qualifier=1658378264&id=7112997083711287&widgetName=sp_detail&url=%2Fdp%2FB091KPYMQ5%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB091KPYMQ5%26pd_rd_w%3DIm4O5%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DZGYVYNP83FZE0HPRGNKF%26pd_rd_wg%3DPozK4%26pd_rd_r%3Da4a8a5fb-27a5-4d51-a583-1b6e74a91cfb%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31byjAkuJPL._AC_SR160,200_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1048,
+        "currency": "INR",
+        "raw": "₹1,048.00"
+      }
+    },
+    {
+      "title": "Van Heusen Men's Slim Shirt (VSSFWSLP431696_Cream 44)",
+      "asin": "B09X75CT7W",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A06477561SIMT2OFBX706&qualifier=1658378264&id=4554146270952646&widgetName=sp_detail2&url=%2Fdp%2FB09X75CT7W%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB09X75CT7W%26pd_rd_w%3DUkoqj%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZGYVYNP83FZE0HPRGNKF%26pd_rd_wg%3DPozK4%26pd_rd_r%3Da4a8a5fb-27a5-4d51-a583-1b6e74a91cfb%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41vmne1SlfL._AC_SR160,200_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 2209,
+        "currency": "INR",
+        "raw": "₹2,209.00"
+      }
+    },
+    {
+      "title": "Van Heusen Men's Slim Shirt (VDSFESLFI67769_Beige 39)",
+      "asin": "B08YXVMCSJ",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A0643360RS2AD6Q2DRJ1&qualifier=1658378264&id=4554146270952646&widgetName=sp_detail2&url=%2Fdp%2FB08YXVMCSJ%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB08YXVMCSJ%26pd_rd_w%3DUkoqj%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZGYVYNP83FZE0HPRGNKF%26pd_rd_wg%3DPozK4%26pd_rd_r%3Da4a8a5fb-27a5-4d51-a583-1b6e74a91cfb%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41EX3k7rTZL._AC_SR160,200_.jpg",
+      "rating": 2.5,
+      "ratings_total": 3,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1063,
+        "currency": "INR",
+        "raw": "₹1,063.00"
+      }
+    },
+    {
+      "title": "Van Heusen Men's Slim Shirt (VDSFESLFP16783_Green 39)",
+      "asin": "B09NC6L4N6",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A0652748EPZEKGTVGTM&qualifier=1658378264&id=4554146270952646&widgetName=sp_detail2&url=%2Fdp%2FB09NC6L4N6%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB09NC6L4N6%26pd_rd_w%3DUkoqj%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZGYVYNP83FZE0HPRGNKF%26pd_rd_wg%3DPozK4%26pd_rd_r%3Da4a8a5fb-27a5-4d51-a583-1b6e74a91cfb%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31I+cQdC5sL._AC_SR160,200_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1329,
+        "currency": "INR",
+        "raw": "₹1,329.00"
+      }
+    },
+    {
+      "title": "Van Heusen Men's Slim Shirt (VHSFVSLFF54478_Grey 44)",
+      "asin": "B09XWW875X",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A06866842K28PFIYNY4T8&qualifier=1658378264&id=4554146270952646&widgetName=sp_detail2&url=%2Fdp%2FB09XWW875X%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB09XWW875X%26pd_rd_w%3DUkoqj%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZGYVYNP83FZE0HPRGNKF%26pd_rd_wg%3DPozK4%26pd_rd_r%3Da4a8a5fb-27a5-4d51-a583-1b6e74a91cfb%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31SWh0FgrZL._AC_SR160,200_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1649,
+        "currency": "INR",
+        "raw": "₹1,649.00"
+      }
+    },
+    {
+      "title": "Van Heusen Men's Slim Shirt (VHSFVSLF729248_Navy 39)",
+      "asin": "B09V7ZV13W",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A06337521OW2XVSFZRO3W&qualifier=1658378264&id=4554146270952646&widgetName=sp_detail2&url=%2Fdp%2FB09V7ZV13W%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB09V7ZV13W%26pd_rd_w%3DUkoqj%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZGYVYNP83FZE0HPRGNKF%26pd_rd_wg%3DPozK4%26pd_rd_r%3Da4a8a5fb-27a5-4d51-a583-1b6e74a91cfb%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/411ZyPW8A1L._AC_SR160,200_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 2999,
+        "currency": "INR",
+        "raw": "₹2,999.00"
+      }
+    },
+    {
+      "title": "Van Heusen Men's Loose Shirt (VHSHMCUP890532_Wine 39)",
+      "asin": "B09XWGSYR3",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A06444403GM6WCVR2HWAJ&qualifier=1658378264&id=4554146270952646&widgetName=sp_detail2&url=%2Fdp%2FB09XWGSYR3%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB09XWGSYR3%26pd_rd_w%3DUkoqj%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZGYVYNP83FZE0HPRGNKF%26pd_rd_wg%3DPozK4%26pd_rd_r%3Da4a8a5fb-27a5-4d51-a583-1b6e74a91cfb%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41tr3EoyO8L._AC_SR160,200_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1479,
+        "currency": "INR",
+        "raw": "₹1,479.00"
+      }
+    },
+    {
+      "title": "Van Heusen Men's Slim Shirt (VSSFWSLPG36257_Grey 44)",
+      "asin": "B09SPQ4DCF",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A061483320ZEGCAY6XC31&qualifier=1658378264&id=4554146270952646&widgetName=sp_detail2&url=%2Fdp%2FB09SPQ4DCF%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB09SPQ4DCF%26pd_rd_w%3DUkoqj%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZGYVYNP83FZE0HPRGNKF%26pd_rd_wg%3DPozK4%26pd_rd_r%3Da4a8a5fb-27a5-4d51-a583-1b6e74a91cfb%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41OIYJ0yfBL._AC_SR160,200_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 2599,
+        "currency": "INR",
+        "raw": "₹2,599.00"
+      }
+    },
+    {
+      "title": "Van Heusen Men's Slim Shirt (VHSFVSLF321328_Red 44)",
+      "asin": "B09QS3YVWC",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A061195332N2TM3Q010IT&qualifier=1658378264&id=4554146270952646&widgetName=sp_detail2&url=%2Fdp%2FB09QS3YVWC%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB09QS3YVWC%26pd_rd_w%3DUkoqj%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZGYVYNP83FZE0HPRGNKF%26pd_rd_wg%3DPozK4%26pd_rd_r%3Da4a8a5fb-27a5-4d51-a583-1b6e74a91cfb%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31cijoTEhlL._AC_SR160,200_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1475,
+        "currency": "INR",
+        "raw": "₹1,475.00"
+      }
+    },
+    {
+      "title": "Van Heusen Men's Regular Shirt (VHSHBCUB893438_White 40)",
+      "asin": "B09QS9KP87",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A06218892A9TCIACV990I&qualifier=1658378264&id=4554146270952646&widgetName=sp_detail2&url=%2Fdp%2FB09QS9KP87%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB09QS9KP87%26pd_rd_w%3DUkoqj%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZGYVYNP83FZE0HPRGNKF%26pd_rd_wg%3DPozK4%26pd_rd_r%3Da4a8a5fb-27a5-4d51-a583-1b6e74a91cfb%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31NojAx+4yL._AC_SR160,200_.jpg",
+      "rating": 5,
+      "ratings_total": 1,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1223,
+        "currency": "INR",
+        "raw": "₹1,223.00"
+      }
+    },
+    {
+      "title": "Van Heusen Men's Regular Shirt (VHSFBCUB053344_Blue 44)",
+      "asin": "B09XX34FPB",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A06282522H9RGR7WOOCQA&qualifier=1658378264&id=4554146270952646&widgetName=sp_detail2&url=%2Fdp%2FB09XX34FPB%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB09XX34FPB%26pd_rd_w%3DUkoqj%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZGYVYNP83FZE0HPRGNKF%26pd_rd_wg%3DPozK4%26pd_rd_r%3Da4a8a5fb-27a5-4d51-a583-1b6e74a91cfb%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31hD3iIAgAL._AC_SR160,200_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1099,
+        "currency": "INR",
+        "raw": "₹1,099.00"
+      }
+    }
+  ]
+}
