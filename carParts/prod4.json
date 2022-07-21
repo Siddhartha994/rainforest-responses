@@ -1,0 +1,869 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 26,
+    "credits_remaining": 74,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.in",
+    "asin": "B09F696T22",
+    "type": "product"
+  },
+  "request_metadata": {
+    "created_at": "2022-07-21T18:21:05.974Z",
+    "processed_at": "2022-07-21T18:21:25.094Z",
+    "total_time_taken": 19.12,
+    "amazon_url": "https://www.amazon.in/dp/B09F696T22?th=1&psc=1"
+  },
+  "product": {
+    "title": "XCLUSY Car Steering Cover with Crystal Stones and PU Leather, Universal Fit 15 Inch Car Steering Wheel Covers, Car Accessories for Interior Decoration (White)",
+    "search_alias": {
+      "title": "Car & Motorbike",
+      "value": "automotive"
+    },
+    "keywords": "XCLUSY,Car,Steering,Cover,with,Crystal,Stones,and,PU,Leather,,Universal,Fit,15,Inch,Car,Steering,Wheel,Covers,,Car,Accessories,for,Interior,Decoration,(White)",
+    "keywords_list": [
+      "XCLUSY",
+      "Steering",
+      "Cover",
+      "with",
+      "Crystal",
+      "Stones",
+      "Leather",
+      "Universal",
+      "Inch",
+      "Steering",
+      "Wheel",
+      "Covers",
+      "Accessories",
+      "Interior",
+      "Decoration",
+      "(White)"
+    ],
+    "asin": "B09F696T22",
+    "parent_asin": "B09X7G2MNR",
+    "link": "https://www.amazon.in/XCLUSY-Steering-Universal-Accessories-Decoration/dp/B09F696T22",
+    "brand": "XCLUSY",
+    "sell_on_amazon": true,
+    "variants": [
+      {
+        "asin": "B09F696T22",
+        "title": "WHITE",
+        "is_current_product": true,
+        "link": "https://www.amazon.in/dp/B09F696T22?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colour",
+            "value": "WHITE"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71FtQhkTIBL._SL1280_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71FtQhkTIBL._SL1280_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71xhyTqkBML._SL1280_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71Tc01lHT0L._SL1280_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71h+U4UoH4L._SL1280_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71TTGFBxQXL._SL1280_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71Aq6wXTfrL._SL1280_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/81nebPtmKJL._SL1280_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/71p5EUTE87L._SL1280_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 999,
+          "currency": "INR",
+          "raw": "₹999.00"
+        }
+      },
+      {
+        "asin": "B09ZB6L8ZM",
+        "title": "BEIGE",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09ZB6L8ZM?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colour",
+            "value": "BEIGE"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71KNNs4k9bL._SL1280_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71KNNs4k9bL._SL1280_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71xvAK7djxL._SL1280_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71teE9Nle-L._SL1280_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71VyGXqNfPL._SL1280_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71aK2wQ6pqL._SL1280_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61tARH0MxJL._SL1280_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/71hLkUVQUcL._SL1280_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 999,
+          "currency": "INR",
+          "raw": "₹999.00"
+        }
+      }
+    ],
+    "variant_asins_flat": "B09F696T22,B09ZB6L8ZM",
+    "categories": [
+      {
+        "name": "Car & Motorbike",
+        "link": "https://www.amazon.in/Car-Motorbike-Store/b/ref=dp_bc_aui_C_1?ie=UTF8&node=4772060031",
+        "category_id": "4772060031"
+      },
+      {
+        "name": "Car Parts",
+        "link": "https://www.amazon.in/Car-Parts/b/ref=dp_bc_aui_C_2?ie=UTF8&node=5257475031",
+        "category_id": "5257475031"
+      },
+      {
+        "name": "Interior Fittings",
+        "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_3?ie=UTF8&node=5257538031",
+        "category_id": "5257538031"
+      },
+      {
+        "name": "Steering Wheels, Hubs & Accessories",
+        "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_4?ie=UTF8&node=5257842031",
+        "category_id": "5257842031"
+      },
+      {
+        "name": "Steering Wheel Covers",
+        "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_5?ie=UTF8&node=5258293031",
+        "category_id": "5258293031"
+      }
+    ],
+    "categories_flat": "Car & Motorbike > Car Parts > Interior Fittings > Steering Wheels, Hubs & Accessories > Steering Wheel Covers",
+    "promotions_feature": "No cost EMI available on select cards. Please check 'EMI options' above for more details. Here's how Get GST invoice and save up to 28% on business purchases. Sign up for free Here's how",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "title": "XCLUSY New Shiny Rhinestones Steering Wheel Cover",
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/51c5f4ea-63fa-4dab-84bb-37e6c068f45f.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+        "description": "Life is a journey! The journey is never ending. There's always gonna be growth, improvement, adversity, you just gotta take it all in and do what's right. Continue to grow, continue to live in the moment!",
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/51c5f4ea-63fa-4dab-84bb-37e6c068f45f.__CR0,0,970,300_PT0_SX970_V1___.jpg"
+        ]
+      },
+      "third_party": true,
+      "company_logo": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e649e6e5-3b75-426b-98da-8a0c2130f985.__CR0,0,600,180_PT0_SX600_V1___.jpg"
+    },
+    "sub_title": {
+      "text": "Brand: XCLUSY",
+      "link": "https://www.amazon.in/XCLUSY/b/ref=bl_dp_s_web_20437612031?ie=UTF8&node=20437612031&field-lbr_brands_browse-bin=XCLUSY"
+    },
+    "marketplace_id": "A21TJRUUN4KGV",
+    "rating": 4.1,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 55,
+        "count": 22
+      },
+      "four_star": {
+        "percentage": 24,
+        "count": 9
+      },
+      "three_star": {
+        "percentage": 9,
+        "count": 3
+      },
+      "two_star": {
+        "percentage": 6,
+        "count": 2
+      },
+      "one_star": {
+        "percentage": 6,
+        "count": 2
+      }
+    },
+    "ratings_total": 41,
+    "reviews_total": 41,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71FtQhkTIBL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71FtQhkTIBL._SL1280_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71xhyTqkBML._SL1280_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71Tc01lHT0L._SL1280_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71h+U4UoH4L._SL1280_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71TTGFBxQXL._SL1280_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71Aq6wXTfrL._SL1280_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81nebPtmKJL._SL1280_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71p5EUTE87L._SL1280_.jpg",
+        "variant": "PT07"
+      }
+    ],
+    "images_count": 8,
+    "images_flat": "https://m.media-amazon.com/images/I/71FtQhkTIBL._SL1280_.jpg,https://m.media-amazon.com/images/I/71xhyTqkBML._SL1280_.jpg,https://m.media-amazon.com/images/I/71Tc01lHT0L._SL1280_.jpg,https://m.media-amazon.com/images/I/71h+U4UoH4L._SL1280_.jpg,https://m.media-amazon.com/images/I/71TTGFBxQXL._SL1280_.jpg,https://m.media-amazon.com/images/I/71Aq6wXTfrL._SL1280_.jpg,https://m.media-amazon.com/images/I/81nebPtmKJL._SL1280_.jpg,https://m.media-amazon.com/images/I/71p5EUTE87L._SL1280_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 41,
+        "width": 848,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/dcd9ad3e-470d-4016-b96e-ed2d5ea23aee/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/61CWE90FLgL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Xclusy Car Steering Wheel Cover"
+      }
+    ],
+    "videos_count": 1,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/dcd9ad3e-470d-4016-b96e-ed2d5ea23aee/default.jobtemplate.mp4.480.mp4",
+    "is_bundle": false,
+    "feature_bullets": [
+      "💓🚗【QUALITY MATERIAL】 This New Crystal Steering Wheel Cover made of durable microfiber leather with soft velvet, consisted hundreds of shiny rhinestones. Super Sparkly, Better Spotlight, Non-Dropping Diamond , and Comfortable Feelings, does not scratch hands, and has good anti-slip effect.",
+      "💓🚗 【STANDARD FIT】 XCLUSY Steering Wheel Cover is Universal Fit for Steering Wheel with 37-38 cm/14.5-15 inch in Diameter. It's suitable for most standard steering wheels.",
+      "💓🚗 【GREAT TOUCH FEELING】Sparkle rhinestone massage your palm and relieve driving fatigue, compared with other diamond steering wheel covers, this cute steering wheel cover not only bringing you an excellent visual feel, but also relieving you from driving fatigue, more comfortable and soft touch.",
+      "💓🚗 【LUXURY AND FASHION】 Fashion Charming Design of the Diamond Steering Wheel Cover, adds luxury into your car accessories interior decoration Bling under the light: sparkling through windshield and shining your car decoration accessories . Perfect Gift for Women and girls.",
+      "💓🚗 【EASY INSTALLATION】This sparkling steering wheel cover requires hassle-free installation. Simply slip it right on to your steering wheel and your good to go. Just place the cover on top of the steering wheel. Press and hold the upper part of the cover and gradually lower it with both hands on either side to tighten."
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "💓🚗 【EASY INSTALLATION】This sparkling steering wheel cover requires hassle-free installation. Simply slip it right on to your steering wheel and your good to go. Just place the cover on top of the steering wheel. Press and hold the upper part of the cover and gradually lower it with both hands on either side to tighten. 💓🚗 【LUXURY AND FASHION】 Fashion Charming Design of the Diamond Steering Wheel Cover, adds luxury into your car accessories interior decoration Bling under the light: sparkling through windshield and shining your car decoration accessories . Perfect Gift for Women and girls. 💓🚗 【GREAT TOUCH FEELING】Sparkle rhinestone massage your palm and relieve driving fatigue, compared with other diamond steering wheel covers, this cute steering wheel cover not only bringing you an excellent visual feel, but also relieving you from driving fatigue, more comfortable and soft touch. 💓🚗 【STANDARD FIT】 XCLUSY Steering Wheel Cover is Universal Fit for Steering Wheel with 37-38 cm/14.5-15 inch in Diameter. It's suitable for most standard steering wheels. 💓🚗【QUALITY MATERIAL】 This New Crystal Steering Wheel Cover made of durable microfiber leather with soft velvet, consisted hundreds of shiny rhinestones. Super Sparkly, Better Spotlight, Non-Dropping Diamond , and Comfortable Feelings, does not scratch hands, and has good anti-slip effect.",
+    "attributes": [
+      {
+        "name": "Colour",
+        "value": "WHITE"
+      },
+      {
+        "name": "Material",
+        "value": "Faux Leather"
+      },
+      {
+        "name": "Brand",
+        "value": "XCLUSY"
+      },
+      {
+        "name": "Vehicle Service Type",
+        "value": "Car"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "R3L77RT7KTYV3Q",
+        "title": "Feels satisfied",
+        "body": "Good to buyRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Good to buy</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R3L77RT7KTYV3Q/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09F696T22",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in India on 18 June 2022",
+          "utc": "2022-06-18T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Dinesh kumar",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AFGBFPH3D3CN7QW3GSP66N6E4EKQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFGBFPH3D3CN7QW3GSP66N6E4EKQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R13L6U5L1AN19V",
+        "title": "Good Quality and Look",
+        "body": "Fit well and looks good. This also adds up more grip while drivingRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Fit well and looks good. This also adds up more grip while driving</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R13L6U5L1AN19V/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09F696T22",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in India on 2 June 2022",
+          "utc": "2022-06-02T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Priten Nayak",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AG5VOI42XMAYYBQAQWZSHE42E4UQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG5VOI42XMAYYBQAQWZSHE42E4UQ",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/49a3808f-3d12-441e-bdc0-e46e91ea68e9._CR0,0,375,375_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "RT8DW98K7QYQ0",
+        "title": "Nice Grip. Keep on holding..",
+        "body": "Diomand stund is too good.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Diomand stund is too good.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/RT8DW98K7QYQ0/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09F696T22",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 12 April 2022",
+          "utc": "2022-04-12T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Pradeep.Mohapatra",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AHF52T54YNIWAJVY4A2R75MTGTAQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHF52T54YNIWAJVY4A2R75MTGTAQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R1PTHQ6IWXBYXC",
+        "title": "Comfortable for Driving",
+        "body": "Good for Driving Long HoursRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Good for Driving Long Hours</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R1PTHQ6IWXBYXC/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09F696T22",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 17 March 2022",
+          "utc": "2022-03-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Barjesh Paul Singh",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AF2UQIMVYUMPRSXVGBZ7WLTY6GIA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AF2UQIMVYUMPRSXVGBZ7WLTY6GIA",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/4263ce9c-1e8e-4424-b510-f4f3daf9bf4f._CR0,0,399,399_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R1VI2DEJOFIHSK",
+        "title": "It's a good product",
+        "body": "easy to installRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>easy to install</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R1VI2DEJOFIHSK/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09F696T22",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 28 April 2022",
+          "utc": "2022-04-28T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "samba",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AHNH76SX2XPTUB4GCHI6IM6H7E6Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHNH76SX2XPTUB4GCHI6IM6H7E6Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R14T2JEHNR0MF8",
+        "title": "Exlucy steering cover",
+        "body": "It is easy to fit.inside cabin slight lmprove decoration.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>It is easy to fit.inside cabin slight lmprove decoration.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R14T2JEHNR0MF8/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09F696T22",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in India on 13 October 2021",
+          "utc": "2021-10-13T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Amazon Customer",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AHYWG2FQSUMNAVW4WJ7PQWPC4AMQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHYWG2FQSUMNAVW4WJ7PQWPC4AMQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R27HP8PJYTLO9I",
+        "title": "Nice",
+        "body": "Really nice and comfy product a definite useRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Really nice and comfy product a definite use</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R27HP8PJYTLO9I/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09F696T22",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 20 May 2022",
+          "utc": "2022-05-20T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Ankit sharma",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AHIQKPDCGAWTFZ57YXJHZMWZRYRQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHIQKPDCGAWTFZ57YXJHZMWZRYRQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "in",
+        "is_global_review": false
+      }
+    ],
+    "buybox_winner": {
+      "offer_id": "Spn8uG4Euf60YFi0rON1fAUJZyp4FTnMbGALb/oISYd4gN/oKtW72N8Y/cWm6Ikm8yjqEKcJjbPMOUPCNpn8EZSzlwXzaEdNVAoBKw04ulSaV4no8uEnIJLZeFueLo1l+5jmowmR0xjVH9HJerD7VGxb+cnCTOTrxnTrcpRuVVhKRba7zUdPhdNWXchJiLm6",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In stock.",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "2p",
+        "standard_delivery": {
+          "date": "Sunday, 24 July",
+          "name": "FREE"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "FENTECH",
+          "link": "https://www.amazon.in/sp?marketplaceID=A21TJRUUN4KGV&seller=A1BY0U1ZAALQLV&isAmazonFulfilled=1&ref=dp_merchant_link",
+          "id": "A1BY0U1ZAALQLV"
+        }
+      },
+      "price": {
+        "symbol": "₹",
+        "value": 999,
+        "currency": "INR",
+        "raw": "₹999.00"
+      },
+      "rrp": {
+        "symbol": "₹",
+        "value": 3999,
+        "currency": "INR",
+        "raw": "₹3,999.00"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Manufacturer",
+        "value": "‎XCLUSY"
+      },
+      {
+        "name": "Brand",
+        "value": "‎XCLUSY"
+      },
+      {
+        "name": "Model",
+        "value": "‎CAR STEERING WHEEL COVER"
+      },
+      {
+        "name": "Package Dimensions",
+        "value": "‎62.6 x 37.5 x 5.7 cm; 670 Grams"
+      },
+      {
+        "name": "Item part number",
+        "value": "‎XCLUSY"
+      },
+      {
+        "name": "Manufacturer Part Number",
+        "value": "‎XCLUSY"
+      },
+      {
+        "name": "Material",
+        "value": "‎Faux Leather"
+      },
+      {
+        "name": "Colour",
+        "value": "‎WHITE"
+      },
+      {
+        "name": "Assembly Required",
+        "value": "‎No"
+      },
+      {
+        "name": "Country of Origin",
+        "value": "‎China"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎670 g"
+      },
+      {
+        "name": "ASIN",
+        "value": "B09F696T22"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.1 out of 5 stars       41 ratings          4.1 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#3,122 in Car & Motorbike"
+      },
+      {
+        "name": "Date First Available",
+        "value": "1 September 2021"
+      },
+      {
+        "name": "Colour",
+        "value": "WHITE"
+      },
+      {
+        "name": "Material",
+        "value": "Faux Leather"
+      },
+      {
+        "name": "Brand",
+        "value": "XCLUSY"
+      },
+      {
+        "name": "Vehicle Service Type",
+        "value": "Car"
+      }
+    ],
+    "specifications_flat": "Vehicle Service Type: Car. Brand: XCLUSY. Material: Faux Leather. Colour: WHITE. Date First Available: 1 September 2021. Best Sellers Rank: #3,122 in Car & Motorbike. Customer Reviews: 4.1 out of 5 stars       41 ratings          4.1 out of 5 stars. ASIN: B09F696T22. Item Weight: ‎670 g. Country of Origin: ‎China. Assembly Required: ‎No. Colour: ‎WHITE. Material: ‎Faux Leather. Manufacturer Part Number: ‎XCLUSY. Item part number: ‎XCLUSY. Package Dimensions: ‎62.6 x 37.5 x 5.7 cm; 670 Grams. Model: ‎CAR STEERING WHEEL COVER. Brand: ‎XCLUSY. Manufacturer: ‎XCLUSY.",
+    "bestsellers_rank": [
+      {
+        "category": "Car & Motorbike",
+        "rank": 3122,
+        "link": "https://www.amazon.in/gp/bestsellers/automotive/ref=pd_zg_ts_automotive"
+      },
+      {
+        "category": "Steering Wheel Covers",
+        "rank": 13,
+        "link": "https://www.amazon.in/gp/bestsellers/automotive/5258293031/ref=pd_zg_hrsr_automotive"
+      }
+    ],
+    "color": "WHITE",
+    "material": "Faux Leather",
+    "manufacturer": "‎XCLUSY",
+    "weight": "‎670 g",
+    "first_available": {
+      "raw": "1 September 2021",
+      "utc": "2021-09-01T00:00:00.000Z"
+    },
+    "model_number": "‎XCLUSY",
+    "bestsellers_rank_flat": "Category: Car & Motorbike | Rank: 3122, Category: Steering Wheel Covers | Rank: 13"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "₹",
+      "value": 1495,
+      "currency": "INR",
+      "raw": "₹1,495.00"
+    },
+    "products": [
+      {
+        "asin": "B09F696T22",
+        "title": "XCLUSY Car Steering Cover with Crystal Stones and PU Leather, Universal Fit 15 Inch Car Steering Wheel Covers, Car Accessories for Interior Decoration (White)",
+        "link": "https://www.amazon.in/dp/B09F696T22",
+        "image": "https://m.media-amazon.com/images/I/71QRD25DZfL._SS100_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 999,
+          "currency": "INR",
+          "raw": "₹999.00"
+        }
+      },
+      {
+        "asin": "B09J2ZYL7Y",
+        "title": "Car Engine Start Stop Button Cover Push Start Button Cover Anti-scratch Car Accessories Interior Decoration",
+        "link": "https://www.amazon.in/dp/B09J2ZYL7Y",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71+Vm1fu4oL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 299,
+          "currency": "INR",
+          "raw": "₹299.00"
+        }
+      },
+      {
+        "asin": "B07TN7QYB6",
+        "title": "HSR Car Accessories in 10PCS/1Set Car Wiper Detergent Effervescent Tablets Washer Auto Windshield Cleaner Glass Wash Cleaning",
+        "link": "https://www.amazon.in/dp/B07TN7QYB6",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71jcFEPDLvL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 197,
+          "currency": "INR",
+          "raw": "₹197.00"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B07J6MZ95F",
+    "link": "https://www.amazon.in/dp/B07J6MZ95F/ref=vp_d_pb_TIER2_sessmpr_lp_B09F696T22_pd?_encoding=UTF8&pf_rd_p=0f75d243-34c8-4ab1-b1cf-db0ffce087bc&pf_rd_r=TW1RC9RS595CSE2HTNQX&pd_rd_wg=3Baw4&pd_rd_i=B07J6MZ95F&pd_rd_w=JgqHC&content-id=amzn1.sym.0f75d243-34c8-4ab1-b1cf-db0ffce087bc&pd_rd_r=f87dd803-aa88-4832-b60b-75bf809a42d9",
+    "title": "Amazon Brand - Solimo Leatherette Steering Cover (Small), Grey",
+    "rating": 4,
+    "ratings_total": 831,
+    "image": "https://m.media-amazon.com/images/I/71QRD25DZfL._SS100_.jpg",
+    "price": {
+      "value": 229,
+      "currency": "INR",
+      "symbol": "₹",
+      "raw": "229.00"
+    }
+  },
+  "compare_with_similar": [
+    {
+      "asin": "B09F696T22",
+      "image": "https://m.media-amazon.com/images/I/71FtQhkTIBL._AC_SS450_.jpg",
+      "title": "XCLUSY Car Steering Cover with Crystal Stones and PU Leather, Universal Fit 15 Inch Car Steering Wheel Covers, Car Accessories for Interior Decoration (White)",
+      "rating": 4,
+      "ratings_total": 41,
+      "link": "https://www.amazon.in/dp/B09F696T22"
+    },
+    {
+      "asin": "B076Q5LM7Z",
+      "image": "https://m.media-amazon.com/images/I/81FGsT65s+L._AC_SS450_.jpg",
+      "title": "NIKAVI Hard Microfiber Leather Steering Wheel Cover (Black)",
+      "rating": 4,
+      "ratings_total": 111,
+      "link": "https://www.amazon.in/dp/B076Q5LM7Z"
+    },
+    {
+      "asin": "B06XBMHLKY",
+      "image": "https://m.media-amazon.com/images/I/61WQ7WyXy0L._AC_SS450_.jpg",
+      "title": "NIKAVI Leather Steering Wheel Cover(Black)",
+      "rating": 4,
+      "ratings_total": 2064,
+      "link": "https://www.amazon.in/dp/B06XBMHLKY"
+    },
+    {
+      "asin": "B076Q4G37V",
+      "image": "https://m.media-amazon.com/images/I/71-hsLEyoHL._AC_SS450_.jpg",
+      "title": "NIKAVI Luxury Steering Wheel Cover (Black)",
+      "rating": 4,
+      "ratings_total": 943,
+      "link": "https://www.amazon.in/dp/B076Q4G37V"
+    },
+    {
+      "asin": "B07BBF5CFP",
+      "image": "https://m.media-amazon.com/images/I/61wzJbco9CL._AC_SS450_.jpg",
+      "title": "NIKAVI Car Fashion Steering Wheel Cover (Black)",
+      "rating": 4,
+      "ratings_total": 744,
+      "link": "https://www.amazon.in/dp/B07BBF5CFP"
+    }
+  ],
+  "also_bought": [
+    {
+      "title": "Amazon Brand - Solimo Leatherette Steering Cover (Small), Grey",
+      "asin": "B07J6MZ95F",
+      "link": "https://www.amazon.in/Solimo-Steering-Cover-Small-Grey/dp/B07J6MZ95F/ref=pb_rfob_btf_desktop_sccl_2_1/258-5623227-2107259?pd_rd_w=jtBkF&content-id=amzn1.sym.eb731025-b654-41b8-b345-99c34efe9b4f&pf_rd_p=eb731025-b654-41b8-b345-99c34efe9b4f&pf_rd_r=TW1RC9RS595CSE2HTNQX&pd_rd_wg=JtxWm&pd_rd_r=d221b484-e879-4169-b680-78ba9469c1c2&pd_rd_i=B07J6MZ95F&psc=1",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71QRD25DZfL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.2,
+      "ratings_total": 831,
+      "price": {
+        "symbol": "₹",
+        "value": 229,
+        "currency": "INR",
+        "raw": "₹229.00"
+      }
+    }
+  ],
+  "sponsored_products": [
+    {
+      "title": "JUKKRE Car Steering Wheel Cover, New Steering Wheel Cover, Wooden Pattern PU Leather Steering Covers Car Steering Wheel Cover Auto Accessories Universal-Black Wooden-1",
+      "asin": "B09SD6MLRC",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A08052341DCM37DME4VSS&qualifier=1658427668&id=5338144168007266&widgetName=sp_detail2&url=%2Fdp%2FB09SD6MLRC%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB09SD6MLRC%26pd_rd_w%3DD6KXZ%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DTW1RC9RS595CSE2HTNQX%26pd_rd_wg%3DJtxWm%26pd_rd_r%3Dd221b484-e879-4169-b680-78ba9469c1c2%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51v+3zp4VNL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 999,
+        "currency": "INR",
+        "raw": "₹999.00"
+      }
+    },
+    {
+      "title": "ShineXPro Microfiber Car Cleaning Cloth - OG Soft 500 GSM Extra Large (35x75 cm) Microfiber Cloth for Car and Bike - Suede Edging for Scratchless Drying and Detailing (Pack of 2)",
+      "asin": "B09RWTYMCF",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A02472542AWLOHFQS214C&qualifier=1658427668&id=5338144168007266&widgetName=sp_detail2&url=%2Fdp%2FB09RWTYMCF%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09RWTYMCF%26pd_rd_w%3DD6KXZ%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DTW1RC9RS595CSE2HTNQX%26pd_rd_wg%3DJtxWm%26pd_rd_r%3Dd221b484-e879-4169-b680-78ba9469c1c2%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51cqkNHSdXL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 1485,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 499,
+        "currency": "INR",
+        "raw": "₹499.00"
+      }
+    },
+    {
+      "title": "Newlly Microfiber Leather Car Steering Wheel Cover (Black)",
+      "asin": "B07RFSLNQ9",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A04140381P6K4RTZR8M43&qualifier=1658427668&id=5338144168007266&widgetName=sp_detail2&url=%2Fdp%2FB07RFSLNQ9%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB07RFSLNQ9%26pd_rd_w%3DD6KXZ%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DTW1RC9RS595CSE2HTNQX%26pd_rd_wg%3DJtxWm%26pd_rd_r%3Dd221b484-e879-4169-b680-78ba9469c1c2%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41kCet6dX4S._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 585,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 539,
+        "currency": "INR",
+        "raw": "₹539.00"
+      }
+    },
+    {
+      "title": "ShineXPro Microfiber Cloth for Car - PureMagic 1100 GSM Twisted Loop Super Absorbent Towel - Edgeless Design with Plush Pile and Lint Free Cloth for Drying and Detailing (40CM x 60CM (Large))",
+      "asin": "B09NY7VK6G",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A019480833DD8OM5QJ148&qualifier=1658427668&id=5338144168007266&widgetName=sp_detail2&url=%2Fdp%2FB09NY7VK6G%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB09NY7VK6G%26pd_rd_w%3DD6KXZ%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DTW1RC9RS595CSE2HTNQX%26pd_rd_wg%3DJtxWm%26pd_rd_r%3Dd221b484-e879-4169-b680-78ba9469c1c2%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51vSZ5aCLjL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 1477,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 599,
+        "currency": "INR",
+        "raw": "₹599.00"
+      }
+    },
+    {
+      "title": "JUKKRE Soft Steering Wheel Cover for Unisex, with Bling Bling Crystal Rhinestones Steering Wheel Cover, Universal 15-inch, Non-Slip, Colorful-Black with Silver Rhombus-1",
+      "asin": "B09SCJ443F",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A00835451WY7CXSVSN00U&qualifier=1658427668&id=5338144168007266&widgetName=sp_detail2&url=%2Fdp%2FB09SCJ443F%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB09SCJ443F%26pd_rd_w%3DD6KXZ%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DTW1RC9RS595CSE2HTNQX%26pd_rd_wg%3DJtxWm%26pd_rd_r%3Dd221b484-e879-4169-b680-78ba9469c1c2%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51Vh8GfpRmL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 999,
+        "currency": "INR",
+        "raw": "₹999.00"
+      }
+    },
+    {
+      "title": "Jukkre D Type Steering Wheel Cover, Genuine Leather with Carbon Fiber Style Anti-Slip Car Wheel Wrap, Soft & Breathable, Universal Fit 15 Inch Car /Auto/SUV Steering Wheels, Black",
+      "asin": "B0B53P9JQB",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A00095463KIQ5O0NEXH8G&qualifier=1658427668&id=5338144168007266&widgetName=sp_detail2&url=%2Fdp%2FB0B53P9JQB%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0B53P9JQB%26pd_rd_w%3DD6KXZ%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DTW1RC9RS595CSE2HTNQX%26pd_rd_wg%3DJtxWm%26pd_rd_r%3Dd221b484-e879-4169-b680-78ba9469c1c2%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41ysQCZf8gL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 999,
+        "currency": "INR",
+        "raw": "₹999.00"
+      }
+    },
+    {
+      "title": "JUKKRE Crystal Steering Wheel Cover Universal Diamanter Velvet Steering Wheel Cover Anti-Skid Car Handcraft Steering Wheel Covers Soft Microfiber Steering Wheel Cover-38CM-Black with Silver Rhombus-1",
+      "asin": "B09SCZQYT9",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A00844372QYJYUK1ME6S5&qualifier=1658427668&id=5338144168007266&widgetName=sp_detail2&url=%2Fdp%2FB09SCZQYT9%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB09SCZQYT9%26pd_rd_w%3DD6KXZ%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DTW1RC9RS595CSE2HTNQX%26pd_rd_wg%3DJtxWm%26pd_rd_r%3Dd221b484-e879-4169-b680-78ba9469c1c2%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51HY4Sl5xuL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 999,
+        "currency": "INR",
+        "raw": "₹999.00"
+      }
+    },
+    {
+      "title": "MosQuick® Multifunctional 3-in-1 Car Cup Holder with Phone Holder Bottle Storage Organizer Plastic",
+      "asin": "B09KLX9Z3X",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A056029016G1O2QOKTY7M&qualifier=1658427668&id=5338144168007266&widgetName=sp_detail2&url=%2Fdp%2FB09KLX9Z3X%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB09KLX9Z3X%26pd_rd_w%3DD6KXZ%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DTW1RC9RS595CSE2HTNQX%26pd_rd_wg%3DJtxWm%26pd_rd_r%3Dd221b484-e879-4169-b680-78ba9469c1c2%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51NTLlAN+IL._AC_SR160,160_.jpg",
+      "rating": 3,
+      "ratings_total": 9,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1699,
+        "currency": "INR",
+        "raw": "₹1,699.00"
+      }
+    },
+    {
+      "title": "MAX Microfiber Cloth for Car Cleaning (800 GSM, Pack of 3, Size: 30 x 40 cm) Double Sided, High Density, Extra Thick Plush Towel for Car Detailing, Cleaning, Washing and Polishing, Color: Yellow, Blue, Green",
+      "asin": "B09N2NS9ND",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A059482114GC0UAYBWMOQ&qualifier=1658427668&id=5338144168007266&widgetName=sp_detail2&url=%2Fdp%2FB09N2NS9ND%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB09N2NS9ND%26pd_rd_w%3DD6KXZ%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DTW1RC9RS595CSE2HTNQX%26pd_rd_wg%3DJtxWm%26pd_rd_r%3Dd221b484-e879-4169-b680-78ba9469c1c2%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy%26smid%3DA2T9P3F6BFCCTH",
+      "image": "https://m.media-amazon.com/images/I/5169imK12zL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 240,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 376,
+        "currency": "INR",
+        "raw": "₹376.00"
+      }
+    },
+    {
+      "title": "Dravizon Car Steering Cover with Crystal Stones and PU Leather, Universal Fit 15 Inch Car Steering Wheel Covers, Crystal Diamond Cover Steering Wheel Cover for Girls",
+      "asin": "B09SB4CLH9",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A077489422QI0Y2FIIDM9&qualifier=1658427668&id=5338144168007266&widgetName=sp_detail2&url=%2Fdp%2FB09SB4CLH9%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB09SB4CLH9%26pd_rd_w%3DD6KXZ%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DTW1RC9RS595CSE2HTNQX%26pd_rd_wg%3DJtxWm%26pd_rd_r%3Dd221b484-e879-4169-b680-78ba9469c1c2%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51jIgQfN8FL._AC_SR160,160_.jpg",
+      "rating": 1,
+      "ratings_total": 1,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 497,
+        "currency": "INR",
+        "raw": "₹497.00"
+      }
+    }
+  ]
+}
