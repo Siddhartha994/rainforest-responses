@@ -1,0 +1,742 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 23,
+    "credits_remaining": 77,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.in",
+    "asin": "B0848RQKHH",
+    "type": "product"
+  },
+  "request_metadata": {
+    "created_at": "2022-07-21T18:18:34.396Z",
+    "processed_at": "2022-07-21T18:18:57.924Z",
+    "total_time_taken": 23.53,
+    "amazon_url": "https://www.amazon.in/dp/B0848RQKHH?th=1&psc=1"
+  },
+  "product": {
+    "title": "Auto Oprema Microfiber Leather Auto Car Steering Wheel Cover Universal 15 inch (Black)",
+    "search_alias": {
+      "title": "Car & Motorbike",
+      "value": "automotive"
+    },
+    "keywords": "Auto,Oprema,Microfiber,Leather,Auto,Car,Steering,Wheel,Cover,Universal,15,inch,(Black)",
+    "keywords_list": [
+      "Auto",
+      "Oprema",
+      "Microfiber",
+      "Leather",
+      "Auto",
+      "Steering",
+      "Wheel",
+      "Cover",
+      "Universal",
+      "inch",
+      "(Black)"
+    ],
+    "asin": "B0848RQKHH",
+    "parent_asin": "B0848QGJ56",
+    "link": "https://www.amazon.in/Auto-Oprema-Microfiber-Steering-Universal/dp/B0848RQKHH",
+    "brand": "Auto Oprema",
+    "sell_on_amazon": true,
+    "variants": [
+      {
+        "asin": "B0848M1GH8",
+        "title": "Beige",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B0848M1GH8?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colour",
+            "value": "Beige"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61hTJK3v89L._SL1200_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61hTJK3v89L._SL1200_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71Tyj403gTL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71r+G5rUufL._SL1400_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71GmiGTM1fL._SL1400_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/715wMa5WjkL._SL1400_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71QkOKFOctL._SL1400_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/711YGuJV-EL._SL1400_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 340,
+          "currency": "INR",
+          "raw": "₹340.00"
+        }
+      },
+      {
+        "asin": "B0848RQKHH",
+        "title": "Black",
+        "is_current_product": true,
+        "link": "https://www.amazon.in/dp/B0848RQKHH?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colour",
+            "value": "Black"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61IHIHpFXvL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61IHIHpFXvL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/61LiKPcgRSL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/61P0dsU2mlL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/51UuaXPfwzL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71vpfpJmzEL._SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 340,
+          "currency": "INR",
+          "raw": "₹340.00"
+        }
+      }
+    ],
+    "variant_asins_flat": "B0848M1GH8,B0848RQKHH",
+    "categories": [
+      {
+        "name": "Car & Motorbike",
+        "link": "https://www.amazon.in/Car-Motorbike-Store/b/ref=dp_bc_aui_C_1?ie=UTF8&node=4772060031",
+        "category_id": "4772060031"
+      },
+      {
+        "name": "Car Parts",
+        "link": "https://www.amazon.in/Car-Parts/b/ref=dp_bc_aui_C_2?ie=UTF8&node=5257475031",
+        "category_id": "5257475031"
+      },
+      {
+        "name": "Interior Fittings",
+        "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_3?ie=UTF8&node=5257538031",
+        "category_id": "5257538031"
+      },
+      {
+        "name": "Steering Wheels, Hubs & Accessories",
+        "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_4?ie=UTF8&node=5257842031",
+        "category_id": "5257842031"
+      },
+      {
+        "name": "Steering Wheel Covers",
+        "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_5?ie=UTF8&node=5258293031",
+        "category_id": "5258293031"
+      }
+    ],
+    "categories_flat": "Car & Motorbike > Car Parts > Interior Fittings > Steering Wheels, Hubs & Accessories > Steering Wheel Covers",
+    "description": "Product Specification\n\n\nSteering wheel covers fit middle size steering wheels with outer diameter of 15\". Suitable for: Audi, BMW(except Mini), ,, Chevrolet, , Fiat, Ford, Hyundai, Honda, Jeep, Land Rover, Lexus, Mercedes Benz, Mazda, Nissan Peugeot, Renault, Skoda, Sonata, , Toyota, Volkswagen, Volvo, etc. If you are not sure whether our products fit your car, you may leave us a message. Better comfort: Breathable, soft padding, contour shape and massaging design. Product Feature *  Durability: Heat resistant, cold resistant and wear-resistant. Increased safety: A better grip on the wheel gives you more control on the road. \n * Material: Our products are totally eco-friendly and healthy. \n * Auto Oprema has been devoted to designing, manufacturing and supplying high quality steering wheel covers for ten years. \n * We choose high quality, eco-friendly and healthy materials. \n * . We employ advanced manufacturing technique and the whole production process is under strict quality control. Other Details * Brand: Auto Oprema\n    * Type: Steering Wheel Cover \n    * Size: 15 inch\n    * Car Type: All Car",
+    "promotions_feature": "5% coupon applied at checkout. Terms Clip this coupon to save 5% on this product when you buy from AUTO OPREMA® | MOVELL® | SW®. Here's how No cost EMI available on select cards. Please check 'EMI options' above for more details. Here's how Get GST invoice and save up to 28% on business purchases. Sign up for free Here's how",
+    "sub_title": {
+      "text": "Brand: Auto Oprema",
+      "link": "https://www.amazon.in/Auto-Oprema/b/ref=bl_dp_s_web_18019465031?ie=UTF8&node=18019465031&field-lbr_brands_browse-bin=Auto+Oprema"
+    },
+    "amazons_choice": {
+      "keywords": "swift car accessories all",
+      "link": "https://www.amazon.in/s/ref=choice_dp_b?keywords=swift%20car%20accessories%20all"
+    },
+    "has_coupon": true,
+    "coupon_text": "Apply 5% coupon.",
+    "rating": 4.2,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 50,
+        "count": 996
+      },
+      "four_star": {
+        "percentage": 30,
+        "count": 597
+      },
+      "three_star": {
+        "percentage": 11,
+        "count": 219
+      },
+      "two_star": {
+        "percentage": 3,
+        "count": 59
+      },
+      "one_star": {
+        "percentage": 6,
+        "count": 119
+      }
+    },
+    "ratings_total": 1993,
+    "reviews_total": 1993,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/61IHIHpFXvL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/61IHIHpFXvL._SL1001_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61LiKPcgRSL._SL1001_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61P0dsU2mlL._SL1001_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51UuaXPfwzL._SL1001_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71vpfpJmzEL._SL1500_.jpg",
+        "variant": "PT04"
+      }
+    ],
+    "images_count": 5,
+    "images_flat": "https://m.media-amazon.com/images/I/61IHIHpFXvL._SL1001_.jpg,https://m.media-amazon.com/images/I/61LiKPcgRSL._SL1001_.jpg,https://m.media-amazon.com/images/I/61P0dsU2mlL._SL1001_.jpg,https://m.media-amazon.com/images/I/51UuaXPfwzL._SL1001_.jpg,https://m.media-amazon.com/images/I/71vpfpJmzEL._SL1500_.jpg",
+    "is_bundle": false,
+    "feature_bullets": [
+      "Made Of Smooth And Durable Microfiber Leather",
+      "Skidproof, Stable, Heat Resistant",
+      "Healthy And Eco-friendly",
+      "Suitable For Middle-size Steering Wheels With Diameter 14 1/2 Inch To 15 Inch(37cm To 39cm)",
+      "Perfect Decor For Your Car, Also Protect Your Steering Wheel"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Perfect Decor For Your Car, Also Protect Your Steering Wheel. Suitable For Middle-size Steering Wheels With Diameter 14 1/2 Inch To 15 Inch(37cm To 39cm). Healthy And Eco-friendly. Skidproof, Stable, Heat Resistant. Made Of Smooth And Durable Microfiber Leather.",
+    "important_information": {
+      "sections": [
+        {
+          "title": "Legal Disclaimer:",
+          "body": "Return/Refund"
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "name": "Colour",
+        "value": "Black"
+      },
+      {
+        "name": "Material",
+        "value": "Faux Leather"
+      },
+      {
+        "name": "Brand",
+        "value": "Auto Oprema"
+      },
+      {
+        "name": "Vehicle Service Type",
+        "value": "Car"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "R1FW185OSWC1PE",
+        "title": "Super schön und einfacher Aufbau",
+        "body": "Die Tische hab ich innerhalb von 30min aufgebaut ging super leicht und schnell :) ansonsten sehen die Tische genau so aus wie auf dem Bild hat uns mega gefallenRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Die Tische hab ich innerhalb von 30min aufgebaut ging super leicht und schnell :) ansonsten sehen die Tische genau so aus wie auf dem Bild hat uns mega gefallen</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in Germany on 9 October 2021",
+          "utc": "2021-10-09T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Sümeyra Yasemin Ertugrul"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 5,
+        "review_country": "de",
+        "is_global_review": true
+      },
+      {
+        "id": "R3DQHA7B2JVB5V",
+        "title": "Schöne, leichte Couchtischkombi",
+        "body": "Geht gut zusammenzubauen und sieht schick aus. Besonders schön ist, dass die Tische sehr leicht sind jnd so auch schnell mal zur Seite geschoben oder gehoben werden können. Wir sind sehr zufrieden.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Geht gut zusammenzubauen und sieht schick aus. Besonders schön ist, dass die Tische sehr leicht sind jnd so auch schnell mal zur Seite geschoben oder gehoben werden können. Wir sind sehr zufrieden.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Germany on 6 February 2022",
+          "utc": "2022-02-06T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "R.K."
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "de",
+        "is_global_review": true
+      }
+    ],
+    "buybox_winner": {
+      "offer_id": "yvhcAe59LtUy2nDGc8WSNJ4I6anF48/99b5ExlOfN8HqjEpxn9DKn6c47JiPzaSY/GW654fxZybtyyUToCLhwTcvwi0Dcuzoefx4p4Yicnd9Hx8eSOQzCfy0WsR2pM9znCEABERZgF8Iw2OCjJEFJ+EPwSxcJgpfX8IqSf8AEp8xQ44WTq2FqzB+/o/AYr1G",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In stock.",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "3p",
+        "standard_delivery": {
+          "date": "Tuesday, 26 July",
+          "name": "FREE"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": false,
+        "is_fulfilled_by_third_party": true,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "AUTO OPREMA® | MOVELL® | SW®",
+          "link": "https://www.amazon.in/sp?marketplaceID=A21TJRUUN4KGV&seller=A8FC17C7YAR6U",
+          "id": "A8FC17C7YAR6U"
+        }
+      },
+      "price": {
+        "symbol": "₹",
+        "value": 340,
+        "currency": "INR",
+        "raw": "₹340.00"
+      },
+      "rrp": {
+        "symbol": "₹",
+        "value": 599,
+        "currency": "INR",
+        "raw": "₹599.00"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Manufacturer",
+        "value": "‎Auto Oprema"
+      },
+      {
+        "name": "Brand",
+        "value": "‎Auto Oprema"
+      },
+      {
+        "name": "Package Dimensions",
+        "value": "‎15 x 10 x 5 cm; 550 Grams"
+      },
+      {
+        "name": "Item part number",
+        "value": "‎Steering Wheel Cover_Black"
+      },
+      {
+        "name": "Manufacturer Part Number",
+        "value": "‎Steering Wheel Cover_Black"
+      },
+      {
+        "name": "Material",
+        "value": "‎Faux Leather"
+      },
+      {
+        "name": "Colour",
+        "value": "‎Black"
+      },
+      {
+        "name": "Country of Origin",
+        "value": "‎India"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎550 g"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0848RQKHH"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.2 out of 5 stars       1,993 ratings          4.2 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#175 in Car & Motorbike"
+      },
+      {
+        "name": "Date First Available",
+        "value": "28 January 2020"
+      },
+      {
+        "name": "Colour",
+        "value": "Black"
+      },
+      {
+        "name": "Material",
+        "value": "Faux Leather"
+      },
+      {
+        "name": "Brand",
+        "value": "Auto Oprema"
+      },
+      {
+        "name": "Vehicle Service Type",
+        "value": "Car"
+      }
+    ],
+    "specifications_flat": "Vehicle Service Type: Car. Brand: Auto Oprema. Material: Faux Leather. Colour: Black. Date First Available: 28 January 2020. Best Sellers Rank: #175 in Car & Motorbike. Customer Reviews: 4.2 out of 5 stars       1,993 ratings          4.2 out of 5 stars. ASIN: B0848RQKHH. Item Weight: ‎550 g. Country of Origin: ‎India. Colour: ‎Black. Material: ‎Faux Leather. Manufacturer Part Number: ‎Steering Wheel Cover_Black. Item part number: ‎Steering Wheel Cover_Black. Package Dimensions: ‎15 x 10 x 5 cm; 550 Grams. Brand: ‎Auto Oprema. Manufacturer: ‎Auto Oprema.",
+    "bestsellers_rank": [
+      {
+        "category": "Car & Motorbike",
+        "rank": 175,
+        "link": "https://www.amazon.in/gp/bestsellers/automotive/ref=pd_zg_ts_automotive"
+      },
+      {
+        "category": "Steering Wheel Covers",
+        "rank": 1,
+        "link": "https://www.amazon.in/gp/bestsellers/automotive/5258293031/ref=pd_zg_hrsr_automotive"
+      }
+    ],
+    "color": "Black",
+    "material": "Faux Leather",
+    "manufacturer": "‎Auto Oprema",
+    "weight": "‎550 g",
+    "first_available": {
+      "raw": "28 January 2020",
+      "utc": "2020-01-28T00:00:00.000Z"
+    },
+    "model_number": "‎Steering Wheel Cover_Black",
+    "bestsellers_rank_flat": "Category: Car & Motorbike | Rank: 175, Category: Steering Wheel Covers | Rank: 1"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "₹",
+      "value": 968,
+      "currency": "INR",
+      "raw": "₹968.00"
+    },
+    "products": [
+      {
+        "asin": "B0848RQKHH",
+        "title": "Auto Oprema Microfiber Leather Auto Car Steering Wheel Cover Universal 15 inch (Black)",
+        "link": "https://www.amazon.in/dp/B0848RQKHH",
+        "image": "https://m.media-amazon.com/images/I/71qDNkTu0qL._SS100_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 340,
+          "currency": "INR",
+          "raw": "₹340.00"
+        }
+      },
+      {
+        "asin": "B082NJKCSM",
+        "title": "CarFrill HD Glass Frameless Round Convex Rear View Blind Spot Mirror Cars/Trucks/Vans (2\") -Pack of 2",
+        "link": "https://www.amazon.in/dp/B082NJKCSM",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/614ZsYliJFL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 279,
+          "currency": "INR",
+          "raw": "₹279.00"
+        }
+      },
+      {
+        "asin": "B0746JGVDS",
+        "title": "ELV Car Mount Adjustable Car Phone Holder Universal Long Arm, Windshield for Smartphones - Black",
+        "link": "https://www.amazon.in/dp/B0746JGVDS",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61sCL37xvlL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 349,
+          "currency": "INR",
+          "raw": "₹349.00"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B07J5FZQVV",
+    "link": "https://www.amazon.in/dp/B07J5FZQVV/ref=vp_d_pb_TIER2_cmlr_lp_B0848RQKHH_pd?_encoding=UTF8&pf_rd_p=0f75d243-34c8-4ab1-b1cf-db0ffce087bc&pf_rd_r=ND6HC9EVRSS7GB3414AE&pd_rd_wg=yy4Gw&pd_rd_i=B07J5FZQVV&pd_rd_w=ILsSz&content-id=amzn1.sym.0f75d243-34c8-4ab1-b1cf-db0ffce087bc&pd_rd_r=877a0def-463d-40c6-b16c-9075a6370a79",
+    "title": "Amazon Brand - Solimo Leatherette Steering Cover (Large), Beige",
+    "rating": 4,
+    "ratings_total": 2180,
+    "image": "https://m.media-amazon.com/images/I/71qDNkTu0qL._SS100_.jpg",
+    "price": {
+      "value": 249,
+      "currency": "INR",
+      "symbol": "₹",
+      "raw": "249.00"
+    }
+  },
+  "compare_with_similar": [
+    {
+      "asin": "B0848RQKHH",
+      "image": "https://m.media-amazon.com/images/I/61IHIHpFXvL._AC_SS450_.jpg",
+      "title": "Auto Oprema Microfiber Leather Auto Car Steering Wheel Cover Universal 15 inch (Black)",
+      "rating": 4,
+      "ratings_total": 1993,
+      "link": "https://www.amazon.in/dp/B0848RQKHH"
+    },
+    {
+      "asin": "B074SKZTLY",
+      "image": "https://m.media-amazon.com/images/I/71rQd9xwJfL._AC_SS450_.jpg",
+      "title": "Nikavi Car Steering Wheel Cover, Microfiber, Emboss Holes, Soft Padding Great Hand Feel, Anti-Slip Matte Finish, 15 Inch Middle Size - Blackline",
+      "rating": 4,
+      "ratings_total": 409,
+      "link": "https://www.amazon.in/dp/B074SKZTLY"
+    },
+    {
+      "asin": "B083TKMNDD",
+      "image": "https://m.media-amazon.com/images/I/71j1GYBto5L._AC_SS450_.jpg",
+      "title": "CS GLARE Microfiber Car Steering Wheel Cover with Comfortable Grip (Tan with Wooden, Small)",
+      "rating": 3.5,
+      "ratings_total": 40,
+      "link": "https://www.amazon.in/dp/B083TKMNDD"
+    },
+    {
+      "asin": "B06XWXM9J1",
+      "image": "https://m.media-amazon.com/images/I/41u9FLBEZSL._AC_SS450_.jpg",
+      "title": "Benjoy Highly Quality Black and Beige Car Steering Cover for Ford Eco Sport",
+      "rating": 3,
+      "ratings_total": 1,
+      "link": "https://www.amazon.in/dp/B06XWXM9J1"
+    },
+    {
+      "asin": "B01AG9E6JK",
+      "image": "https://m.media-amazon.com/images/I/61SQUXp0nlL._AC_SS450_.jpg",
+      "title": "Generic DIY Car Steering Wheel Cover, Black",
+      "rating": 3.5,
+      "ratings_total": 611,
+      "link": "https://www.amazon.in/dp/B01AG9E6JK"
+    }
+  ],
+  "sponsored_products": [
+    {
+      "title": "Newlly Microfiber Leather Car Steering Wheel Cover (Black)",
+      "asin": "B07RFSLNQ9",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A04140381P6K4RTZR8M43&qualifier=1658427535&id=1312824111727170&widgetName=sp_detail&url=%2Fdp%2FB07RFSLNQ9%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB07RFSLNQ9%26pd_rd_w%3DEwaMM%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DND6HC9EVRSS7GB3414AE%26pd_rd_wg%3DMJwJg%26pd_rd_r%3D175b5fab-db8d-40c3-99ab-1b8a2c5fb402%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41kCet6dX4S._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 585,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 539,
+        "currency": "INR",
+        "raw": "₹539.00"
+      }
+    },
+    {
+      "title": "Newlly Microfiber Leather Car Steering Wheel Cover (Beige)",
+      "asin": "B09FJCD6QX",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A02064573PU2Q0B6RV5CY&qualifier=1658427535&id=1312824111727170&widgetName=sp_detail&url=%2Fdp%2FB09FJCD6QX%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09FJCD6QX%26pd_rd_w%3DEwaMM%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DND6HC9EVRSS7GB3414AE%26pd_rd_wg%3DMJwJg%26pd_rd_r%3D175b5fab-db8d-40c3-99ab-1b8a2c5fb402%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/519TmnlGCJL._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 26,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 459,
+        "currency": "INR",
+        "raw": "₹459.00"
+      }
+    },
+    {
+      "title": "JUKKRE Soft Steering Wheel Cover for Unisex, with Bling Bling Crystal Rhinestones Steering Wheel Cover, Universal 15-inch, Non-Slip, Colorful-Black with Silver Rhombus-1",
+      "asin": "B09SCJ443F",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A00835451WY7CXSVSN00U&qualifier=1658427535&id=1312824111727170&widgetName=sp_detail&url=%2Fdp%2FB09SCJ443F%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB09SCJ443F%26pd_rd_w%3DEwaMM%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DND6HC9EVRSS7GB3414AE%26pd_rd_wg%3DMJwJg%26pd_rd_r%3D175b5fab-db8d-40c3-99ab-1b8a2c5fb402%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/51Vh8GfpRmL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 999,
+        "currency": "INR",
+        "raw": "₹999.00"
+      }
+    },
+    {
+      "title": "MIXEN Non-Slip Car Steering Wheel Cover, D-Shape Sports Protector, Carbon Fiber and Faux Leather, Universal for 15\" Diameter, Black",
+      "asin": "B0B54PV2QH",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A0454268N3JV3E6M6NIT&qualifier=1658427535&id=1312824111727170&widgetName=sp_detail&url=%2Fdp%2FB0B54PV2QH%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0B54PV2QH%26pd_rd_w%3DEwaMM%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DND6HC9EVRSS7GB3414AE%26pd_rd_wg%3DMJwJg%26pd_rd_r%3D175b5fab-db8d-40c3-99ab-1b8a2c5fb402%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41RO0RzmPoL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 899,
+        "currency": "INR",
+        "raw": "₹899.00"
+      }
+    },
+    {
+      "title": "PIKFOS Steering Wheel Cover, Universal 15 inch, Microfiber Leather, Anti-Slip, Odorless, Wood Grain||Black-1",
+      "asin": "B09RV72WPH",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A01412961UK6MX5QQR312&qualifier=1658427535&id=1312824111727170&widgetName=sp_detail&url=%2Fdp%2FB09RV72WPH%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB09RV72WPH%26pd_rd_w%3DEwaMM%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DND6HC9EVRSS7GB3414AE%26pd_rd_wg%3DMJwJg%26pd_rd_r%3D175b5fab-db8d-40c3-99ab-1b8a2c5fb402%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/51GtmlFmU7L._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 999,
+        "currency": "INR",
+        "raw": "₹999.00"
+      }
+    },
+    {
+      "title": "Jukkre D Type Steering Wheel Cover, Genuine Leather with Carbon Fiber Style Anti-Slip Car Wheel Wrap, Soft & Breathable, Universal Fit 15 Inch Car /Auto/SUV Steering Wheels, Black",
+      "asin": "B0B53P9JQB",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A00095463KIQ5O0NEXH8G&qualifier=1658427535&id=1312824111727170&widgetName=sp_detail&url=%2Fdp%2FB0B53P9JQB%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0B53P9JQB%26pd_rd_w%3DEwaMM%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DND6HC9EVRSS7GB3414AE%26pd_rd_wg%3DMJwJg%26pd_rd_r%3D175b5fab-db8d-40c3-99ab-1b8a2c5fb402%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41ysQCZf8gL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 999,
+        "currency": "INR",
+        "raw": "₹999.00"
+      }
+    },
+    {
+      "title": "JUKKRE Car Steering Wheel Cover, New Steering Wheel Cover, Wooden Pattern PU Leather Steering Covers Car Steering Wheel Cover Auto Accessories Universal-Black Wooden-1",
+      "asin": "B09SD6MLRC",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A08052341DCM37DME4VSS&qualifier=1658427535&id=1312824111727170&widgetName=sp_detail&url=%2Fdp%2FB09SD6MLRC%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB09SD6MLRC%26pd_rd_w%3DEwaMM%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DND6HC9EVRSS7GB3414AE%26pd_rd_wg%3DMJwJg%26pd_rd_r%3D175b5fab-db8d-40c3-99ab-1b8a2c5fb402%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/51v+3zp4VNL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 999,
+        "currency": "INR",
+        "raw": "₹999.00"
+      }
+    },
+    {
+      "title": "ShineXPro Microfiber Car Cleaning Cloth - OG Soft 500 GSM Extra Large (35x75 cm) Microfiber Cloth for Car and Bike - Suede Edging for Scratchless Drying and Detailing (Pack of 2)",
+      "asin": "B09RWTYMCF",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A02472542AWLOHFQS214C&qualifier=1658427535&id=5977751484454642&widgetName=sp_detail2&url=%2Fdp%2FB09RWTYMCF%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB09RWTYMCF%26pd_rd_w%3DelOKw%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DND6HC9EVRSS7GB3414AE%26pd_rd_wg%3DMJwJg%26pd_rd_r%3D175b5fab-db8d-40c3-99ab-1b8a2c5fb402%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51cqkNHSdXL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 1485,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 499,
+        "currency": "INR",
+        "raw": "₹499.00"
+      }
+    },
+    {
+      "title": "JUKKRE Extra Grip Faux Leather Flat Bottom D-Shape Anti-Slip Steering Wheel Cover Compatible with Kia Seltos BMW Hyundai Venue, Black",
+      "asin": "B0B53N9ZBP",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A06620481VDA0A8Y8WXJF&qualifier=1658427535&id=5977751484454642&widgetName=sp_detail2&url=%2Fdp%2FB0B53N9ZBP%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0B53N9ZBP%26pd_rd_w%3DelOKw%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DND6HC9EVRSS7GB3414AE%26pd_rd_wg%3DMJwJg%26pd_rd_r%3D175b5fab-db8d-40c3-99ab-1b8a2c5fb402%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41ysQCZf8gL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 899,
+        "currency": "INR",
+        "raw": "₹899.00"
+      }
+    },
+    {
+      "title": "Newlly Microfiber Leather Car Steering Wheel Cover (Black)",
+      "asin": "B07RFSLNQ9",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A04140381P6K4RTZR8M43&qualifier=1658427535&id=5977751484454642&widgetName=sp_detail2&url=%2Fdp%2FB07RFSLNQ9%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB07RFSLNQ9%26pd_rd_w%3DelOKw%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DND6HC9EVRSS7GB3414AE%26pd_rd_wg%3DMJwJg%26pd_rd_r%3D175b5fab-db8d-40c3-99ab-1b8a2c5fb402%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41kCet6dX4S._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 585,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 539,
+        "currency": "INR",
+        "raw": "₹539.00"
+      }
+    },
+    {
+      "title": "JUKKRE Car Steering Wheel Cover, New Steering Wheel Cover, Wooden Pattern PU Leather Steering Covers Car Steering Wheel Cover Auto Accessories Universal-Black Wooden-1",
+      "asin": "B09SD6MLRC",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A08052341DCM37DME4VSS&qualifier=1658427535&id=5977751484454642&widgetName=sp_detail2&url=%2Fdp%2FB09SD6MLRC%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB09SD6MLRC%26pd_rd_w%3DelOKw%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DND6HC9EVRSS7GB3414AE%26pd_rd_wg%3DMJwJg%26pd_rd_r%3D175b5fab-db8d-40c3-99ab-1b8a2c5fb402%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51v+3zp4VNL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 999,
+        "currency": "INR",
+        "raw": "₹999.00"
+      }
+    },
+    {
+      "title": "carxen Car Door Foot Step LED Sill Plate with Mirror Finish for ‎Suzuki Baleno (Blue, Set of 4Pcs)",
+      "asin": "B08N6NL8MM",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A02482222GU9PGA38LN6U&qualifier=1658427535&id=5977751484454642&widgetName=sp_detail2&url=%2Fdp%2FB08N6NL8MM%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB08N6NL8MM%26pd_rd_w%3DelOKw%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DND6HC9EVRSS7GB3414AE%26pd_rd_wg%3DMJwJg%26pd_rd_r%3D175b5fab-db8d-40c3-99ab-1b8a2c5fb402%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41FHXWa35oS._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 3,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1249,
+        "currency": "INR",
+        "raw": "₹1,249.00"
+      }
+    },
+    {
+      "title": "MRRON Supreme Series Memory Foam Neck / Headrest Rest & Shoulder Support for Car or Office Chair- Neck Pillow Kit Designed Ergonomically for Extra Neck Support (Grey, 1)",
+      "asin": "B09HH7VTWD",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A04721153O827ZRFS89B8&qualifier=1658427535&id=5977751484454642&widgetName=sp_detail2&url=%2Fdp%2FB09HH7VTWD%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB09HH7VTWD%26pd_rd_w%3DelOKw%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DND6HC9EVRSS7GB3414AE%26pd_rd_wg%3DMJwJg%26pd_rd_r%3D175b5fab-db8d-40c3-99ab-1b8a2c5fb402%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/411pkqA0vwS._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 59,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1799,
+        "currency": "INR",
+        "raw": "₹1,799.00"
+      }
+    },
+    {
+      "title": "ShineXPro Microfiber Cloth for Car - PureMagic 1100 GSM Twisted Loop Super Absorbent Towel - Edgeless Design with Plush Pile and Lint Free Cloth for Drying and Detailing (40CM x 60CM (Large))",
+      "asin": "B09NY7VK6G",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A019480833DD8OM5QJ148&qualifier=1658427535&id=5977751484454642&widgetName=sp_detail2&url=%2Fdp%2FB09NY7VK6G%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB09NY7VK6G%26pd_rd_w%3DelOKw%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DND6HC9EVRSS7GB3414AE%26pd_rd_wg%3DMJwJg%26pd_rd_r%3D175b5fab-db8d-40c3-99ab-1b8a2c5fb402%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51vSZ5aCLjL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 1477,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 599,
+        "currency": "INR",
+        "raw": "₹599.00"
+      }
+    }
+  ]
+}
