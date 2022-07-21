@@ -1,0 +1,1471 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 21,
+    "credits_remaining": 79,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.in",
+    "asin": "B0824ZFCDN",
+    "type": "product"
+  },
+  "request_metadata": {
+    "created_at": "2022-07-21T18:14:47.510Z",
+    "processed_at": "2022-07-21T18:14:51.838Z",
+    "total_time_taken": 4.33,
+    "amazon_url": "https://www.amazon.in/dp/B0824ZFCDN?th=1&psc=1"
+  },
+  "product": {
+    "title": "Milton Copper Charge 1000 Water Bottle, 960 ml, Copper, 1 Piece 930ml, Copper Charge 1000",
+    "search_alias": {
+      "title": "Home & Kitchen",
+      "value": "kitchen"
+    },
+    "title_excluding_variant_name": "Milton Copper Charge 1000 Water Bottle, 960 ml, Copper, 1 Piece",
+    "keywords": "Milton,Copper,Charge,1000,Water,Bottle,,960,ml,,Copper,,1,Piece",
+    "keywords_list": [
+      "Milton",
+      "Copper",
+      "Charge",
+      "1000",
+      "Water",
+      "Bottle",
+      "Copper",
+      "Piece"
+    ],
+    "asin": "B0824ZFCDN",
+    "parent_asin": "B0B77JDQSY",
+    "link": "https://www.amazon.in/MILTON-Milton-Copper-Charge-1000/dp/B0824ZFCDN",
+    "brand": "MILTON",
+    "sell_on_amazon": true,
+    "variants": [
+      {
+        "asin": "B09DDFVXF4",
+        "title": "Cop_Charge -2 Pc",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09DDFVXF4?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "Cop_Charge -2 Pc"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61MlRUI-YXL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61MlRUI-YXL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71PXvdFgKJL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81tIlQGjtUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/518gstx+UAL._SL1200_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71djq3fTGQL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71EloZ-x6FL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61KukNSI-oL._SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 1577,
+          "currency": "INR",
+          "raw": "₹1,577.00"
+        }
+      },
+      {
+        "asin": "B09DDGN3T7",
+        "title": "Cop_Crown -2 Pc",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09DDGN3T7?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "Cop_Crown -2 Pc"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/7128ahrEE5L._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/7128ahrEE5L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/714qhl3YydL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81UlZXnLOJS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71kRWeNeroS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71HSEzZ1CqS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/61qyX9eHoYL._SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 1733,
+          "currency": "INR",
+          "raw": "₹1,733.00"
+        }
+      },
+      {
+        "asin": "B08DYDHNYJ",
+        "title": "900ml, Alpine New 1000",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B08DYDHNYJ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "900ml, Alpine New 1000"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61Cgf78ucXL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61Cgf78ucXL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/718RP4oy+PL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81288ceHiWL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71ruQqh1AeL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71R4SbkeP-L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/715ljws9rUL._SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 867,
+          "currency": "INR",
+          "raw": "₹867.00"
+        }
+      },
+      {
+        "asin": "B08YF58QL2",
+        "title": "1.09 Litre, Copper Crown 1100",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B08YF58QL2?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "1.09 Litre, Copper Crown 1100"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61P8naoHkHS._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61P8naoHkHS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/718WuaCYRKS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81UlZXnLOJS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71kRWeNeroS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71HSEzZ1CqS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/61s+nMSzVJS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61P8naoHkHS._SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 867,
+          "currency": "INR",
+          "raw": "₹867.00"
+        }
+      },
+      {
+        "asin": "B07CZHBWLH",
+        "title": "920ml, Copperas 1000",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B07CZHBWLH?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "920ml, Copperas 1000"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61WfvQgn+gL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61WfvQgn+gL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81tIFLAJUHL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/61uhCQXlwjL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71Kw22-wttL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71PLRLFm2ML._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81-J5ii+GML._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/719ZLyPIN1L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/61EeLwaibnS._SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 875,
+          "currency": "INR",
+          "raw": "₹875.00"
+        }
+      },
+      {
+        "asin": "B083QLY82L",
+        "title": "920ml, Jewel 1000",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B083QLY82L?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "920ml, Jewel 1000"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/7103BwH0tKL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/7103BwH0tKL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71mHhInfqXL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81q7DyaPOwL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71BUwOJdFdL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/717A-t64NlL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/815ig0PyP5L._SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 854,
+          "currency": "INR",
+          "raw": "₹854.00"
+        }
+      },
+      {
+        "asin": "B0824ZFCDN",
+        "title": "930ml, Copper Charge 1000",
+        "is_current_product": true,
+        "link": "https://www.amazon.in/dp/B0824ZFCDN?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "930ml, Copper Charge 1000"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61+CDBo-phL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61+CDBo-phL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71SzQxJtSSL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81tIlQGjtUL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71djq3fTGQL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61zw2tbbnGL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71EloZ-x6FL._SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 850,
+          "currency": "INR",
+          "raw": "₹850.00"
+        }
+      }
+    ],
+    "variant_asins_flat": "B09DDFVXF4,B09DDGN3T7,B08DYDHNYJ,B08YF58QL2,B07CZHBWLH,B083QLY82L,B0824ZFCDN",
+    "categories": [
+      {
+        "name": "Home & Kitchen",
+        "link": "https://www.amazon.in/Home-Kitchen/b/ref=dp_bc_aui_C_1?ie=UTF8&node=976442031",
+        "category_id": "976442031"
+      },
+      {
+        "name": "Kitchen & Dining",
+        "link": "https://www.amazon.in/Kitchen-Dining-Store/b/ref=dp_bc_aui_C_2?ie=UTF8&node=5925789031",
+        "category_id": "5925789031"
+      },
+      {
+        "name": "Kitchen Storage & Containers",
+        "link": "https://www.amazon.in/Kitchen-Storage-Containers/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1379989031",
+        "category_id": "1379989031"
+      },
+      {
+        "name": "Water Bottles",
+        "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_4?ie=UTF8&node=13956517031",
+        "category_id": "13956517031"
+      }
+    ],
+    "categories_flat": "Home & Kitchen > Kitchen & Dining > Kitchen Storage & Containers > Water Bottles",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media/sota/be90e8a5-2622-4ff3-bc57-dd41651a4eb6.__CR0,12,970,300_PT0_SX970_V1___.png",
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media/sota/be90e8a5-2622-4ff3-bc57-dd41651a4eb6.__CR0,12,970,300_PT0_SX970_V1___.png"
+        ]
+      },
+      "third_party": true
+    },
+    "sub_title": {
+      "text": "Visit the MILTON Store",
+      "link": "https://www.amazon.in/stores/MILTON/page/75EA6387-D085-4B32-BA5E-FFF84F7E1D94?ref_=ast_bln"
+    },
+    "rating": 3.8,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 46,
+        "count": 5049
+      },
+      "four_star": {
+        "percentage": 23,
+        "count": 2524
+      },
+      "three_star": {
+        "percentage": 11,
+        "count": 1207
+      },
+      "two_star": {
+        "percentage": 6,
+        "count": 658
+      },
+      "one_star": {
+        "percentage": 14,
+        "count": 1536
+      }
+    },
+    "ratings_total": 10977,
+    "reviews_total": 10977,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/61+CDBo-phL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/61+CDBo-phL._SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71SzQxJtSSL._SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81tIlQGjtUL._SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71djq3fTGQL._SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61zw2tbbnGL._SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71EloZ-x6FL._SL1500_.jpg",
+        "variant": "PT05"
+      }
+    ],
+    "images_count": 6,
+    "images_flat": "https://m.media-amazon.com/images/I/61+CDBo-phL._SL1500_.jpg,https://m.media-amazon.com/images/I/71SzQxJtSSL._SL1500_.jpg,https://m.media-amazon.com/images/I/81tIlQGjtUL._SL1500_.jpg,https://m.media-amazon.com/images/I/71djq3fTGQL._SL1500_.jpg,https://m.media-amazon.com/images/I/61zw2tbbnGL._SL1500_.jpg,https://m.media-amazon.com/images/I/71EloZ-x6FL._SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 66,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/00b01158-1582-48ab-956b-8f2de82dbe81/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/410mSbIgOTL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Milton Copper Charge 1000 Water Bottle, Set of 1, 960 ml, Copper,Brown"
+      },
+      {
+        "duration_seconds": 67,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/3ccdb10b-c8b4-4627-a5e8-5c4cc101d420/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51ZWcRqKniL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Milton Copper Charge 1000 Water Bottle"
+      },
+      {
+        "duration_seconds": 209,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/b462dc93-202b-4629-b789-4a4502bc072a/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51Net7BfhkL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Milton Copper Water Bottle Specifications"
+      }
+    ],
+    "videos_count": 3,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/00b01158-1582-48ab-956b-8f2de82dbe81/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/3ccdb10b-c8b4-4627-a5e8-5c4cc101d420/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/b462dc93-202b-4629-b789-4a4502bc072a/default.jobtemplate.mp4.480.mp4",
+    "is_bundle": false,
+    "feature_bullets": [
+      "Helps in Losing Weight: Drinking water stored in a copper vessel regularly, aids in weight loss. Copper reduce inflammation and it is an effective remedy for ulcers and indigestion",
+      "Prevents Cancer: copper has strong antioxidant properties that help fight off the cancer-causing agents and radicals to stay away from the body. BPA Free : Yes",
+      "Improves the work of thyroid gland: Most common problem with people diagnosed with thyroid disease is that they have low levels of copper. Copper is a vital substance needed in melanin production in the body and regenerates new cells",
+      "Copper has the property of regenerating the white blood cells thereby strengthening the immune system. Prevents anaemia: A study has proven that copper helps keep the levels of iron and regulates the flow of iron in the blood vessels",
+      "Reduces the risk of cardiovascular problems: Cardiovascular ailments like hypertension is common today, copper helps in regulating blood pressure, heart rate and cholesterol and triglyceride levels",
+      "BPA Free : Yes"
+    ],
+    "feature_bullets_count": 6,
+    "feature_bullets_flat": "BPA Free : Yes. Reduces the risk of cardiovascular problems: Cardiovascular ailments like hypertension is common today, copper helps in regulating blood pressure, heart rate and cholesterol and triglyceride levels. Copper has the property of regenerating the white blood cells thereby strengthening the immune system. Prevents anaemia: A study has proven that copper helps keep the levels of iron and regulates the flow of iron in the blood vessels. Improves the work of thyroid gland: Most common problem with people diagnosed with thyroid disease is that they have low levels of copper. Copper is a vital substance needed in melanin production in the body and regenerates new cells. Prevents Cancer: copper has strong antioxidant properties that help fight off the cancer-causing agents and radicals to stay away from the body. BPA Free : Yes. Helps in Losing Weight: Drinking water stored in a copper vessel regularly, aids in weight loss. Copper reduce inflammation and it is an effective remedy for ulcers and indigestion.",
+    "attributes": [
+      {
+        "name": "Material",
+        "value": "Copper"
+      },
+      {
+        "name": "Brand",
+        "value": "MILTON"
+      },
+      {
+        "name": "Capacity",
+        "value": "960 Milliliters"
+      },
+      {
+        "name": "Age Range (Description)",
+        "value": "Adult"
+      },
+      {
+        "name": "Colour",
+        "value": "Copper"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "R2X65JS55WYX7D",
+        "title": "Waste of money don't buy it.",
+        "body": "It is written by Milton 99% Cooper, but it is steel bottel with cooper color coating done on it. Because taste of water is same even after storing water for 8 to 19 hrs in it. I can say because I have cooper glass which I bought from local market water taste changes after storing water in it for 4 to 5 hrs. Totally waste of money please refund my money.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>It is written by Milton 99% Cooper, but it is steel bottel with cooper color coating done on it. Because taste of water is same even after storing water for 8 to 19 hrs in it. I can say because I have cooper glass which I bought from local market water taste changes after storing water in it for 4 to 5 hrs. Totally waste of money please refund my money.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2X65JS55WYX7D/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0824ZFCDN",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 1 June 2019",
+          "utc": "2019-06-01T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Ibrahim",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AG2IOTWCHZVJQAAYI2YLVOEDLPJQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG2IOTWCHZVJQAAYI2YLVOEDLPJQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 433,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R1EE0P7S8B0T1Z",
+        "title": "Copper plated ?",
+        "body": "Hello. I bought Milton's Copper Bottle recently. I cleaned it with lemon salt and water. After a day this happened.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Hello. I bought Milton's Copper Bottle recently. I cleaned it with lemon salt and water. After a day this happened.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R1EE0P7S8B0T1Z/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0824ZFCDN",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 23 September 2019",
+          "utc": "2019-09-23T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jishna",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AHZL5FSTCGIW7MSYVNG7NEXPIIEQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHZL5FSTCGIW7MSYVNG7NEXPIIEQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 302,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R1MQ8WI2WEAG1K",
+        "title": "NOT COPPER , JUST COLOURED",
+        "body": "NOT COPPER. ITS COPPER COLOURED. The colour starts to wear off in a week. And you will start to taste the chemicals in the colour. UNHEALTHY. FAKE. DANGEROUS.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>NOT COPPER.<br>ITS COPPER COLOURED.<br>The colour starts to wear off in a week. And you will start to taste the chemicals in the colour.<br>UNHEALTHY. FAKE. DANGEROUS.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R1MQ8WI2WEAG1K/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0824ZFCDN",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 11 September 2020",
+          "utc": "2020-09-11T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Antara",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AFDVIQFUXGVR7N5XQE62CJRYAOMQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFDVIQFUXGVR7N5XQE62CJRYAOMQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 213,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R3HJX31ZU4IH1B",
+        "title": "DAMAGED PRODUCT RECEIVED",
+        "body": "Not good .Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Not good .</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R3HJX31ZU4IH1B/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0824ZFCDN",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 8 May 2019",
+          "utc": "2019-05-08T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Varalakshmi",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AHIFPHDE5KCZPSWHVR6BHR3VIXQA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHIFPHDE5KCZPSWHVR6BHR3VIXQA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 93,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R3MYNS9TSR1BWU",
+        "title": "Impressed",
+        "body": "Looks and feels premium..! There is a shiny coating outside the bottle...! I will upload pics again after using several monthsRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Looks and feels premium..! There is a shiny coating outside the bottle...!<br>I will upload pics again after using several months</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R3MYNS9TSR1BWU/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0824ZFCDN",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in India on 26 August 2020",
+          "utc": "2020-08-26T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Somenath Biswas",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AFQWTXW2KAW5SUFO5ZCJ2J74HYEA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFQWTXW2KAW5SUFO5ZCJ2J74HYEA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 52,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R3U7DDE6Y470TS",
+        "title": "Quality check",
+        "body": "Writing about the company, products of Milton are used from ages. The product is very good . Easy to clean as instructed on the cover. The bottle is bit difficult to open at times . Talking about the piece I was delivered , it was damaged as shown in the picture. The seller should check the product before delivery. It is just that the company's name is deteriorating.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Writing about the company, products of Milton are used from ages. The product is very good . Easy to clean as instructed on the cover. The bottle is bit difficult to open at times . Talking about the piece I was delivered , it was damaged as shown in the picture. The seller should check the product before delivery. It is just that the company's name is deteriorating.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R3U7DDE6Y470TS/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0824ZFCDN",
+        "rating": 2,
+        "date": {
+          "raw": "Reviewed in India on 7 September 2020",
+          "utc": "2020-09-07T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Tejas Telmasre",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AGDE5VAW75EN4WH44PCYST7OCB2Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGDE5VAW75EN4WH44PCYST7OCB2Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 48,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R2VMBZWSAU83FD",
+        "title": "It is copper Polished bottle!!!",
+        "body": "These item is duplicate ..as it is only cheap Polish on iron bottle...within 20-25 days it's inside material was visible..as you can see in these photoRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>These item is duplicate ..as it is only cheap Polish on iron bottle...within 20-25 days it's inside material was visible..as you can see in these photo</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2VMBZWSAU83FD/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0824ZFCDN",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 16 October 2020",
+          "utc": "2020-10-16T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Rutwik uttarwar",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AHEDLVIAAYDA2APBHIM5F6JQUR5A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHEDLVIAAYDA2APBHIM5F6JQUR5A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 40,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "RDHU2485SW2X6",
+        "title": "Dont get fooled by Brand Name. Not worth to buy",
+        "body": "I trusted the name and bought this bottle but to my surprise it has turned out to be a worst product . Within couple of days usage it has shown deep dark spots inside the bottle with bad odour. Please dont buy this bottle and is also not worth the price !Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I trusted the name and bought this bottle but to my surprise it has turned out to be a worst product . Within couple of days usage it has shown deep dark spots inside the bottle with bad odour. Please dont buy this bottle and is also not worth the price !</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/RDHU2485SW2X6/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0824ZFCDN",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 31 December 2019",
+          "utc": "2019-12-31T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Amazon Customer",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AG5PZLY3TPFZAPMBNM5GRGQ6XO6Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG5PZLY3TPFZAPMBNM5GRGQ6XO6Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 35,
+        "review_country": "in",
+        "is_global_review": false
+      }
+    ],
+    "buybox_winner": {
+      "offer_id": "At53G5nxK9xrj7QguitT7d769fIBUklh16rCEBMW94ckOUNWs7Ht22yfym6zMxVc1E7Of14C9j/I6mVcJqcuizzjzfxN40rW4WA+9hHSrgl8M4X6o5uGgTy207cpwldLDDCKU5fD4t05rHwXFryYcR0jYd3jqrc05AMZk1jCtZpeiHqsU4Zcq/aWjRvH6Rih",
+      "new_offers_count": 4,
+      "new_offers_from": {
+        "symbol": "₹",
+        "value": 850,
+        "currency": "INR",
+        "raw": "₹850.00"
+      },
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In stock.",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "2p",
+        "standard_delivery": {
+          "date": "Saturday, 23 July",
+          "name": "FREE"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Hamilton Housewares",
+          "link": "https://www.amazon.in/sp?marketplaceID=A21TJRUUN4KGV&seller=A3UVJB0FRWYAMC&isAmazonFulfilled=1&ref=dp_merchant_link",
+          "id": "A3UVJB0FRWYAMC"
+        }
+      },
+      "price": {
+        "symbol": "₹",
+        "value": 850,
+        "currency": "INR",
+        "raw": "₹850.00"
+      },
+      "rrp": {
+        "symbol": "₹",
+        "value": 1025,
+        "currency": "INR",
+        "raw": "₹1,025.00"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Manufacturer",
+        "value": "‎Hamilton Housewares Pvt. Ltd."
+      },
+      {
+        "name": "Country of Origin",
+        "value": "‎India"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎CUTNFTB161ASSR0020"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎7.6 x 7.6 x 26.9 cm; 280 Grams"
+      },
+      {
+        "name": "ASIN",
+        "value": "‎B0824ZFCDN"
+      },
+      {
+        "name": "Style",
+        "value": "‎Copper Charge"
+      },
+      {
+        "name": "Number of Items",
+        "value": "‎1"
+      },
+      {
+        "name": "Model Name",
+        "value": "‎Copper Charge"
+      },
+      {
+        "name": "Net Quantity",
+        "value": "‎1.00 count"
+      },
+      {
+        "name": "Item Dimensions LxWxH",
+        "value": "‎7.6 x 7.6 x 26.9 Centimeters"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎7.6W x 26.9H Centimeters"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "Hamilton Housewares Pvt. Ltd., C.T.S.NO. 55/1/1,55/1/2,RAKHOLI SAYALI ROAD, SAYALI,OPP. WELSPUN SILVASSA D.& N.H-396235"
+      },
+      {
+        "name": "Packer",
+        "value": "Hamilton Housewares Pvt. Ltd."
+      },
+      {
+        "name": "Item Weight",
+        "value": "280 g"
+      },
+      {
+        "name": "Item Dimensions LxWxH",
+        "value": "7.6 x 7.6 x 26.9 Centimeters"
+      },
+      {
+        "name": "Net Quantity",
+        "value": "1.00 count"
+      },
+      {
+        "name": "Included Components",
+        "value": "1 - Piece Copper Charge Water Bottle"
+      },
+      {
+        "name": "Generic Name",
+        "value": "Bottle"
+      },
+      {
+        "name": "Material",
+        "value": "Copper"
+      },
+      {
+        "name": "Brand",
+        "value": "MILTON"
+      },
+      {
+        "name": "Capacity",
+        "value": "960 Milliliters"
+      },
+      {
+        "name": "Age Range (Description)",
+        "value": "Adult"
+      },
+      {
+        "name": "Colour",
+        "value": "Copper"
+      }
+    ],
+    "specifications_flat": "Colour: Copper. Age Range (Description): Adult. Capacity: 960 Milliliters. Brand: MILTON. Material: Copper. Generic Name: Bottle. Included Components: 1 - Piece Copper Charge Water Bottle. Net Quantity: 1.00 count. Item Dimensions LxWxH: 7.6 x 7.6 x 26.9 Centimeters. Item Weight: 280 g. Packer: Hamilton Housewares Pvt. Ltd. Manufacturer: Hamilton Housewares Pvt. Ltd., C.T.S.NO. 55/1/1,55/1/2,RAKHOLI SAYALI ROAD, SAYALI,OPP. WELSPUN SILVASSA D.& N.H-396235. Product Dimensions: ‎7.6W x 26.9H Centimeters. Item Dimensions LxWxH: ‎7.6 x 7.6 x 26.9 Centimeters. Net Quantity: ‎1.00 count. Model Name: ‎Copper Charge. Number of Items: ‎1. Style: ‎Copper Charge. ASIN: ‎B0824ZFCDN. Product Dimensions: ‎7.6 x 7.6 x 26.9 cm; 280 Grams. Item model number: ‎CUTNFTB161ASSR0020. Country of Origin: ‎India. Manufacturer: ‎Hamilton Housewares Pvt. Ltd.",
+    "color": "Copper",
+    "material": "Copper",
+    "manufacturer": "Hamilton Housewares Pvt. Ltd., C.T.S.NO. 55/1/1,55/1/2,RAKHOLI SAYALI ROAD, SAYALI,OPP. WELSPUN SILVASSA D.& N.H-396235",
+    "weight": "280 g",
+    "dimensions": "‎7.6W x 26.9H Centimeters",
+    "model_number": "‎CUTNFTB161ASSR0020"
+  },
+  "brand_store": {
+    "id": "75EA6387-D085-4B32-BA5E-FFF84F7E1D94",
+    "link": "https://www.amazon.in/stores/MILTON/page/75EA6387-D085-4B32-BA5E-FFF84F7E1D94"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "₹",
+      "value": 1965,
+      "currency": "INR",
+      "raw": "₹1,965.00"
+    },
+    "products": [
+      {
+        "asin": "B0824ZFCDN",
+        "title": "Cello Cop-Pura Neer Copper Water Bottle, 1000 milliliters,Pack of 1, Copper",
+        "link": "https://www.amazon.in/dp/B0824ZFCDN",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+        "price": {
+          "symbol": "₹",
+          "value": 850,
+          "currency": "INR",
+          "raw": "₹850.00"
+        }
+      },
+      {
+        "asin": "B08JYQHRSZ",
+        "title": "Milton Copper Charge 1000 Water Bottle, 960 ml, Set of 1, Copper",
+        "link": "https://www.amazon.in/dp/B08JYQHRSZ",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61+CDBo-phL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 788,
+          "currency": "INR",
+          "raw": "₹788.00"
+        }
+      },
+      {
+        "asin": "B079R9W1B6",
+        "title": "Milton Aqua 1000 Stainless Steel Water Bottle, 1 pc, 950 ml, Silver",
+        "link": "https://www.amazon.in/dp/B079R9W1B6",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61X1b09mK0L._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 327,
+          "currency": "INR",
+          "raw": "₹327.00"
+        }
+      }
+    ]
+  },
+  "shop_by_look": {
+    "items": [
+      {
+        "position": 1,
+        "asin": "B08MPYW7B8",
+        "link": "https://www.amazon.in/dp/B08MPYW7B8",
+        "title": "Cello Cop-Pura Neer Copper Water Bottle, 1000 milliliters,Pack of 1, Copper",
+        "image": "https://m.media-amazon.com/images/I/61Wu0F2-V+L._AC_UL400_.jpg",
+        "rating": 4,
+        "ratings_total": 641,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 999,
+          "currency": "INR",
+          "raw": "₹999.00"
+        }
+      },
+      {
+        "position": 2,
+        "asin": "B09HHLH2NS",
+        "link": "https://www.amazon.in/dp/B09HHLH2NS",
+        "title": "Copper+ Design Pure Copper Water Bottle 1 Liter - A Leak Proof Joint less and Lacquer cover coated Ayurvedic and Yoga Pure Copper Vessel - Drink More Water",
+        "image": "https://m.media-amazon.com/images/I/217ZCwsFVEL._AC_UL400_.jpg",
+        "rating": 3.5,
+        "ratings_total": 5,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 520,
+          "currency": "INR",
+          "raw": "₹520.00"
+        }
+      },
+      {
+        "position": 3,
+        "asin": "B099F9JPSW",
+        "link": "https://www.amazon.in/dp/B099F9JPSW",
+        "title": "Golden Valley Copper Sipper Water Bottles 1 Litre Best Copper Sipper Bottle",
+        "image": "https://m.media-amazon.com/images/I/41ktt-bdk5L._AC_UL400_.jpg",
+        "rating": 3.5,
+        "ratings_total": 15,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 599,
+          "currency": "INR",
+          "raw": "₹599.00"
+        }
+      },
+      {
+        "position": 4,
+        "asin": "B07QZL4563",
+        "link": "https://www.amazon.in/dp/B07QZL4563",
+        "title": "Evergrow Copper Water Bottle (1L, Brown)",
+        "image": "https://m.media-amazon.com/images/I/71GA+F6CReL._AC_UL400_.jpg",
+        "rating": 3.5,
+        "ratings_total": 335,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 699,
+          "currency": "INR",
+          "raw": "₹699.00"
+        }
+      },
+      {
+        "position": 5,
+        "asin": "B07KS2B36S",
+        "link": "https://www.amazon.in/dp/B07KS2B36S",
+        "title": "PoloPlus Copper Water Bottle 1000 ML",
+        "image": "https://m.media-amazon.com/images/I/41Fg6vMGfmL._AC_UL400_.jpg",
+        "rating": 4,
+        "ratings_total": 2,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 599,
+          "currency": "INR",
+          "raw": "₹599.00"
+        }
+      },
+      {
+        "position": 6,
+        "asin": "B09ND6419H",
+        "link": "https://www.amazon.in/dp/B09ND6419H",
+        "title": "Homely Get Crafty Senior Copper (Tamba) Water Bottle | Ayurvedic Health Benefits| Sturdy 1000 ml Bottle (Pack of 1, Copper, Copper)",
+        "image": "https://m.media-amazon.com/images/I/51AsQap1cXL._AC_UL400_.jpg",
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 649,
+          "currency": "INR",
+          "raw": "₹649.00"
+        }
+      },
+      {
+        "position": 7,
+        "asin": "B07GB15MS5",
+        "link": "https://www.amazon.in/dp/B07GB15MS5",
+        "title": "Taluka Handmade Copper Water Bottle 1000 ML Joint Free Leak Proof Drinking Storage Bottle for for Ayurveda Health Benefits",
+        "image": "https://m.media-amazon.com/images/I/717XYcxdG3L._AC_UL400_.jpg",
+        "rating": 1,
+        "ratings_total": 1,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 799,
+          "currency": "INR",
+          "raw": "₹799.00"
+        }
+      },
+      {
+        "position": 8,
+        "asin": "B09CV8SHYG",
+        "link": "https://www.amazon.in/dp/B09CV8SHYG",
+        "title": "Royal 1 Litre One Plain Daily Use Copper Bottle",
+        "image": "https://m.media-amazon.com/images/I/5183OYbBRRL._AC_UL400_.jpg",
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 749,
+          "currency": "INR",
+          "raw": "₹749.00"
+        }
+      },
+      {
+        "position": 9,
+        "asin": "B08BTW557Q",
+        "link": "https://www.amazon.in/dp/B08BTW557Q",
+        "title": "Nutristar Copper Water BottleNutristar Copper Water Bottle. Capacity 1 Liter. Pack of 1. Capacity 1 Liter. Pack of 1",
+        "image": "https://m.media-amazon.com/images/I/31XaaLjDADL._AC_UL400_.jpg",
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 878.9,
+          "currency": "INR",
+          "raw": "₹878.90"
+        }
+      },
+      {
+        "position": 10,
+        "asin": "B084PQM8FN",
+        "link": "https://www.amazon.in/dp/B084PQM8FN",
+        "title": "Twin Birds Glory 750 ml Bottle (Pack of 1, Silver)",
+        "image": "https://m.media-amazon.com/images/I/61Ns3DVECNL._AC_UL400_.jpg",
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 297,
+          "currency": "INR",
+          "raw": "₹297.00"
+        }
+      },
+      {
+        "position": 11,
+        "asin": "B08WLP3PYK",
+        "link": "https://www.amazon.in/dp/B08WLP3PYK",
+        "title": "RBY Copper Water Bottle with Matte Finish and Leak Proof Cap (Capacity - 1000 ml)",
+        "image": "https://m.media-amazon.com/images/I/61WjZEtSUlL._AC_UL400_.jpg",
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 689,
+          "currency": "INR",
+          "raw": "₹689.00"
+        }
+      },
+      {
+        "position": 12,
+        "asin": "B08V57R5ND",
+        "link": "https://www.amazon.in/dp/B08V57R5ND",
+        "title": "Vintageware Leak Proof Ayurvedic Health Benefits Copper Water Bottle, 950ml (Plain Copper Finish)",
+        "image": "https://m.media-amazon.com/images/I/41Hkxt4dF4L._AC_UL400_.jpg",
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 595,
+          "currency": "INR",
+          "raw": "₹595.00"
+        }
+      }
+    ],
+    "title": "Get instant recommendations"
+  },
+  "compare_with_similar": [
+    {
+      "asin": "B0824ZFCDN",
+      "image": "https://m.media-amazon.com/images/I/61+CDBo-phL._AC_SS450_.jpg",
+      "title": "Milton Copper Charge 1000 Water Bottle, 960 ml, Copper, 1 Piece",
+      "rating": 4,
+      "ratings_total": 10977,
+      "link": "https://www.amazon.in/dp/B0824ZFCDN"
+    },
+    {
+      "asin": "B07L6LX5GK",
+      "image": "https://m.media-amazon.com/images/I/51JyGkHry+L._AC_SS450_.jpg",
+      "title": "Prestige TATTVA COPPER BOTTLE TCB 02 - 1000 ml",
+      "rating": 4,
+      "ratings_total": 1519,
+      "link": "https://www.amazon.in/dp/B07L6LX5GK"
+    },
+    {
+      "asin": "B08JYTCJ3S",
+      "image": "https://m.media-amazon.com/images/I/61rmTs6MdJL._AC_SS450_.jpg",
+      "title": "Milton Copperas 1000 Copper Bottle, 920 ml, 1 Piece, Copper",
+      "rating": 3.5,
+      "ratings_total": 119,
+      "link": "https://www.amazon.in/dp/B08JYTCJ3S"
+    },
+    {
+      "asin": "B07Y9PXQ5X",
+      "image": "https://m.media-amazon.com/images/I/41cQrJ2KdtS._AC_SS450_.jpg",
+      "title": "TAGOTT Apsara Copper Water Bottle, 1000ml, Set of 1, Wood Brown",
+      "rating": 4,
+      "ratings_total": 2879,
+      "link": "https://www.amazon.in/dp/B07Y9PXQ5X"
+    },
+    {
+      "asin": "B08941GS9D",
+      "image": "https://m.media-amazon.com/images/I/61dlUb6NEXL._AC_SS450_.jpg",
+      "title": "Rudra Exports Curve Design Copper Water Bottle 1 litre Matt Finish Copper water Bottle 1000 ml",
+      "ratings_total": 0,
+      "link": "https://www.amazon.in/dp/B08941GS9D"
+    }
+  ],
+  "sponsored_products": [
+    {
+      "title": "balanceactive Antique Copper Water Bottle, Copper Bottles for Water 1 Liter,100% Pure Copper Water Bottles 1 Litre Best, Leak Proof Copper Bottles 1 Litre (1000ml) (copper-b-finala)",
+      "asin": "B08J7YB57K",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A03584655N3M3BGJHJG8&qualifier=1658427288&id=1781765017775837&widgetName=sp_detail&url=%2Fdp%2FB08J7YB57K%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB08J7YB57K%26pd_rd_w%3DyfrG6%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DNBF7K2XXGP4ZRR71HGRC%26pd_rd_wg%3DPoRlv%26pd_rd_r%3Dff5a40e5-6d8f-474c-a693-e1caa503027e%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41fJmXGLrKL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 216,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 864,
+        "currency": "INR",
+        "raw": "₹864.00"
+      }
+    },
+    {
+      "title": "The Better Home 1000 Copper Water Bottle (900ml) | 100% Pure Copper Bottle | BPA Free & Non Toxic Water Bottle with Anti Oxidant Properties of Copper (1 Piece)",
+      "asin": "B09SHC5K5N",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A08108532R4EZHNHOPX7G&qualifier=1658427288&id=1781765017775837&widgetName=sp_detail&url=%2Fdp%2FB09SHC5K5N%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09SHC5K5N%26pd_rd_w%3DyfrG6%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DNBF7K2XXGP4ZRR71HGRC%26pd_rd_wg%3DPoRlv%26pd_rd_r%3Dff5a40e5-6d8f-474c-a693-e1caa503027e%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/21QJKD7tP-L._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 298,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 949,
+        "currency": "INR",
+        "raw": "₹949.00"
+      }
+    },
+    {
+      "title": "The Better Home 1000 Copper Water Bottle (900ml) | 100% Pure Copper Bottle | BPA Free & Non Toxic Water Bottle with Anti Oxidant Properties of Copper | Blue",
+      "asin": "B0B1JG9RFK",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A00083742J1HTXMH2RS85&qualifier=1658427288&id=1781765017775837&widgetName=sp_detail&url=%2Fdp%2FB0B1JG9RFK%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0B1JG9RFK%26pd_rd_w%3DyfrG6%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DNBF7K2XXGP4ZRR71HGRC%26pd_rd_wg%3DPoRlv%26pd_rd_r%3Dff5a40e5-6d8f-474c-a693-e1caa503027e%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/21wno0WxU2L._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 31,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 899,
+        "currency": "INR",
+        "raw": "₹899.00"
+      }
+    },
+    {
+      "title": "NORMAN JR, Copper Collection - Water Bottle 1 LTR Extra Large Pack of 3 Pcs - an Ayurvedic Pure Copper Vessel - Drink More Water, Lower Your Sugar Intake and Enjoy The Health Benefits Immediately - Copper",
+      "asin": "B0B59QWQZD",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A051186217NUMHWKI4WXO&qualifier=1658427288&id=1781765017775837&widgetName=sp_detail&url=%2Fdp%2FB0B59QWQZD%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0B59QWQZD%26pd_rd_w%3DyfrG6%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DNBF7K2XXGP4ZRR71HGRC%26pd_rd_wg%3DPoRlv%26pd_rd_r%3Dff5a40e5-6d8f-474c-a693-e1caa503027e%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41W7lvwcqBL._AC_SR160,160_.jpg",
+      "rating": 5,
+      "ratings_total": 17,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1999,
+        "currency": "INR",
+        "raw": "₹1,999.00"
+      }
+    },
+    {
+      "title": "Milton Copperas 1000 Copper Bottle, 920 ml, 1 Piece, Copper",
+      "asin": "B07CZHBWLH",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A01008041MJMIISX6MKQY&qualifier=1658427288&id=1781765017775837&widgetName=sp_detail&url=%2Fdp%2FB07CZHBWLH%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB07CZHBWLH%26pd_rd_w%3DyfrG6%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DNBF7K2XXGP4ZRR71HGRC%26pd_rd_wg%3DPoRlv%26pd_rd_r%3Dff5a40e5-6d8f-474c-a693-e1caa503027e%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31FMfqPsT9L._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 10721,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 875,
+        "currency": "INR",
+        "raw": "₹875.00"
+      }
+    },
+    {
+      "title": "The Better Home 1000 Copper Water Bottle (900ml) | 100% Pure Copper Bottle | BPA Free & Non Toxic Water Bottle with Anti Oxidant Properties of Copper | Purple",
+      "asin": "B0B1JFTH2L",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A06825321D88O2HWOJP28&qualifier=1658427288&id=1781765017775837&widgetName=sp_detail&url=%2Fdp%2FB0B1JFTH2L%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0B1JFTH2L%26pd_rd_w%3DyfrG6%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DNBF7K2XXGP4ZRR71HGRC%26pd_rd_wg%3DPoRlv%26pd_rd_r%3Dff5a40e5-6d8f-474c-a693-e1caa503027e%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/216tkXCbDDL._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 34,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 949,
+        "currency": "INR",
+        "raw": "₹949.00"
+      }
+    },
+    {
+      "title": "The Better Home 1000 Copper Water Bottle (900ml) | 100% Pure Copper Bottle | BPA Free & Non Toxic Water Bottle with Anti Oxidant Properties of Copper | Grey",
+      "asin": "B0B1JDW4DL",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A00082182WXK9QX8QL210&qualifier=1658427288&id=1781765017775837&widgetName=sp_detail&url=%2Fdp%2FB0B1JDW4DL%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0B1JDW4DL%26pd_rd_w%3DyfrG6%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DNBF7K2XXGP4ZRR71HGRC%26pd_rd_wg%3DPoRlv%26pd_rd_r%3Dff5a40e5-6d8f-474c-a693-e1caa503027e%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/21xLpbTctaL._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 26,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 949,
+        "currency": "INR",
+        "raw": "₹949.00"
+      }
+    },
+    {
+      "title": "PRATIK (Auspiciously Healthy) Black Copper Bottle (500ml)",
+      "asin": "B09X1MJ4TL",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A044775114D5YD2ZWY2RG&qualifier=1658427288&id=1781765017775837&widgetName=sp_detail&url=%2Fdp%2FB09X1MJ4TL%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB09X1MJ4TL%26pd_rd_w%3DyfrG6%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DNBF7K2XXGP4ZRR71HGRC%26pd_rd_wg%3DPoRlv%26pd_rd_r%3Dff5a40e5-6d8f-474c-a693-e1caa503027e%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/21-iiPFeUML._AC_SR160,160_.jpg",
+      "rating": 5,
+      "ratings_total": 3,
+      "price": {
+        "symbol": "₹",
+        "value": 854,
+        "currency": "INR",
+        "raw": "₹854.00"
+      }
+    },
+    {
+      "title": "The Better Home Copper Water Bottle with Sipper | 100% Pure Copper Bottle with Sipper | BPA Free & Non Toxic Water Bottle with Anti Oxidant Properties of Copper",
+      "asin": "B0B5GLLCM4",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A0975815GXBWU7TVNAZC&qualifier=1658427288&id=1781765017775837&widgetName=sp_detail&url=%2Fdp%2FB0B5GLLCM4%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB0B5GLLCM4%26pd_rd_w%3DyfrG6%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DNBF7K2XXGP4ZRR71HGRC%26pd_rd_wg%3DPoRlv%26pd_rd_r%3Dff5a40e5-6d8f-474c-a693-e1caa503027e%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31mnqh6NdjL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 899,
+        "currency": "INR",
+        "raw": "₹899.00"
+      }
+    },
+    {
+      "title": "DR.Copper 500ml Water Bottle",
+      "asin": "B07FQ6VGWS",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A07214712BA7UH2IA554X&qualifier=1658427288&id=1781765017775837&widgetName=sp_detail&url=%2Fdp%2FB07FQ6VGWS%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB07FQ6VGWS%26pd_rd_w%3DyfrG6%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DNBF7K2XXGP4ZRR71HGRC%26pd_rd_wg%3DPoRlv%26pd_rd_r%3Dff5a40e5-6d8f-474c-a693-e1caa503027e%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw%26smid%3DA11MCAEHBD9ZI7",
+      "image": "https://m.media-amazon.com/images/I/41JVP-t35VL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 1111,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 699,
+        "currency": "INR",
+        "raw": "₹699.00"
+      }
+    },
+    {
+      "title": "The Better Home 1000 Copper Water Bottle (900ml) | 100% Pure Copper Bottle | BPA Free & Non Toxic Water Bottle with Anti Oxidant Properties of Copper (1 Piece)",
+      "asin": "B09SHC5K5N",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A08108532R4EZHNHOPX7G&qualifier=1658427288&id=6602171167076706&widgetName=sp_detail2&url=%2Fdp%2FB09SHC5K5N%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB09SHC5K5N%26pd_rd_w%3Dn7SOS%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DNBF7K2XXGP4ZRR71HGRC%26pd_rd_wg%3DPoRlv%26pd_rd_r%3Dff5a40e5-6d8f-474c-a693-e1caa503027e%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/21QJKD7tP-L._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 298,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 949,
+        "currency": "INR",
+        "raw": "₹949.00"
+      }
+    },
+    {
+      "title": "balanceactive Antique Copper Water Bottle, Copper Bottles for Water 1 Liter,100% Pure Copper Water Bottles 1 Litre Best, Leak Proof Copper Bottles 1 Litre (1000ml) (copper-b-finala)",
+      "asin": "B08J7YB57K",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A03584655N3M3BGJHJG8&qualifier=1658427288&id=6602171167076706&widgetName=sp_detail2&url=%2Fdp%2FB08J7YB57K%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB08J7YB57K%26pd_rd_w%3Dn7SOS%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DNBF7K2XXGP4ZRR71HGRC%26pd_rd_wg%3DPoRlv%26pd_rd_r%3Dff5a40e5-6d8f-474c-a693-e1caa503027e%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41fJmXGLrKL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 216,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 864,
+        "currency": "INR",
+        "raw": "₹864.00"
+      }
+    },
+    {
+      "title": "Milton Copper Crown 1100 Water Bottle, 1.09 Litre, 1 Piece, Copper",
+      "asin": "B08YF58QL2",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A01003682MJ42SKWCLIDY&qualifier=1658427288&id=6602171167076706&widgetName=sp_detail2&url=%2Fdp%2FB08YF58QL2%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB08YF58QL2%26pd_rd_w%3Dn7SOS%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DNBF7K2XXGP4ZRR71HGRC%26pd_rd_wg%3DPoRlv%26pd_rd_r%3Dff5a40e5-6d8f-474c-a693-e1caa503027e%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31+YczIriHS._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 10974,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 867,
+        "currency": "INR",
+        "raw": "₹867.00"
+      }
+    },
+    {
+      "title": "The Better Home 1000 Copper Water Bottle (900ml) | 100% Pure Copper Bottle | BPA Free & Non Toxic Water Bottle with Anti Oxidant Properties of Copper | Blue",
+      "asin": "B0B1JG9RFK",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A00083742J1HTXMH2RS85&qualifier=1658427288&id=6602171167076706&widgetName=sp_detail2&url=%2Fdp%2FB0B1JG9RFK%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0B1JG9RFK%26pd_rd_w%3Dn7SOS%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DNBF7K2XXGP4ZRR71HGRC%26pd_rd_wg%3DPoRlv%26pd_rd_r%3Dff5a40e5-6d8f-474c-a693-e1caa503027e%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/21wno0WxU2L._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 31,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 899,
+        "currency": "INR",
+        "raw": "₹899.00"
+      }
+    },
+    {
+      "title": "PRATIK (Auspiciously Healthy) Black Copper Bottle (500ml)",
+      "asin": "B09X1MJ4TL",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A044775114D5YD2ZWY2RG&qualifier=1658427288&id=6602171167076706&widgetName=sp_detail2&url=%2Fdp%2FB09X1MJ4TL%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB09X1MJ4TL%26pd_rd_w%3Dn7SOS%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DNBF7K2XXGP4ZRR71HGRC%26pd_rd_wg%3DPoRlv%26pd_rd_r%3Dff5a40e5-6d8f-474c-a693-e1caa503027e%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/21-iiPFeUML._AC_SR160,160_.jpg",
+      "rating": 5,
+      "ratings_total": 3,
+      "price": {
+        "symbol": "₹",
+        "value": 854,
+        "currency": "INR",
+        "raw": "₹854.00"
+      }
+    },
+    {
+      "title": "The Better Home 1000 Copper Water Bottle (900ml) | 100% Pure Copper Bottle | BPA Free & Non Toxic Water Bottle with Anti Oxidant Properties of Copper | Purple",
+      "asin": "B0B1JFTH2L",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A06825321D88O2HWOJP28&qualifier=1658427288&id=6602171167076706&widgetName=sp_detail2&url=%2Fdp%2FB0B1JFTH2L%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0B1JFTH2L%26pd_rd_w%3Dn7SOS%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DNBF7K2XXGP4ZRR71HGRC%26pd_rd_wg%3DPoRlv%26pd_rd_r%3Dff5a40e5-6d8f-474c-a693-e1caa503027e%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/216tkXCbDDL._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 34,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 949,
+        "currency": "INR",
+        "raw": "₹949.00"
+      }
+    },
+    {
+      "title": "The Better Home 1000 Copper Water Bottle (900ml) | 100% Pure Copper Bottle | BPA Free & Non Toxic Water Bottle with Anti Oxidant Properties of Copper | Grey",
+      "asin": "B0B1JDW4DL",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A00082182WXK9QX8QL210&qualifier=1658427288&id=6602171167076706&widgetName=sp_detail2&url=%2Fdp%2FB0B1JDW4DL%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0B1JDW4DL%26pd_rd_w%3Dn7SOS%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DNBF7K2XXGP4ZRR71HGRC%26pd_rd_wg%3DPoRlv%26pd_rd_r%3Dff5a40e5-6d8f-474c-a693-e1caa503027e%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/21xLpbTctaL._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 26,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 949,
+        "currency": "INR",
+        "raw": "₹949.00"
+      }
+    },
+    {
+      "title": "NORMAN JR, Copper Collection - Water Bottle 1 LTR Extra Large Pack of 3 Pcs - an Ayurvedic Pure Copper Vessel - Drink More Water, Lower Your Sugar Intake and Enjoy The Health Benefits Immediately - Copper",
+      "asin": "B0B59QWQZD",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A051186217NUMHWKI4WXO&qualifier=1658427288&id=6602171167076706&widgetName=sp_detail2&url=%2Fdp%2FB0B59QWQZD%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB0B59QWQZD%26pd_rd_w%3Dn7SOS%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DNBF7K2XXGP4ZRR71HGRC%26pd_rd_wg%3DPoRlv%26pd_rd_r%3Dff5a40e5-6d8f-474c-a693-e1caa503027e%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41W7lvwcqBL._AC_SR160,160_.jpg",
+      "rating": 5,
+      "ratings_total": 17,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1999,
+        "currency": "INR",
+        "raw": "₹1,999.00"
+      }
+    },
+    {
+      "title": "PRATIK (Auspiciously Healthy) Copper Bottle (500ml)",
+      "asin": "B09X1LLFZJ",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A044757117A2YVA8N191N&qualifier=1658427288&id=6602171167076706&widgetName=sp_detail2&url=%2Fdp%2FB09X1LLFZJ%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB09X1LLFZJ%26pd_rd_w%3Dn7SOS%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DNBF7K2XXGP4ZRR71HGRC%26pd_rd_wg%3DPoRlv%26pd_rd_r%3Dff5a40e5-6d8f-474c-a693-e1caa503027e%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/112LWqlG1XL._AC_SR160,160_.jpg",
+      "price": {
+        "symbol": "₹",
+        "value": 854,
+        "currency": "INR",
+        "raw": "₹854.00"
+      }
+    },
+    {
+      "title": "Borosil PRO Copper Water Bottle, 100% Copper, Leak-proof, For Everyday Use, 950 ml",
+      "asin": "B09NZ8PVB8",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A003149820DBE2GM86L2K&qualifier=1658427288&id=6602171167076706&widgetName=sp_detail2&url=%2Fdp%2FB09NZ8PVB8%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB09NZ8PVB8%26pd_rd_w%3Dn7SOS%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DNBF7K2XXGP4ZRR71HGRC%26pd_rd_wg%3DPoRlv%26pd_rd_r%3Dff5a40e5-6d8f-474c-a693-e1caa503027e%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31b9TPERWCL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 1,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1145,
+        "currency": "INR",
+        "raw": "₹1,145.00"
+      }
+    }
+  ]
+}
