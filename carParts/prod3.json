@@ -1,0 +1,1019 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 25,
+    "credits_remaining": 75,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.in",
+    "asin": "B096YL57LN",
+    "type": "product"
+  },
+  "request_metadata": {
+    "created_at": "2022-07-21T18:20:24.677Z",
+    "processed_at": "2022-07-21T18:20:37.631Z",
+    "total_time_taken": 12.95,
+    "amazon_url": "https://www.amazon.in/dp/B096YL57LN?th=1&psc=1"
+  },
+  "product": {
+    "title": "SoftX Car Custom Steering Wheel Cover, Warmer Hands in Winter, Cooler Hands in Summer Specially for D Shape / Bottom Flat Steering Wheels (Black-Red), Leather",
+    "search_alias": {
+      "title": "Car & Motorbike",
+      "value": "automotive"
+    },
+    "keywords": "SoftX,Car,Custom,Steering,Wheel,Cover,,Warmer,Hands,in,Winter,,Cooler,Hands,in,Summer,Specially,for,D,Shape,/,Bottom,Flat,Steering,Wheels,(Black-Red),,Leather",
+    "keywords_list": [
+      "SoftX",
+      "Custom",
+      "Steering",
+      "Wheel",
+      "Cover",
+      "Warmer",
+      "Hands",
+      "Winter",
+      "Cooler",
+      "Hands",
+      "Summer",
+      "Specially",
+      "Shape",
+      "Bottom",
+      "Flat",
+      "Steering",
+      "Wheels",
+      "(Black-Red)",
+      "Leather"
+    ],
+    "asin": "B096YL57LN",
+    "parent_asin": "B096XXM7WC",
+    "link": "https://www.amazon.in/SoftX-Custom-Steering-Specially-Black-Red/dp/B096YL57LN",
+    "brand": "SoftX",
+    "sell_on_amazon": true,
+    "variants": [
+      {
+        "asin": "B096YF569Z",
+        "title": "Black",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B096YF569Z?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colour",
+            "value": "Black"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/711GAmWOkfL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/711GAmWOkfL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71q9KZJ8YfS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71e3xgoJ67S._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/61uoS9gO+gS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/41SRXNTX+AL.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/61uUk+RNSOL._SL1280_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 529,
+          "currency": "INR",
+          "raw": "₹529.00"
+        }
+      },
+      {
+        "asin": "B096XZHNMV",
+        "title": "Black-Beige",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B096XZHNMV?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colour",
+            "value": "Black-Beige"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/713P6Hi4M3L._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/713P6Hi4M3L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/7165MDohsLL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71WCvLn6UCS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81eyGKR15iS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61uoS9gO+gS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/41SRXNTX+AL.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61uUk+RNSOL._SL1280_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 529,
+          "currency": "INR",
+          "raw": "₹529.00"
+        }
+      },
+      {
+        "asin": "B096XX2WQW",
+        "title": "Black-Tan",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B096XX2WQW?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colour",
+            "value": "Black-Tan"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71XfUciSyHL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71XfUciSyHL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71Qptigv6uS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/710jsx3M+cS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/61uoS9gO+gS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/41SRXNTX+AL.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/61uUk+RNSOL._SL1280_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 529,
+          "currency": "INR",
+          "raw": "₹529.00"
+        }
+      },
+      {
+        "asin": "B096XXGWX9",
+        "title": "Black-Metallic Silver",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B096XXGWX9?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colour",
+            "value": "Black-Metallic Silver"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71DJ99+mgsL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71DJ99+mgsL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/713pJML7v8L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81Ds5TDuiaS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71BA7yUqorS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61uoS9gO+gS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/41SRXNTX+AL.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61uUk+RNSOL._SL1280_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 529,
+          "currency": "INR",
+          "raw": "₹529.00"
+        }
+      },
+      {
+        "asin": "B096YL57LN",
+        "title": "Black-Red",
+        "is_current_product": true,
+        "link": "https://www.amazon.in/dp/B096YL57LN?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colour",
+            "value": "Black-Red"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71FGYLl-gvL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71FGYLl-gvL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/818TAzQAvNS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81VYtcwxfSS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/61uoS9gO+gS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61uUk+RNSOL._SL1280_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/41SRXNTX+AL.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 529,
+          "currency": "INR",
+          "raw": "₹529.00"
+        }
+      }
+    ],
+    "variant_asins_flat": "B096YF569Z,B096XZHNMV,B096XX2WQW,B096XXGWX9,B096YL57LN",
+    "categories": [
+      {
+        "name": "Car & Motorbike",
+        "link": "https://www.amazon.in/Car-Motorbike-Store/b/ref=dp_bc_aui_C_1?ie=UTF8&node=4772060031",
+        "category_id": "4772060031"
+      },
+      {
+        "name": "Car Parts",
+        "link": "https://www.amazon.in/Car-Parts/b/ref=dp_bc_aui_C_2?ie=UTF8&node=5257475031",
+        "category_id": "5257475031"
+      },
+      {
+        "name": "Interior Fittings",
+        "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_3?ie=UTF8&node=5257538031",
+        "category_id": "5257538031"
+      },
+      {
+        "name": "Steering Wheels, Hubs & Accessories",
+        "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_4?ie=UTF8&node=5257842031",
+        "category_id": "5257842031"
+      },
+      {
+        "name": "Steering Wheel Covers",
+        "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_5?ie=UTF8&node=5258293031",
+        "category_id": "5258293031"
+      }
+    ],
+    "categories_flat": "Car & Motorbike > Car Parts > Interior Fittings > Steering Wheels, Hubs & Accessories > Steering Wheel Covers",
+    "description": "Soft Padding, Shaped To Feel Great On Your Hands Protects Finish \n\nMaterial : Leather., Soft wearable leather.\n\nA better grip on the steering wheel gives you more control on the road.\n\nSkid proof, stable, heat resistant put some style in your ride",
+    "promotions_feature": "No cost EMI available on select cards. Please check 'EMI options' above for more details. Here's how Get GST invoice and save up to 28% on business purchases. Sign up for free Here's how",
+    "sub_title": {
+      "text": "Brand: SoftX",
+      "link": "https://www.amazon.in/s/ref=bl_dp_s_web_0?ie=UTF8&search-alias=aps&field-keywords=SoftX"
+    },
+    "rating": 4.3,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 59,
+        "count": 174
+      },
+      "four_star": {
+        "percentage": 26,
+        "count": 76
+      },
+      "three_star": {
+        "percentage": 7,
+        "count": 20
+      },
+      "two_star": {
+        "percentage": 3,
+        "count": 8
+      },
+      "one_star": {
+        "percentage": 4,
+        "count": 11
+      }
+    },
+    "ratings_total": 296,
+    "reviews_total": 296,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71FGYLl-gvL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71FGYLl-gvL._SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/818TAzQAvNS._SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81VYtcwxfSS._SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61uoS9gO+gS._SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61uUk+RNSOL._SL1280_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/41SRXNTX+AL.jpg",
+        "variant": "PT05"
+      }
+    ],
+    "images_count": 6,
+    "images_flat": "https://m.media-amazon.com/images/I/71FGYLl-gvL._SL1500_.jpg,https://m.media-amazon.com/images/I/818TAzQAvNS._SL1500_.jpg,https://m.media-amazon.com/images/I/81VYtcwxfSS._SL1500_.jpg,https://m.media-amazon.com/images/I/61uoS9gO+gS._SL1500_.jpg,https://m.media-amazon.com/images/I/61uUk+RNSOL._SL1280_.jpg,https://m.media-amazon.com/images/I/41SRXNTX+AL.jpg",
+    "is_bundle": false,
+    "feature_bullets": [
+      "Material : Leather., Soft wearable leather.",
+      "Soft Padding, Shaped To Feel Great On Your Hands Protects Finish",
+      "A better grip on the steering wheel gives you more control on the road.",
+      "Skidproof, stable, heat resistant put some style in your ride",
+      "Made in India"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Made in India. Skidproof, stable, heat resistant put some style in your ride. A better grip on the steering wheel gives you more control on the road. Soft Padding, Shaped To Feel Great On Your Hands Protects Finish. Material : Leather., Soft wearable leather.",
+    "attributes": [
+      {
+        "name": "Colour",
+        "value": "Black-Red"
+      },
+      {
+        "name": "Material",
+        "value": "Leather"
+      },
+      {
+        "name": "Brand",
+        "value": "SoftX"
+      },
+      {
+        "name": "Vehicle Service Type",
+        "value": "Bottom Flate Steering wheel, D Shapte Steering wheel"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "R22EBD0Y3WA8LY",
+        "title": "Comfortable",
+        "body": "Purchased it for Tata Punch steering wheel and it was easy to install. The grip and comfort is phenomenal. There was a tag on the lower portion of the steering wheel which could have been avoided but overall very good.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Purchased it for Tata Punch steering wheel and it was easy to install. The grip and comfort is phenomenal. There was a tag on the lower portion of the steering wheel which could have been avoided but overall very good.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R22EBD0Y3WA8LY/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B096YL57LN",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 3 March 2022",
+          "utc": "2022-03-03T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Lee",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AGR2EV23E4MCNFD6VVLRW6BBBWLA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGR2EV23E4MCNFD6VVLRW6BBBWLA",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/1b830f13-1953-4538-8c03-8149132de9ba._CR0,0,500,500_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 7,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R3LKJMWR3G0ADU",
+        "title": "Perfectly fit on tata tigor",
+        "body": "The media could not be loaded. Perfectly fit in tata tigor, good grip. Need to struggle bit to make sure the stearing chin fits perfectly. Good grip. Must recommend and value for moneyRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\"><div id=\"video-block-R3LKJMWR3G0ADU\" class=\"a-section a-spacing-small a-spacing-top-mini video-block\">                                                      <div id=\"review-video-id-R3LKJMWR3G0ADU\" class=\"cr-video-desktop cr-video-desktop-placeholder\" data-review-id=\"R3LKJMWR3G0ADU\" data-video-url=\"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/35d92273-9558-44d1-8d68-dd30d54f7f40/default.jobtemplate.hls.m3u8\" data-thumbnail-url=\"https://m.media-amazon.com/images/I/51dn79RetXL._SY256._SY256.jpg\">       <div class=\"cr-media-status-container\">     <span class=\"a-spinner a-spinner-medium cr-media-spinner\"></span>     <span class=\"a-color-inverse cr-media-error-msg\">      The media could not be loaded.     </span>    </div>     </div>            </div><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/35d92273-9558-44d1-8d68-dd30d54f7f40/default.jobtemplate.mp4.480.mp4\" class=\"video-url\"><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/I/51dn79RetXL._SY256._SY256.jpg\" class=\"video-slate-img-url\">             <span>&nbsp;Perfectly fit in tata tigor, good grip.<br>Need to struggle bit to make sure the stearing chin fits perfectly.<br>Good grip.<br>Must recommend and value for money</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R3LKJMWR3G0ADU/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B096YL57LN",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 24 December 2021",
+          "utc": "2021-12-24T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Vivek733",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AFAEJYCG5RO2NNXX7DSYQIMGABNQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFAEJYCG5RO2NNXX7DSYQIMGABNQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "videos": [
+          {
+            "video": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/35d92273-9558-44d1-8d68-dd30d54f7f40/default.jobtemplate.mp4.480.mp4",
+            "image": "https://m.media-amazon.com/images/I/51dn79RetXL._SY256._SY256.jpg"
+          }
+        ],
+        "helpful_votes": 3,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "RYZZV593CFKT6",
+        "title": "Fits for Magnite!",
+        "body": "Product look & feel: The stiching, look and feel are awesome. The red color inserts look perfect like a racing car! Personally i loved it when added over the steering wheel.  Fit & Finish: But, the fit is kind of loose which makes turning slippery, just a little bit 0.01%  Package: Came with good packaging. Protected with enough cover.  Damage: No  Recommended: YesRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Product look &amp; feel:<br>The stiching, look and feel are awesome. The red color inserts look perfect like a racing car!<br>Personally i loved it when added over the steering wheel.<br><br>Fit &amp; Finish:<br>But, the fit is kind of loose which makes turning slippery, just a little bit 0.01%<br><br>Package:<br>Came with good packaging. Protected with enough cover.<br><br>Damage: No<br><br>Recommended: Yes</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/RYZZV593CFKT6/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B096YL57LN",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 9 February 2022",
+          "utc": "2022-02-09T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Ajith Kumar",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AFHKBYLN3AJFQZR2HGJRVHTIJ5XQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFHKBYLN3AJFQZR2HGJRVHTIJ5XQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R3KJH3GJQIOD4H",
+        "title": "Value for money steering cover",
+        "body": "I went to a offline store and they asked 1K for the product, few days later I was browsing Amazon and found this steering cover which actually matches to the colour of my car and I am delighted with it :).Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I went to a offline store and they asked 1K for the product, few days later I was browsing Amazon and found this steering cover which actually matches to the colour of my car and I am delighted with it :).</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R3KJH3GJQIOD4H/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B096YL57LN",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in India on 1 April 2022",
+          "utc": "2022-04-01T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Raghu",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AEDJXL2THGDI4ANR74DL35ZBQ7SQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEDJXL2THGDI4ANR74DL35ZBQ7SQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R2CY53GF7T1JOV",
+        "title": "Superb grip cover!! Just buy. You won't regret",
+        "body": "The product is really good providing superb grip and comfort. I bought the black colour which gives me so good steering wheel feedback that i feel the ultimate comfort. Just go for it as it supports all the new TATA cars with flat bottom.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The product is really good providing superb grip and comfort. I bought the black colour which gives me so good steering wheel feedback that i feel the ultimate comfort. Just go for it as it supports all the new TATA cars with flat bottom.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2CY53GF7T1JOV/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B096YL57LN",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 26 June 2022",
+          "utc": "2022-06-26T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Pratik Paradkar",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AHMMDOPUVLFGQRQUGVSNY73EP32A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHMMDOPUVLFGQRQUGVSNY73EP32A",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/3f48d51e-be05-4456-9e82-36292135ede0._CR0,0,374,374_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R3RB8KV8KALOP",
+        "title": "Perfect fit, Easy to Install and value for money",
+        "body": "Fits perfectly for Nexon D shaped steering wheel. Initially they wrongly delivered round one and I requested for replacement. Pros... Looks good, perfect fit, easy to install by self. Cons... nothing except the logo label at the bottom which could look odd and catches dirt...Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Fits perfectly for Nexon D shaped steering wheel. Initially they wrongly delivered round one and I requested for replacement.<br>Pros... Looks good, perfect fit, easy to install by self.<br>Cons... nothing except the logo label at the bottom which could look odd and catches dirt...</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R3RB8KV8KALOP/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B096YL57LN",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 20 April 2022",
+          "utc": "2022-04-20T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Kishore",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AE6DREO6LM4EHU2VZBRFYZ3GH3PQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AE6DREO6LM4EHU2VZBRFYZ3GH3PQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R3W4RTTDZ6IAKX",
+        "title": "Good fit for flat bottom steering wheel of Altroz",
+        "body": "The product is good for use. Offers plenty of grip for me over the standard steering wheel. The inside is rubberized to hold on to the steering wheel. The brand tag on the wheel however is an eye sore. It is stitched into the wheel and I don't appreciate it. Maybe provide it somewhere it won't be visible after fitment.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The product is good for use. Offers plenty of grip for me over the standard steering wheel. The inside is rubberized to hold on to the steering wheel. The brand tag on the wheel however is an eye sore. It is stitched into the wheel and I don't appreciate it. Maybe provide it somewhere it won't be visible after fitment.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R3W4RTTDZ6IAKX/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B096YL57LN",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in India on 30 January 2022",
+          "utc": "2022-01-30T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Amazon Customer",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AFMWE4D3RYYUG6DDNKFRPBKLH43A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFMWE4D3RYYUG6DDNKFRPBKLH43A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R1KDRBUPPOXQAZ",
+        "title": "GOOD FOR TIAGO",
+        "body": "I Purchased for Tata Tiago XZAPLUS 2021 model..Cover quality fitting everything fine completely satisfied ..In two places stiches found opened..remaining is perfect..buy it..Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I Purchased for Tata Tiago XZAPLUS 2021 model..Cover quality fitting everything fine completely satisfied<br>..In two places stiches found opened..remaining is perfect..buy it..</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R1KDRBUPPOXQAZ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B096YL57LN",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in India on 13 December 2021",
+          "utc": "2021-12-13T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "BHANU BABU",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AFLCD5AGNB5D23G4XR4TTAJVB5WA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFLCD5AGNB5D23G4XR4TTAJVB5WA",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/396de889-b38f-4a75-8202-efd64dd0e405._CR0,51.0,230,230_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "in",
+        "is_global_review": false
+      }
+    ],
+    "buybox_winner": {
+      "offer_id": "BYlLzYenB0Fb2UlE0/OpwfR0lMEVGaRbuDY2CSBlEnlGAeWig82ZB62KNmYcY00lvamTbxuFZbk7zEWBxaWiASVHagvB0FyiL/QLnre6xYxMX5AUh4zC18hkjzJXcgo8reXdzdyL91cINZrJyJNYdeTPnGjV/KrC7J0gpAcNV7O42ooAwthFYxr6L9HC7beK",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In stock.",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "3p",
+        "standard_delivery": {
+          "date": "Tuesday, 26 July",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Monday, 25 July",
+          "name": "Or fastest delivery Monday, 25 July. Order within 12 hrs 54 mins. Details"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": false,
+        "is_fulfilled_by_third_party": true,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Soft X",
+          "link": "https://www.amazon.in/sp?marketplaceID=A21TJRUUN4KGV&seller=A33AHKD70DNIS9",
+          "id": "A33AHKD70DNIS9"
+        }
+      },
+      "price": {
+        "symbol": "₹",
+        "value": 529,
+        "currency": "INR",
+        "raw": "₹529.00"
+      },
+      "rrp": {
+        "symbol": "₹",
+        "value": 799,
+        "currency": "INR",
+        "raw": "₹799.00"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Manufacturer",
+        "value": "‎Amar Automobiles"
+      },
+      {
+        "name": "Brand",
+        "value": "‎SoftX"
+      },
+      {
+        "name": "Model",
+        "value": "‎SoftX"
+      },
+      {
+        "name": "Item part number",
+        "value": "‎S1008"
+      },
+      {
+        "name": "Manufacturer Part Number",
+        "value": "‎S1008"
+      },
+      {
+        "name": "Material",
+        "value": "‎Leather"
+      },
+      {
+        "name": "Colour",
+        "value": "‎Black-Red"
+      },
+      {
+        "name": "Assembly Required",
+        "value": "‎No"
+      },
+      {
+        "name": "Country of Origin",
+        "value": "‎India"
+      },
+      {
+        "name": "ASIN",
+        "value": "B096YL57LN"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.3 out of 5 stars       296 ratings          4.3 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#700 in Car & Motorbike"
+      },
+      {
+        "name": "Date First Available",
+        "value": "8 June 2021"
+      },
+      {
+        "name": "Colour",
+        "value": "Black-Red"
+      },
+      {
+        "name": "Material",
+        "value": "Leather"
+      },
+      {
+        "name": "Brand",
+        "value": "SoftX"
+      },
+      {
+        "name": "Vehicle Service Type",
+        "value": "Bottom Flate Steering wheel, D Shapte Steering wheel"
+      }
+    ],
+    "specifications_flat": "Vehicle Service Type: Bottom Flate Steering wheel, D Shapte Steering wheel. Brand: SoftX. Material: Leather. Colour: Black-Red. Date First Available: 8 June 2021. Best Sellers Rank: #700 in Car & Motorbike. Customer Reviews: 4.3 out of 5 stars       296 ratings          4.3 out of 5 stars. ASIN: B096YL57LN. Country of Origin: ‎India. Assembly Required: ‎No. Colour: ‎Black-Red. Material: ‎Leather. Manufacturer Part Number: ‎S1008. Item part number: ‎S1008. Model: ‎SoftX. Brand: ‎SoftX. Manufacturer: ‎Amar Automobiles.",
+    "bestsellers_rank": [
+      {
+        "category": "Car & Motorbike",
+        "rank": 700,
+        "link": "https://www.amazon.in/gp/bestsellers/automotive/ref=pd_zg_ts_automotive"
+      },
+      {
+        "category": "Steering Wheel Covers",
+        "rank": 3,
+        "link": "https://www.amazon.in/gp/bestsellers/automotive/5258293031/ref=pd_zg_hrsr_automotive"
+      }
+    ],
+    "color": "Black-Red",
+    "material": "Leather",
+    "manufacturer": "‎Amar Automobiles",
+    "first_available": {
+      "raw": "8 June 2021",
+      "utc": "2021-06-08T00:00:00.000Z"
+    },
+    "model_number": "‎S1008",
+    "bestsellers_rank_flat": "Category: Car & Motorbike | Rank: 700, Category: Steering Wheel Covers | Rank: 3"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "₹",
+      "value": 1097,
+      "currency": "INR",
+      "raw": "₹1,097.00"
+    },
+    "products": [
+      {
+        "asin": "B096YL57LN",
+        "title": "SoftX Car Custom Steering Wheel Cover, Warmer Hands in Winter, Cooler Hands in Summer Specially for D Shape / Bottom Flat Steering Wheels (Black-Red), Leather",
+        "link": "https://www.amazon.in/dp/B096YL57LN",
+        "image": "https://m.media-amazon.com/images/I/81dKTrBnrlL._SS100_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 529,
+          "currency": "INR",
+          "raw": "₹529.00"
+        }
+      },
+      {
+        "asin": "B082NJKCSM",
+        "title": "CarFrill HD Glass Frameless Round Convex Rear View Blind Spot Mirror Cars/Trucks/Vans (2\") -Pack of 2",
+        "link": "https://www.amazon.in/dp/B082NJKCSM",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/614ZsYliJFL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 279,
+          "currency": "INR",
+          "raw": "₹279.00"
+        }
+      },
+      {
+        "asin": "B082CY642T",
+        "title": "Keycare® silicone key cover compatible for Nexon, Harrier, Tigor BS6, Tigor EV, Safari 2021, Altroz, Safari Gold, Gravitas, P",
+        "link": "https://www.amazon.in/dp/B082CY642T",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/5110dTftpXL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 289,
+          "currency": "INR",
+          "raw": "₹289.00"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B07J6MZ95G",
+    "link": "https://www.amazon.in/dp/B07J6MZ95G/ref=vp_d_pb_TIER3_cmlr_lp_B096YL57LN_pd?_encoding=UTF8&pf_rd_p=0f75d243-34c8-4ab1-b1cf-db0ffce087bc&pf_rd_r=GEC9R3NWFVJ2EJWN734K&pd_rd_wg=r7AKX&pd_rd_i=B07J6MZ95G&pd_rd_w=BUZce&content-id=amzn1.sym.0f75d243-34c8-4ab1-b1cf-db0ffce087bc&pd_rd_r=31169df9-8d6b-45ab-8ab0-060e229a76a4",
+    "title": "Amazon Brand - Solimo Steering Cover (Small), Red",
+    "rating": 4,
+    "ratings_total": 2180,
+    "image": "https://m.media-amazon.com/images/I/81dKTrBnrlL._SS100_.jpg",
+    "price": {
+      "value": 229,
+      "currency": "INR",
+      "symbol": "₹",
+      "raw": "229.00"
+    }
+  },
+  "sponsored_products": [
+    {
+      "title": "MIXEN Car Custom Steering Wheel Cover, Warmer Hands in Winter, Cooler Hands in Summer Specially for D Shape/Bottom Flat Steering Wheels (Black) Leather",
+      "asin": "B0B54P2C2H",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A04539243F8NUHX1FM7RG&qualifier=1658427633&id=1121261767676069&widgetName=sp_detail&url=%2Fdp%2FB0B54P2C2H%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0B54P2C2H%26pd_rd_w%3DGVmXU%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DGEC9R3NWFVJ2EJWN734K%26pd_rd_wg%3D4nqUu%26pd_rd_r%3D9cd31112-0e05-4317-83bd-5f7449f1b5fe%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41RO0RzmPoL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 899,
+        "currency": "INR",
+        "raw": "₹899.00"
+      }
+    },
+    {
+      "title": "SoftX Car Steering Wheel Cover, Cool in Summer...Warm in Winter, Material : Leather (Black-Red, Small (14\" to 14.25\")) sutaible Models for Maruti800 Alto800 AltoK10 Van Omni EECO OldWagonR OldSantro",
+      "asin": "B096P8FKNK",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A028221322KVX1P6MSQHR&qualifier=1658427633&id=1121261767676069&widgetName=sp_detail&url=%2Fdp%2FB096P8FKNK%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB096P8FKNK%26pd_rd_w%3DGVmXU%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DGEC9R3NWFVJ2EJWN734K%26pd_rd_wg%3D4nqUu%26pd_rd_r%3D9cd31112-0e05-4317-83bd-5f7449f1b5fe%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31YdghT06kL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 64,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 499,
+        "currency": "INR",
+        "raw": "₹499.00"
+      }
+    },
+    {
+      "title": "JUKKRE Extra Grip Faux Leather Flat Bottom D-Shape Anti-Slip Steering Wheel Cover Compatible with Kia Seltos BMW Hyundai Venue, Black",
+      "asin": "B0B53N9ZBP",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A06620481VDA0A8Y8WXJF&qualifier=1658427633&id=1121261767676069&widgetName=sp_detail&url=%2Fdp%2FB0B53N9ZBP%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0B53N9ZBP%26pd_rd_w%3DGVmXU%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DGEC9R3NWFVJ2EJWN734K%26pd_rd_wg%3D4nqUu%26pd_rd_r%3D9cd31112-0e05-4317-83bd-5f7449f1b5fe%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41ysQCZf8gL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 899,
+        "currency": "INR",
+        "raw": "₹899.00"
+      }
+    },
+    {
+      "title": "Newlly Microfiber Leather Car Steering Wheel Cover (Black)",
+      "asin": "B07RFSLNQ9",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A04140381P6K4RTZR8M43&qualifier=1658427633&id=1121261767676069&widgetName=sp_detail&url=%2Fdp%2FB07RFSLNQ9%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB07RFSLNQ9%26pd_rd_w%3DGVmXU%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DGEC9R3NWFVJ2EJWN734K%26pd_rd_wg%3D4nqUu%26pd_rd_r%3D9cd31112-0e05-4317-83bd-5f7449f1b5fe%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41kCet6dX4S._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 585,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 539,
+        "currency": "INR",
+        "raw": "₹539.00"
+      }
+    },
+    {
+      "title": "LEVGRY Car Custom Steering Wheel Cover, Warmer Hands in Winter, Cooler Hands in Summer Specially for D Shape/Bottom Flat Steering Wheels (Black) Leather",
+      "asin": "B0B56CQ5YD",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A006351423FF59QPV0YJB&qualifier=1658427633&id=1121261767676069&widgetName=sp_detail&url=%2Fdp%2FB0B56CQ5YD%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0B56CQ5YD%26pd_rd_w%3DGVmXU%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DGEC9R3NWFVJ2EJWN734K%26pd_rd_wg%3D4nqUu%26pd_rd_r%3D9cd31112-0e05-4317-83bd-5f7449f1b5fe%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41L1pxjj26L._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 899,
+        "currency": "INR",
+        "raw": "₹899.00"
+      }
+    },
+    {
+      "title": "Newlly Microfiber Leather Car Steering Wheel Cover (Beige)",
+      "asin": "B09FJCD6QX",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A02064573PU2Q0B6RV5CY&qualifier=1658427633&id=1121261767676069&widgetName=sp_detail&url=%2Fdp%2FB09FJCD6QX%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB09FJCD6QX%26pd_rd_w%3DGVmXU%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DGEC9R3NWFVJ2EJWN734K%26pd_rd_wg%3D4nqUu%26pd_rd_r%3D9cd31112-0e05-4317-83bd-5f7449f1b5fe%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/519TmnlGCJL._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 26,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 459,
+        "currency": "INR",
+        "raw": "₹459.00"
+      }
+    },
+    {
+      "title": "PIKFOS Steering Wheel Cover - Odorless, Warmer Hands in Winter, Cooler Hands in Summer || Black",
+      "asin": "B09KNP5C8V",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A05037433CQG9ITAA2SD8&qualifier=1658427633&id=1121261767676069&widgetName=sp_detail&url=%2Fdp%2FB09KNP5C8V%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB09KNP5C8V%26pd_rd_w%3DGVmXU%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DGEC9R3NWFVJ2EJWN734K%26pd_rd_wg%3D4nqUu%26pd_rd_r%3D9cd31112-0e05-4317-83bd-5f7449f1b5fe%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/51xcO1KtQPL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 499,
+        "currency": "INR",
+        "raw": "₹499.00"
+      }
+    },
+    {
+      "title": "ShineXPro Microfiber Car Cleaning Cloth - OG Soft 500 GSM Extra Large (35x75 cm) Microfiber Cloth for Car and Bike - Suede Edging for Scratchless Drying and Detailing (Pack of 2)",
+      "asin": "B09RWTYMCF",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A02472542AWLOHFQS214C&qualifier=1658427633&id=2531582551990399&widgetName=sp_detail2&url=%2Fdp%2FB09RWTYMCF%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB09RWTYMCF%26pd_rd_w%3DbxGh3%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DGEC9R3NWFVJ2EJWN734K%26pd_rd_wg%3D4nqUu%26pd_rd_r%3D9cd31112-0e05-4317-83bd-5f7449f1b5fe%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51cqkNHSdXL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 1485,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 499,
+        "currency": "INR",
+        "raw": "₹499.00"
+      }
+    },
+    {
+      "title": "ShineXPro Microfiber Car Cleaning Cloth and Wash Mitt (Combo) - Includes OG Soft 500 GSM Extra Large (35x75 CM) Microfiber Cloth For Car and Dual Sided Chenille Microfiber Wash Mitt - Wash and Dry Kit",
+      "asin": "B09VPDY18F",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A07086752KJOYE2HFBI55&qualifier=1658427633&id=2531582551990399&widgetName=sp_detail2&url=%2Fdp%2FB09VPDY18F%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09VPDY18F%26pd_rd_w%3DbxGh3%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DGEC9R3NWFVJ2EJWN734K%26pd_rd_wg%3D4nqUu%26pd_rd_r%3D9cd31112-0e05-4317-83bd-5f7449f1b5fe%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51Fsw9PtF4L._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 92,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 599,
+        "currency": "INR",
+        "raw": "₹599.00"
+      }
+    },
+    {
+      "title": "SoftX Car Steering Wheel Cover, Cool in Summer...Warm in Winter, Material : Leather (Black-Red, Small (14\" to 14.25\")) sutaible Models for Maruti800 Alto800 AltoK10 Van Omni EECO OldWagonR OldSantro",
+      "asin": "B096P8FKNK",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A028221322KVX1P6MSQHR&qualifier=1658427633&id=2531582551990399&widgetName=sp_detail2&url=%2Fdp%2FB096P8FKNK%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB096P8FKNK%26pd_rd_w%3DbxGh3%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DGEC9R3NWFVJ2EJWN734K%26pd_rd_wg%3D4nqUu%26pd_rd_r%3D9cd31112-0e05-4317-83bd-5f7449f1b5fe%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31YdghT06kL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 64,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 499,
+        "currency": "INR",
+        "raw": "₹499.00"
+      }
+    },
+    {
+      "title": "ShineXPro Microfiber Cloth for Car - PureMagic 1100 GSM Twisted Loop Super Absorbent Towel - Edgeless Design with Plush Pile and Lint Free Cloth for Drying and Detailing (50CM x 80CM (Extra Large))",
+      "asin": "B09NY6C7H3",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A0194652150LC0LLSX8XC&qualifier=1658427633&id=2531582551990399&widgetName=sp_detail2&url=%2Fdp%2FB09NY6C7H3%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB09NY6C7H3%26pd_rd_w%3DbxGh3%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DGEC9R3NWFVJ2EJWN734K%26pd_rd_wg%3D4nqUu%26pd_rd_r%3D9cd31112-0e05-4317-83bd-5f7449f1b5fe%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51vSZ5aCLjL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 1477,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 999,
+        "currency": "INR",
+        "raw": "₹999.00"
+      }
+    },
+    {
+      "title": "MAX Microfiber Cloth for Car Cleaning (800 GSM, Pack of 3, Size: 30 x 40 cm) Double Sided, High Density, Extra Thick Plush Towel for Car Detailing, Cleaning, Washing and Polishing, Color: Yellow, Blue, Green",
+      "asin": "B09N2NS9ND",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A059482114GC0UAYBWMOQ&qualifier=1658427633&id=2531582551990399&widgetName=sp_detail2&url=%2Fdp%2FB09N2NS9ND%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB09N2NS9ND%26pd_rd_w%3DbxGh3%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DGEC9R3NWFVJ2EJWN734K%26pd_rd_wg%3D4nqUu%26pd_rd_r%3D9cd31112-0e05-4317-83bd-5f7449f1b5fe%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy%26smid%3DA2T9P3F6BFCCTH",
+      "image": "https://m.media-amazon.com/images/I/5169imK12zL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 240,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 376,
+        "currency": "INR",
+        "raw": "₹376.00"
+      }
+    },
+    {
+      "title": "Newlly Microfiber Leather Car Steering Wheel Cover (Black)",
+      "asin": "B07RFSLNQ9",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A04140381P6K4RTZR8M43&qualifier=1658427633&id=2531582551990399&widgetName=sp_detail2&url=%2Fdp%2FB07RFSLNQ9%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB07RFSLNQ9%26pd_rd_w%3DbxGh3%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DGEC9R3NWFVJ2EJWN734K%26pd_rd_wg%3D4nqUu%26pd_rd_r%3D9cd31112-0e05-4317-83bd-5f7449f1b5fe%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41kCet6dX4S._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 585,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 539,
+        "currency": "INR",
+        "raw": "₹539.00"
+      }
+    },
+    {
+      "title": "JUKKRE Extra Grip Faux Leather Flat Bottom D-Shape Anti-Slip Steering Wheel Cover Compatible with Kia Seltos BMW Hyundai Venue, Black",
+      "asin": "B0B53N9ZBP",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A06620481VDA0A8Y8WXJF&qualifier=1658427633&id=2531582551990399&widgetName=sp_detail2&url=%2Fdp%2FB0B53N9ZBP%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0B53N9ZBP%26pd_rd_w%3DbxGh3%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DGEC9R3NWFVJ2EJWN734K%26pd_rd_wg%3D4nqUu%26pd_rd_r%3D9cd31112-0e05-4317-83bd-5f7449f1b5fe%26s%3Dautomotive%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41ysQCZf8gL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 899,
+        "currency": "INR",
+        "raw": "₹899.00"
+      }
+    }
+  ]
+}
