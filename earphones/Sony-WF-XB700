@@ -1,0 +1,1470 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 2,
+    "credits_remaining": 98,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.in",
+    "asin": "B085VQFZ91",
+    "type": "product"
+  },
+  "request_metadata": {
+    "created_at": "2022-08-01T09:25:14.376Z",
+    "processed_at": "2022-08-01T09:25:29.992Z",
+    "total_time_taken": 15.62,
+    "amazon_url": "https://www.amazon.in/dp/B085VQFZ91?th=1&psc=1"
+  },
+  "product": {
+    "title": "Sony WF-XB700 Bluetooth Truly Wireless in Ear Earbuds with Mic Extra Bass with 18 Hours Battery Life for Phone Calls, Quick Charge, Ver 5.0 (Blue)",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "Sony,WF-XB700,Bluetooth,Truly,Wireless,in,Ear,Earbuds,with,Mic,Extra,Bass,with,18,Hours,Battery,Life,for,Phone,Calls,,Quick,Charge,,Ver,5.0,(Blue)",
+    "keywords_list": [
+      "Sony",
+      "WF-XB700",
+      "Bluetooth",
+      "Truly",
+      "Wireless",
+      "Earbuds",
+      "with",
+      "Extra",
+      "Bass",
+      "with",
+      "Hours",
+      "Battery",
+      "Life",
+      "Phone",
+      "Calls",
+      "Quick",
+      "Charge",
+      "(Blue)"
+    ],
+    "asin": "B085VQFZ91",
+    "parent_asin": "B09QQTKVC3",
+    "link": "https://www.amazon.in/Sony-WF-XB700-Wireless-Bluetooth-Headphones/dp/B085VQFZ91",
+    "brand": "Sony",
+    "protection_plans": [
+      {
+        "asin": "B07DLTVLZD",
+        "title": "1 Year Extended Warranty",
+        "price": {
+          "symbol": "₹",
+          "value": 1099,
+          "currency": "INR",
+          "raw": "₹1,099.00"
+        }
+      },
+      {
+        "asin": "B09QMN5Q6P",
+        "title": "1 Year Extended Warranty Plan",
+        "price": {
+          "symbol": "₹",
+          "value": 659,
+          "currency": "INR",
+          "raw": "₹659.00"
+        }
+      },
+      {
+        "asin": "B09QMQBD9P",
+        "title": "2 Years Extended Warranty Plan",
+        "price": {
+          "symbol": "₹",
+          "value": 1129,
+          "currency": "INR",
+          "raw": "₹1,129.00"
+        }
+      }
+    ],
+    "sell_on_amazon": true,
+    "variants": [
+      {
+        "asin": "B085VQFZ91",
+        "title": "Blue",
+        "is_current_product": true,
+        "link": "https://www.amazon.in/dp/B085VQFZ91?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colour",
+            "value": "Blue"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71+tGw-CD9L._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71+tGw-CD9L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81OAHwcFKhL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91yGCxS4dWL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71lA9lu8kOL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71DvvZ62vEL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81x8pM92hYL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/81k+LUzul3L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/71z5tf5zAkL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT08",
+            "link": "https://m.media-amazon.com/images/I/91wNb4YuyAL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT09",
+            "link": "https://m.media-amazon.com/images/I/71XNYzL1mYL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT10",
+            "link": "https://m.media-amazon.com/images/I/71TSVATkLuL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT11",
+            "link": "https://m.media-amazon.com/images/I/71Dcm-bTL6L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT12",
+            "link": "https://m.media-amazon.com/images/I/71lqvBHqvbL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT13",
+            "link": "https://m.media-amazon.com/images/I/81th8lh-NOL._SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 7536,
+          "currency": "INR",
+          "raw": "₹7,536.00"
+        }
+      },
+      {
+        "asin": "B085VQFZ8Z",
+        "title": "Black",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B085VQFZ8Z?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Colour",
+            "value": "Black"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71oa-cZtfJL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71oa-cZtfJL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81OAHwcFKhL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91yGCxS4dWL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71lA9lu8kOL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71Ai+60T+OL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81x8pM92hYL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/81k+LUzul3L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/71iTz+EMrVL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT08",
+            "link": "https://m.media-amazon.com/images/I/71IjTn-Y3VL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT09",
+            "link": "https://m.media-amazon.com/images/I/71OkFiaVmGL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT10",
+            "link": "https://m.media-amazon.com/images/I/71CeraZ5WfL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT11",
+            "link": "https://m.media-amazon.com/images/I/71lqvBHqvbL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT12",
+            "link": "https://m.media-amazon.com/images/I/81mgTt8Tz5L._SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 6852,
+          "currency": "INR",
+          "raw": "₹6,852.00"
+        }
+      }
+    ],
+    "variant_asins_flat": "B085VQFZ91,B085VQFZ8Z",
+    "documents": [
+      {
+        "name": "Troubleshooting Guide (PDF)",
+        "link": "https://m.media-amazon.com/images/I/A1YIdvRiNqS.pdf"
+      }
+    ],
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.in/electronics/b/ref=dp_bc_aui_C_1?ie=UTF8&node=976419031",
+        "category_id": "976419031"
+      },
+      {
+        "name": "Headphones, Earbuds & Accessories",
+        "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_2?ie=UTF8&node=29561348031",
+        "category_id": "29561348031"
+      },
+      {
+        "name": "Headphones",
+        "link": "https://www.amazon.in/headphones/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1388921031",
+        "category_id": "1388921031"
+      },
+      {
+        "name": "In-Ear",
+        "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_4?ie=UTF8&node=14146389031",
+        "category_id": "14146389031"
+      }
+    ],
+    "categories_flat": "Electronics > Headphones, Earbuds & Accessories > Headphones > In-Ear",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Visit the Sony Store",
+      "link": "https://www.amazon.in/stores/SonyIndia/page/9DD1D3D2-F019-4129-A76A-E3F6BE950E01?ref_=ast_bln"
+    },
+    "rating": 3.8,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 49,
+        "count": 8906
+      },
+      "four_star": {
+        "percentage": 21,
+        "count": 3817
+      },
+      "three_star": {
+        "percentage": 9,
+        "count": 1635
+      },
+      "two_star": {
+        "percentage": 5,
+        "count": 908
+      },
+      "one_star": {
+        "percentage": 15,
+        "count": 2726
+      }
+    },
+    "ratings_total": 18177,
+    "reviews_total": 18177,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71+tGw-CD9L.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71+tGw-CD9L._SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81OAHwcFKhL._SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91yGCxS4dWL._SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71lA9lu8kOL._SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71DvvZ62vEL._SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81x8pM92hYL._SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81k+LUzul3L._SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71z5tf5zAkL._SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91wNb4YuyAL._SL1500_.jpg",
+        "variant": "PT08"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71XNYzL1mYL._SL1500_.jpg",
+        "variant": "PT09"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71TSVATkLuL._SL1500_.jpg",
+        "variant": "PT10"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71Dcm-bTL6L._SL1500_.jpg",
+        "variant": "PT11"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71lqvBHqvbL._SL1500_.jpg",
+        "variant": "PT12"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81th8lh-NOL._SL1500_.jpg",
+        "variant": "PT13"
+      }
+    ],
+    "images_count": 14,
+    "images_flat": "https://m.media-amazon.com/images/I/71+tGw-CD9L._SL1500_.jpg,https://m.media-amazon.com/images/I/81OAHwcFKhL._SL1500_.jpg,https://m.media-amazon.com/images/I/91yGCxS4dWL._SL1500_.jpg,https://m.media-amazon.com/images/I/71lA9lu8kOL._SL1500_.jpg,https://m.media-amazon.com/images/I/71DvvZ62vEL._SL1500_.jpg,https://m.media-amazon.com/images/I/81x8pM92hYL._SL1500_.jpg,https://m.media-amazon.com/images/I/81k+LUzul3L._SL1500_.jpg,https://m.media-amazon.com/images/I/71z5tf5zAkL._SL1500_.jpg,https://m.media-amazon.com/images/I/91wNb4YuyAL._SL1500_.jpg,https://m.media-amazon.com/images/I/71XNYzL1mYL._SL1500_.jpg,https://m.media-amazon.com/images/I/71TSVATkLuL._SL1500_.jpg,https://m.media-amazon.com/images/I/71Dcm-bTL6L._SL1500_.jpg,https://m.media-amazon.com/images/I/71lqvBHqvbL._SL1500_.jpg,https://m.media-amazon.com/images/I/81th8lh-NOL._SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 99,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/fe2d3357-f47b-4e52-8a68-d61a1a50191d/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51dvgSnnGnL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Sony WFXB700/L Bluetooth Truly Wireless in Ear Earbuds with mic Blue"
+      },
+      {
+        "duration_seconds": 99,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/16fe0fb6-5bf6-4778-a642-0f4a5405a4e1/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/516d4wItgjL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Sony True Wireless Earbuds"
+      },
+      {
+        "duration_seconds": 228,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/8c89551d-4db1-44e5-9d3a-bafc4d3138db/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/81ufFNLUxVL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Sony WF-XB700 Wireless Stereo Headset Unboxing"
+      },
+      {
+        "duration_seconds": 92,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/9e51facd-a1a1-4b46-9ca3-2af8d976935a/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/41dxw6wlV-L.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Top features of Sony WF-XB700 TWS Buds"
+      },
+      {
+        "duration_seconds": 86,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/c4cabc1b-65dd-40d3-94f5-8e6a8dc2bf78/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/510RQOzuvtL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Sony WF-XB700 Truly Wireless Extra Bass Bluetooth Earbuds"
+      },
+      {
+        "duration_seconds": 73,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/c763cf1d-6496-4cff-9c6c-c75424e68beb/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/61OHd-vc5jL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Sony Wireless Bluetooth Earbuds"
+      }
+    ],
+    "videos_count": 6,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/fe2d3357-f47b-4e52-8a68-d61a1a50191d/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/16fe0fb6-5bf6-4778-a642-0f4a5405a4e1/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/8c89551d-4db1-44e5-9d3a-bafc4d3138db/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/9e51facd-a1a1-4b46-9ca3-2af8d976935a/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/c4cabc1b-65dd-40d3-94f5-8e6a8dc2bf78/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/c763cf1d-6496-4cff-9c6c-c75424e68beb/default.jobtemplate.mp4.480.mp4",
+    "has_360_view": true,
+    "is_bundle": false,
+    "feature_bullets": [
+      "Extra Bass: WF-XB700 features EXTRA BASS for seriously powerful, punchy low-end sound. Your favourite basslines never sounded so good with 12mm driver unit. Frequency Response (Bluetooth Communication) : 20 Hz–20,000 Hz (Sampling frequency 44.1 kHz)",
+      "Water Resistant: With an IPX4 water resistance rating, splashes and sweat won't stop these headphones, so you can keep on moving to the music.",
+      "Battery Life/Quick Charge: Enjoy up to 18 hours of listening (9hrs Earbuds + 9hrs Carrying Case), if you're in a hurry, 10 minutes' quick charging gives you up to 60 minutes of music playback",
+      "Easy Operations: The buttons on the headphones lets you play, stop, skip through tracks and adjust the volume",
+      "Ergonomic Tri-hold structure: The WF-XB700 earbuds are ergonomically designed to contact three different points on your ear for a secure, comfortable fit.",
+      "Magnetic Charging Case: The compact charging case protects your WF-XB700 earbuds and lets you power up on the go.",
+      "Stable Connection/Low Latency: A BT chip that transmits sound to the left and right ears simultaneously, coupled with optimised antenna design. Low audio latency makes for enjoyable video viewing too",
+      "Built-In Mic: Conversation flows freely with easy hands-free calling, thanks to the built-in microphone. No need to even take your phone from your pocket.",
+      "Google Assistant/Siri: A simple button press connects you to your smartphone's Voice Assistant to get directions, play music and communicate with contacts. Customer care: 1800 103 7799"
+    ],
+    "feature_bullets_count": 9,
+    "feature_bullets_flat": "Google Assistant/Siri: A simple button press connects you to your smartphone's Voice Assistant to get directions, play music and communicate with contacts. Customer care: 1800 103 7799. Built-In Mic: Conversation flows freely with easy hands-free calling, thanks to the built-in microphone. No need to even take your phone from your pocket. Stable Connection/Low Latency: A BT chip that transmits sound to the left and right ears simultaneously, coupled with optimised antenna design. Low audio latency makes for enjoyable video viewing too. Magnetic Charging Case: The compact charging case protects your WF-XB700 earbuds and lets you power up on the go. Ergonomic Tri-hold structure: The WF-XB700 earbuds are ergonomically designed to contact three different points on your ear for a secure, comfortable fit. Easy Operations: The buttons on the headphones lets you play, stop, skip through tracks and adjust the volume. Battery Life/Quick Charge: Enjoy up to 18 hours of listening (9hrs Earbuds + 9hrs Carrying Case), if you're in a hurry, 10 minutes' quick charging gives you up to 60 minutes of music playback. Water Resistant: With an IPX4 water resistance rating, splashes and sweat won't stop these headphones, so you can keep on moving to the music. Extra Bass: WF-XB700 features EXTRA BASS for seriously powerful, punchy low-end sound. Your favourite basslines never sounded so good with 12mm driver unit. Frequency Response (Bluetooth Communication) : 20 Hz–20,000 Hz (Sampling frequency 44.1 kHz).",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "Sony"
+      },
+      {
+        "name": "Model Number",
+        "value": "WFXB700/L"
+      },
+      {
+        "name": "Colour",
+        "value": "Blue"
+      },
+      {
+        "name": "Connector Type",
+        "value": "Wireless, Bluetooth 5.0"
+      },
+      {
+        "name": "Wireless Communication Technology",
+        "value": "Truly wireless"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "RIQ0EEYQ144K2",
+        "title": "The real bass king",
+        "body": "Omg omg omg.. what a beautiful beast this is.. a pure punchy loud true wireless earbuds.. i am writing some valid point after using it and friends dont go with rumors, my purchase is valid, you can see it, its verified by amazon and superfast 1 day delivery.. Pros : 1. Pure punchy bass, if you are bass lover you will definitely fall in love with this buds 2. Lightweight, yes it is quite big but not heavy in weight 3. Too much loud, much more louder than galaxy buds+ as i have listened buds+ from one of my friend 4. No sound break even in full volume 5. Good battery life, enough for a single day use as i think no one is going to use it for long 24 hours continuously  Cons : I am really missing the headphone connects app of sony, i wish if its support.. but its ok because the sound i am getting from this buds are really awesome..  An update : Some people are complaining about sound depth, please change the eartips from small to medium or large, you will understand the changes and will get the real sound.  Thank you Sony and AmazonRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Omg omg omg.. what a beautiful beast this is.. a pure punchy loud true wireless earbuds.. i am writing some valid point after using it and friends dont go with rumors, my purchase is valid, you can see it, its verified by amazon and superfast 1 day delivery..<br>Pros :<br>1. Pure punchy bass, if you are bass lover you will definitely fall in love with this buds<br>2. Lightweight, yes it is quite big but not heavy in weight<br>3. Too much loud, much more louder than galaxy buds+ as i have listened buds+ from one of my friend<br>4. No sound break even in full volume<br>5. Good battery life, enough for a single day use as i think no one is going to use it for long 24 hours continuously<br><br>Cons :<br>I am really missing the headphone connects app of sony, i wish if its support.. but its ok because the sound i am getting from this buds are really awesome..<br><br>An update :<br>Some people are complaining about sound depth, please change the eartips from small to medium or large, you will understand the changes and will get the real sound.<br><br>Thank you Sony and Amazon</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/RIQ0EEYQ144K2/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B085VQFZ91",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 26 June 2020",
+          "utc": "2020-06-26T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "JC",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AFO27VIM55YRFJYRVWR3PLMNFFDA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFO27VIM55YRFJYRVWR3PLMNFFDA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 478,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R2IB4YNXKQ4Y6P",
+        "title": "Good Value for money",
+        "body": "Writing this after using it for a week. I own a Bose Soundsport TWS, so, my comparison is with Bose. Battery - Excellent, no complaints. 9-10 hours. 5 STAR. Calls - during phone calls, other side caller can hear you clearly but you will hear a hollow effect, like the caller is talking through a PVC tube. So, I give 4 STAR BT Connectvity - I did not face any problems with Left & Right connectivity on calls or music. For Calls, you can use Left earbud independently or both together. Good with my iphone 11 but drops intermittently when connected to PC for music or calls, breaks 6-7 times average per minute but reconnects immediately within a sec. - 4 STAR (for calls) Music - Excellent. Bass/LF is excellent, Mid frequency is also good. in the HF department, it is slightly less, maybe 5% to 7%. Stereo separation is better than Bose. Overall, SONY WF-XB 700 is excellent. Fitting is excellent, Wearing it for 4-5 hours does not pain or hurt and I even forgot that I have a earbud in my ear. (with Bose, I remove it every time after calls). The only CON is, the plastic lid is very flimsy and cheap and always seed a fear of breaking any moment.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Writing this after using it for a week. I own a Bose Soundsport TWS, so, my comparison is with Bose.<br>Battery - Excellent, no complaints. 9-10 hours. 5 STAR.<br>Calls - during phone calls, other side caller can hear you clearly but you will hear a hollow effect, like the caller is talking through a PVC tube. So, I give 4 STAR<br>BT Connectvity - I did not face any problems with Left &amp; Right connectivity on calls or music. For Calls, you can use Left earbud independently or both together.<br>Good with my iphone 11 but drops intermittently when connected to PC for music or calls, breaks 6-7 times average per minute but reconnects immediately within a sec. - 4 STAR (for calls)<br>Music - Excellent. Bass/LF is excellent, Mid frequency is also good. in the HF department, it is slightly less, maybe 5% to 7%. Stereo separation is better than Bose. Overall, SONY WF-XB 700 is excellent.<br>Fitting is excellent, Wearing it for 4-5 hours does not pain or hurt and I even forgot that I have a earbud in my ear. (with Bose, I remove it every time after calls).<br>The only CON is, the plastic lid is very flimsy and cheap and always seed a fear of breaking any moment.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2IB4YNXKQ4Y6P/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B085VQFZ91",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 28 June 2020",
+          "utc": "2020-06-28T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "IsHoUtLOuD",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AFCETRZUL77CF42VPN6HEDNKBFNQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFCETRZUL77CF42VPN6HEDNKBFNQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 316,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "RXOZDY3274S0P",
+        "title": "Blown away by the beats!",
+        "body": "Wow! Just wow! I am blown away by the sound Especially when listening to Edm's which is what i mostly listen to. The bass is so thumpy that it destroys the airpods (not the pro). Even without Active noise cancellation the isolation is just top notch. A must buy for the bass heads like me.  NOTE - People who are complaining about the low quality sound should change the ear tips according to their ear size. I was using a smaller one and the sound was terrible. But as soon as i changed it according to my ear size.. Voila!Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Wow! Just wow!<br>I am blown away by the sound Especially when listening to Edm's which is what i mostly listen to.<br>The bass is so thumpy that it destroys the airpods (not the pro).<br>Even without Active noise cancellation the isolation is just top notch.<br>A must buy for the bass heads like me.<br><br>NOTE - People who are complaining about the low quality sound should change the ear tips according to their ear size. I was using a smaller one and the sound was terrible. But as soon as i changed it according to my ear size.. Voila!</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/RXOZDY3274S0P/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B085VQFZ91",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 26 June 2020",
+          "utc": "2020-06-26T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Tarun",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AEAHQE4BVBYG2YEYDCSK7ARD77KA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEAHQE4BVBYG2YEYDCSK7ARD77KA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 237,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R1Z0RU5CAYX26E",
+        "title": "Very disappointed with a premium Sony product",
+        "body": "The earbuds are a great disappointment. First it was difficult to get paired with both iOS and android. The sound output is just so terrible that I couldn’t understand if the Xb name was given by mistake. The normal bass of any of my wired headphones are far better in quality then these Sony XB700. Truly sad experience and there is no way the Sony Support will provide any troubleshooting on calling their helpline number. Please refrain from buying this item. Absolutely low quality item. Please do not buy.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The earbuds are a great disappointment. First it was difficult to get paired with both iOS and android. The sound output is just so terrible that I couldn’t understand if the Xb name was given by mistake. The normal bass of any of my wired headphones are far better in quality then these Sony XB700. Truly sad experience and there is no way the Sony Support will provide any troubleshooting on calling their helpline number. Please refrain from buying this item. Absolutely low quality item. Please do not buy.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R1Z0RU5CAYX26E/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B085VQFZ91",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 28 June 2020",
+          "utc": "2020-06-28T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Paranjoy Das",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AEPFLVLAVKX42YUEKGD5LDPH7TKQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEPFLVLAVKX42YUEKGD5LDPH7TKQ",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/08f35869-8a8f-4fd2-bc6f-a59d5cb09a4e._CR0,0,500,500_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 126,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R30HGGFK5WKP3I",
+        "title": "Honestly not impressed though a Sony fan",
+        "body": "After a week of use, the below is my rating  Sound delivery: good, like the sony MDRs Bass: good (not excellent) Mids: Ok Noise cancellation: ok, (we cannot claim as this is not designed for noise cancellation, but this is not as good as the cheaper MDR 55 wired headphones of 2000 rupees. Honestly, I felt they wired and over-the-ear MDRs do better cancel the noise though they are not noise-canceling headphones) Surround effect: Poor (compared to competitors, including the 3000 rupees cheaper Boat earphones) Fit and comfort: Very good (I wore this for hours and felt ok with mild pain. Maybe with time I get used to wearing this. Fit is very good. Fall out: No tendency to fall. Perfect fit as of now. Battery: Average. I don't think it lasts for 9hrs after a charge. Charging cable: too short  People in youtube reviews are mentioning this as 'Bass King' etc etc. I think all are just hyping this to make viewers purchase the product by clicking the links (so that they earn royalty). Honestly, Bass is not that extreme.  My verdict: Go for something else! Better spend less and go for cheaper wired Sony MDR's or over-the-ear sony headphones for surround and noise cancellation along with good bass features. WF-XB700 is not a Wow product!  Detailed review: (to help you save your money!)  I'm a big fan of sony products and I use sony's mirrorless camera, Bravia, laptops, mp3 players, and headsets. This is the first time I moved to truly wireless. To be honest, I'm not impressed by this product. The sound surround that I expected was not that great. I have used mid-range MDR headphones, including over the ear types, all sony, and I feel that the MDRs are pretty good compared to this, given the lower price ones (1/5th of this price). I had once tested Boat earphones Airdopes 311v2 (my friend has that) and when I first put them on my ears, I was completely blown by the surround effect that the headphones delivered. I can see the difference in the sound and surround effect. So, I thought to purchase wireless earbuds expecting something similar to that. Honestly, this thing disappointed me. Though a little surround effect was heard, the music and bass sound normal to me (i'm used to hearing Sony MDR-XB55 from the past three years. I'm still using the headphones and they are great. They even do noise cancellation a lot better, even during travel). Noise cancellation with this headset is not impressive (as expected) but the sound quality and surround effect (like for 8D music), that too for the price range of 10,000, is not great. Also, I was shocked to notice that the dust mesh/filter protecting the inner electronics from the sound delivery passage/hole is missing in this Sony product. The charging cable is too short that it will be difficult if we try to get it charged from the wall socket. Every time I had to use my laptop as I don't prefer to use a mobile phone. I don't understand why companies do cost-cutting in such things they they could provide a meter length cable at a 50/100 rupees extra charge. We would've paid that right?  I think people have just overrated these headphones and many reviews in YouTube's are paid or are meant to make people purchase through the links that they share. Don't get fooled, guys! I suggest if you are looking for an earbud just for listening and enjoying music, go for wired MDR headphones. Else, if you really want wireless headphones, get cheaper ones like the boat and see if they fit to your purpose.  Edit: I got the headphones replaced with a new one. The seller 'Appario...' was quick enough to send the replacement. However, even after the replacement, I see that the dust mesh was missing like in the earlier product. I don't understand how sony claims IPX4 if the holes are not sealed. In just one day of use, I can see some dust and ear wax sticking to the inside walls. When i tried to blow them off, I was driven to nuts as they were going inside. Also, using an earbud (cotton) was useless as the hole size is small. So, the headphones are sure to accumulate ear wax and dust in just a few months, possibly reducing the sound effects. I don't understand how sony had come up with this design!Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>After a week of use, the below is my rating<br><br>Sound delivery: good, like the sony MDRs<br>Bass: good (not excellent)<br>Mids: Ok<br>Noise cancellation: ok, (we cannot claim as this is not designed for noise cancellation, but this is not as good as the cheaper MDR 55 wired headphones of 2000 rupees. Honestly, I felt they wired and over-the-ear MDRs do better cancel the noise though they are not noise-canceling headphones)<br>Surround effect: Poor (compared to competitors, including the 3000 rupees cheaper Boat earphones)<br>Fit and comfort: Very good (I wore this for hours and felt ok with mild pain. Maybe with time I get used to wearing this. Fit is very good.<br>Fall out: No tendency to fall. Perfect fit as of now.<br>Battery: Average. I don't think it lasts for 9hrs after a charge.<br>Charging cable: too short<br><br>People in youtube reviews are mentioning this as 'Bass King' etc etc. I think all are just hyping this to make viewers purchase the product by clicking the links (so that they earn royalty). Honestly, Bass is not that extreme.<br><br>My verdict: Go for something else! Better spend less and go for cheaper wired Sony MDR's or over-the-ear sony headphones for surround and noise cancellation along with good bass features. WF-XB700 is not a Wow product!<br><br>Detailed review: (to help you save your money!)<br><br>I'm a big fan of sony products and I use sony's mirrorless camera, Bravia, laptops, mp3 players, and headsets. This is the first time I moved to truly wireless. To be honest, I'm not impressed by this product. The sound surround that I expected was not that great. I have used mid-range MDR headphones, including over the ear types, all sony, and I feel that the MDRs are pretty good compared to this, given the lower price ones (1/5th of this price). I had once tested Boat earphones Airdopes 311v2 (my friend has that) and when I first put them on my ears, I was completely blown by the surround effect that the headphones delivered. I can see the difference in the sound and surround effect. So, I thought to purchase wireless earbuds expecting something similar to that. Honestly, this thing disappointed me. Though a little surround effect was heard, the music and bass sound normal to me (i'm used to hearing Sony MDR-XB55 from the past three years. I'm still using the headphones and they are great. They even do noise cancellation a lot better, even during travel). Noise cancellation with this headset is not impressive (as expected) but the sound quality and surround effect (like for 8D music), that too for the price range of 10,000, is not great. Also, I was shocked to notice that the dust mesh/filter protecting the inner electronics from the sound delivery passage/hole is missing in this Sony product. The charging cable is too short that it will be difficult if we try to get it charged from the wall socket. Every time I had to use my laptop as I don't prefer to use a mobile phone. I don't understand why companies do cost-cutting in such things they they could provide a meter length cable at a 50/100 rupees extra charge. We would've paid that right?<br><br>I think people have just overrated these headphones and many reviews in YouTube's are paid or are meant to make people purchase through the links that they share. Don't get fooled, guys!<br>I suggest if you are looking for an earbud just for listening and enjoying music, go for wired MDR headphones. Else, if you really want wireless headphones, get cheaper ones like the boat and see if they fit to your purpose.<br><br>Edit:<br>I got the headphones replaced with a new one. The seller 'Appario...' was quick enough to send the replacement.<br>However, even after the replacement, I see that the dust mesh was missing like in the earlier product. I don't understand how sony claims IPX4 if the holes are not sealed. In just one day of use, I can see some dust and ear wax sticking to the inside walls. When i tried to blow them off, I was driven to nuts as they were going inside. Also, using an earbud (cotton) was useless as the hole size is small. So, the headphones are sure to accumulate ear wax and dust in just a few months, possibly reducing the sound effects. I don't understand how sony had come up with this design!</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R30HGGFK5WKP3I/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B085VQFZ91",
+        "rating": 2,
+        "date": {
+          "raw": "Reviewed in India on 7 July 2020",
+          "utc": "2020-07-07T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Bhanu chander V",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AEB337ERWYKOQYO245MVCA2YF5BQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEB337ERWYKOQYO245MVCA2YF5BQ",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/88730b21-96dd-4f9b-b325-de264c5ee3e5._CR3,0,493,493_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 117,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R27BCJHP6IXE0S",
+        "title": "Please get me a replacement",
+        "body": "Right earbud stopped working. Only 12 days old. Amazon return period ended and now im supposed to take it to a service center ...which is closed because of the pandemic. So frustrating.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Right earbud stopped working. Only 12 days old. Amazon return period ended and now im supposed to take it to a service center ...which is closed because of the pandemic. So frustrating.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R27BCJHP6IXE0S/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B085VQFZ91",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 23 July 2020",
+          "utc": "2020-07-23T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Vishwak",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AG6SJ4VNHZ7K4TY4RTXKJ7GQLDFQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG6SJ4VNHZ7K4TY4RTXKJ7GQLDFQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 99,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R3NL6U0YKOQPGW",
+        "title": "Sony TWS",
+        "body": "Product is good, sound has extra bass but what I don't like it's fit, TWS hangs outside the ear, if someone interested I can sell it at a reasonable price. Unused .Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Product is good, sound has extra bass but what I don't like it's fit, TWS hangs outside the ear, if someone interested I can sell it at a reasonable price. Unused .</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R3NL6U0YKOQPGW/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B085VQFZ91",
+        "rating": 3,
+        "date": {
+          "raw": "Reviewed in India on 4 August 2020",
+          "utc": "2020-08-04T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "TATHAGATA BOSE",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AGHTCDQEZXBSRQWU5CVSMYSS54TQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGHTCDQEZXBSRQWU5CVSMYSS54TQ",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/59af4f67-0b5c-4d03-857e-c94e7a70a3a7._CR0,0,500,500_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 67,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R3IZ1TW10XO0NM",
+        "title": "Do not buy, they sell renewed products in the name of new!",
+        "body": "Received the product with damaged box. No seal on the box The ear buds should have been placed outside the charging case in the packaging box but were instead placed inside the charging case with it left turned on. The eartips has nasty powdery stuff denoting it has been used earlierRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Received the product with damaged box.<br>No seal on the box<br>The ear buds should have been placed outside the charging case in the packaging box but were instead placed inside the charging case with it left turned on. The eartips has nasty powdery stuff denoting it has been used earlier</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R3IZ1TW10XO0NM/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B085VQFZ91",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 10 July 2020",
+          "utc": "2020-07-10T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "shubham",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AG7ACJOPFF3MHXLYT5E3EIUGMTBA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG7ACJOPFF3MHXLYT5E3EIUGMTBA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 63,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R3HBAT6I8DPTS5",
+        "title": "Excelentes Graves",
+        "body": "Estuve viendo varios reviews sobre estos audífonos y me decidí a comprarlos por la calidad de sonido que se mensiona en todos.  Recién recibí los audífonos ayer, 20 minutos justo antes de ir al gimnasio, y a partir de esto, todo han sido gratas sorpresas. En estos 20 minutos los empareje al celular y los cargué en el estuche en lo que me trasladaba a entrenar. Me duró la batería una hora y media por la carga rápida. La comodidad y el aislamiento de ruido ( Sello ) son excelentes. La conexión es estable sin problemas. Y el sonido es espectacular, especialmente si eres como yo, un \"Bass Head\". Lo graves son profundos y claros sin distorsión. Los agudos son super claros sin molestar y los medios se sienten con buen nivel. Me encantó la firma de sonido de estos audífonos. El volumen es alto, por lo que no tendrás problemas en este aspecto. La imagen 3D del sonido, a diferencia de la mayoría de audífonos en este segmento, se siente con una gran separación en el espacio de los instrumentos. Es como si estuvieras en un lugar muy grande.  En los reviews que vi antes, se dice que el tamaño de los audífonos es muy grande, y pues, para gustos colores. A mí me gustó el diseño. Si eres de oídos pequeños, probablemente no sean tan cómodos para ti. Note que no se mueven durante el entrenamiento.  El micrófono para las llamadas es bueno.  Tengo unos Amps Air 2.0 y unos Sabath e12, también tienen buen sonido, pero los Amps no son tan cómodos y les dura solo Hora y media la batería. Los Sabath me los tengo que estar acomodando constantemente porque se pierde el sello. En resumen estos audífonos Sony son super comodos, tienen carga rápida, 9 horas de batería, y un excelente sonido. Si te gustan los audífonos con graves profundos son para ti. Cómo contra yo pondría que para las personas con oídos pequeños podrian no sean tan cómodos, y que no cuentan con sensores de proximidad para que se inicie la música de forma automática. En general los recomiendo.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Estuve viendo varios reviews sobre estos audífonos y me decidí a comprarlos por la calidad de sonido que se mensiona en todos.<br><br>Recién recibí los audífonos ayer, 20 minutos justo antes de ir al gimnasio, y a partir de esto, todo han sido gratas sorpresas. En estos 20 minutos los empareje al celular y los cargué en el estuche en lo que me trasladaba a entrenar. Me duró la batería una hora y media por la carga rápida. La comodidad y el aislamiento de ruido ( Sello ) son excelentes. La conexión es estable sin problemas. Y el sonido es espectacular, especialmente si eres como yo, un \"Bass Head\". Lo graves son profundos y claros sin distorsión. Los agudos son super claros sin molestar y los medios se sienten con buen nivel. Me encantó la firma de sonido de estos audífonos. El volumen es alto, por lo que no tendrás problemas en este aspecto. La imagen 3D del sonido, a diferencia de la mayoría de audífonos en este segmento, se siente con una gran separación en el espacio de los instrumentos. Es como si estuvieras en un lugar muy grande.<br><br>En los reviews que vi antes, se dice que el tamaño de los audífonos es muy grande, y pues, para gustos colores. A mí me gustó el diseño. Si eres de oídos pequeños, probablemente no sean tan cómodos para ti. Note que no se mueven durante el entrenamiento.<br><br>El micrófono para las llamadas es bueno.<br><br>Tengo unos Amps Air 2.0 y unos Sabath e12, también tienen buen sonido, pero los Amps no son tan cómodos y les dura solo Hora y media la batería. Los Sabath me los tengo que estar acomodando constantemente porque se pierde el sello. En resumen estos audífonos Sony son super comodos, tienen carga rápida, 9 horas de batería, y un excelente sonido. Si te gustan los audífonos con graves profundos son para ti. Cómo contra yo pondría que para las personas con oídos pequeños podrian no sean tan cómodos, y que no cuentan con sensores de proximidad para que se inicie la música de forma automática. En general los recomiendo.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on 2 September 2020",
+          "utc": "2020-09-02T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Cliente de Amazon"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 136,
+        "review_country": "mx",
+        "is_global_review": true
+      },
+      {
+        "id": "R30MVQWD45QTYM",
+        "title": "Buenísimos, mejor que AirPods",
+        "body": "Tuve unos AirPods, y la vdd el sonido de estos Sony es muchísimo mejor, de hecho, muchísimo mejor que unos beatsX. Los AirPods y los beatsX tienen los bajos sin potencia, además de que cuando subes el volumen se distorsiona mucho el sonido (horrible). Con estos Sony no, les subes y no se distorsiona nada, cada instrumento está en su lugar, sin distorsión entre medios, bajos y agudos... nunca he probado los AirPods Pro, pero escuché en unas reviews en YouTube, que el sonido es casi igual que los AirPods normales... así que llego a la conclusión de que estos Sony son mejores... sin duda alguna una gran compra, no se caen, son cómodos, parecen incómodos, pero la verdad es que aveces ni se sienten. Haciendo ejercicio nunca he tenido que acomodarlos, pues no se mueven de lugar.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Tuve unos AirPods, y la vdd el sonido de estos Sony es muchísimo mejor, de hecho, muchísimo mejor que unos beatsX. Los AirPods y los beatsX tienen los bajos sin potencia, además de que cuando subes el volumen se distorsiona mucho el sonido (horrible). Con estos Sony no, les subes y no se distorsiona nada, cada instrumento está en su lugar, sin distorsión entre medios, bajos y agudos... nunca he probado los AirPods Pro, pero escuché en unas reviews en YouTube, que el sonido es casi igual que los AirPods normales... así que llego a la conclusión de que estos Sony son mejores... sin duda alguna una gran compra, no se caen, son cómodos, parecen incómodos, pero la verdad es que aveces ni se sienten. Haciendo ejercicio nunca he tenido que acomodarlos, pues no se mueven de lugar.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on 22 October 2020",
+          "utc": "2020-10-22T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Juan"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 76,
+        "review_country": "mx",
+        "is_global_review": true
+      },
+      {
+        "id": "R1G3DEZIM7WRW5",
+        "title": "Sony Extra Bass Pocket Edition.",
+        "body": "Soy bastante fan del sonido de la línea Extra Bass, por lo que al enterarme de que habían sacado unos auriculares con potenciadores de bajos, no dudé dos veces para comprarlos. Y bueno... No voy a mentir, pese a que estaba un tanto incrédulo sobre si de verdad harían justicia al tipo de bajo que uno espera de la línea, lo hacen. Tienen buen volumen, se ven bien y funcionan bien, la forma en que encajan en tu oído es bastante precisa. En fin... compralos si eres fan del resto de audífonos de la línea, literal Sony tomó el audio de los audífonos mas grandes(Que en lo personal me niego rotundamente a traer en la calle) y lo sintetizó(Hasta donde es posible) en estas maravillas, no son touch, no se activan cuando te los pones, pero ese momento en que pones play y te sientes recibido por esos bajos potentes, claros y profundos, sabes que elegiste bien. R.E.C.O.M.E.N.D.A.D.ORead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Soy bastante fan del sonido de la línea Extra Bass, por lo que al enterarme de que habían sacado unos auriculares con potenciadores de bajos, no dudé dos veces para comprarlos.<br>Y bueno... No voy a mentir, pese a que estaba un tanto incrédulo sobre si de verdad harían justicia al tipo de bajo que uno espera de la línea, lo hacen. Tienen buen volumen, se ven bien y funcionan bien, la forma en que encajan en tu oído es bastante precisa.<br>En fin... compralos si eres fan del resto de audífonos de la línea, literal Sony tomó el audio de los audífonos mas grandes(Que en lo personal me niego rotundamente a traer en la calle) y lo sintetizó(Hasta donde es posible) en estas maravillas, no son touch, no se activan cuando te los pones, pero ese momento en que pones play y te sientes recibido por esos bajos potentes, claros y profundos, sabes que elegiste bien. R.E.C.O.M.E.N.D.A.D.O</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on 21 October 2020",
+          "utc": "2020-10-21T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Osvaldo Morales",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/a42389f4-a5e3-4838-ad6e-6ccedc09ce9d._CR0,0,500,500_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 74,
+        "review_country": "mx",
+        "is_global_review": true
+      },
+      {
+        "id": "R2G2UYUMQPQG8S",
+        "title": "Produto Excepcional",
+        "body": "É difícil comprar fones de ouvido bluetooth, ainda mais sem ter testado antes. As opções são tantas e as questões técnicas tão variadas que alguém que queira simplesmente comprar bons fones de ouvido sem fio para usar no telefone acaba ficando perdida. Aí, normalmente, acabam recorrendo aos amigos que conhecem algo, vão no YouTube, leem essas resenhas ou recorrem a marcas conhecidas.  Fiz tudo isso e acabei chegando nesses Sony. Fiz bem de ter comprado e não me arrependo: ótimo som, fáceis de conectar (assim como estáveis), sem grandes firulas. Fazem o básico e fazem muito bem. Confesso que gosto de fones que têm baixo mais destacado e esse aqui não decepciona. Mas não é aquele baixo de carro tunado, que acaba com tudo numa massa sonora -- o som dele é encorpado, alto, claro, bonito. Combinação vencedora.  Uma coisa que ajuda é que ele vem com quatro pares de silicones para o melhor ajuste possível. Recomendo gastar um tempinho testando o que fica melhor e o que melhor sela o canal auditivo. Por incrível que pareça, o fato de ele ser meio gordinho ajuda com o ajuste e o uso. Não sei se ele é tão excelente para exercícios físicos muito demandantes, mas ele fica bem preso e confortável.  O microfone dele também é bom: faz chamadas claras, assim como áudios para Whatsapp, com perfeição. Não testei no Zoom ou aplicativos de reuniões. Mas como ele é bem estável, imagino que funcione direito.  Se você quer um bom fone bluetooth e confia na Sony, pode levar esses aqui. Bons, muito bons.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">É difícil comprar fones de ouvido bluetooth, ainda mais sem ter testado antes. As opções são tantas e as questões técnicas tão variadas que alguém que queira simplesmente comprar bons fones de ouvido sem fio para usar no telefone acaba ficando perdida. Aí, normalmente, acabam recorrendo aos amigos que conhecem algo, vão no YouTube, leem essas resenhas ou recorrem a marcas conhecidas.<br><br>Fiz tudo isso e acabei chegando nesses Sony. Fiz bem de ter comprado e não me arrependo: ótimo som, fáceis de conectar (assim como estáveis), sem grandes firulas. Fazem o básico e fazem muito bem. Confesso que gosto de fones que têm baixo mais destacado e esse aqui não decepciona. Mas não é aquele baixo de carro tunado, que acaba com tudo numa massa sonora -- o som dele é encorpado, alto, claro, bonito. Combinação vencedora.<br><br>Uma coisa que ajuda é que ele vem com quatro pares de silicones para o melhor ajuste possível. Recomendo gastar um tempinho testando o que fica melhor e o que melhor sela o canal auditivo. Por incrível que pareça, o fato de ele ser meio gordinho ajuda com o ajuste e o uso. Não sei se ele é tão excelente para exercícios físicos muito demandantes, mas ele fica bem preso e confortável.<br><br>O microfone dele também é bom: faz chamadas claras, assim como áudios para Whatsapp, com perfeição. Não testei no Zoom ou aplicativos de reuniões. Mas como ele é bem estável, imagino que funcione direito.<br><br>Se você quer um bom fone bluetooth e confia na Sony, pode levar esses aqui. Bons, muito bons.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Brazil on 20 January 2021",
+          "utc": "2021-01-20T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "musickninja",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/d0008789-03f2-416f-bc8a-eb259d89dc98._CR0,5.0,323,323_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 34,
+        "review_country": "br",
+        "is_global_review": true
+      },
+      {
+        "id": "R1KV3AZMBOR59",
+        "title": "Exelente compra!!",
+        "body": "The media could not be loaded. Realmente fabulosos, tienen alta fidelidad, no se salen, mis orejas son raras, ya que siempre se me caen los audifonos y dude que me fueran a quedar pero si me quedaron ya que trae varias gomitas para que veas cual te queda, para mi excelentes!!Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\"><div id=\"video-block-R1KV3AZMBOR59\" class=\"a-section a-spacing-small a-spacing-top-mini video-block\">                                               <div id=\"review-video-id-R1KV3AZMBOR59\" class=\"cr-video-desktop cr-video-desktop-placeholder\" data-review-id=\"R1KV3AZMBOR59\" data-video-url=\"https://images-eu.ssl-images-amazon.com/images/I/B1MtRDns1rS.mp4\" data-thumbnail-url=\"https://images-eu.ssl-images-amazon.com/images/I/91k01EBYsbS._SY256.png\">       <div class=\"cr-media-status-container\">     <span class=\"a-spinner a-spinner-medium cr-media-spinner\"></span>     <span class=\"a-color-inverse cr-media-error-msg\">      The media could not be loaded.     </span>    </div>     </div>            </div><input type=\"hidden\" name=\"\" value=\"https://images-eu.ssl-images-amazon.com/images/I/B1MtRDns1rS.mp4\" class=\"video-url\"><input type=\"hidden\" name=\"\" value=\"https://images-eu.ssl-images-amazon.com/images/I/91k01EBYsbS._SY256.png\" class=\"video-slate-img-url\">           <span class=\"cr-original-review-content\">&nbsp;Realmente fabulosos, tienen alta fidelidad, no se salen, mis orejas son raras, ya que siempre se me caen los audifonos y dude que me fueran a quedar pero si me quedaron ya que trae varias gomitas para que veas cual te queda, para mi excelentes!!</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on 1 December 2020",
+          "utc": "2020-12-01T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Elizabeth Monfil"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "videos": [
+          {
+            "video": "https://images-eu.ssl-images-amazon.com/images/I/B1MtRDns1rS.mp4",
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/91k01EBYsbS._SY256.png"
+          }
+        ],
+        "helpful_votes": 34,
+        "review_country": "mx",
+        "is_global_review": true
+      }
+    ],
+    "buybox_winner": {
+      "offer_id": "gFPEOzeCRhjST4/M3RJc/RbTdt0Ae+FMiUZlzNwKLKeNTUjfmTb8fiJOd+d+WW7xCq6mQu/sbUihwMOLfS+sgykIGyFmQeFTdfUKqhge7i6ec84hbhnFIqUg68ysrD8WuHvB82rnIAe8ON9cSvRFL+/6SwhgJk6y",
+      "new_offers_count": 9,
+      "new_offers_from": {
+        "symbol": "₹",
+        "value": 7499,
+        "currency": "INR",
+        "raw": "₹7,499.00"
+      },
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In stock.",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "2p",
+        "standard_delivery": {
+          "date": "Wednesday, August 3",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Tomorrow, August 2",
+          "name": "Or fastest delivery Tomorrow, August 2. Order within 8 hrs 19 mins. Details"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Appario Retail Private Ltd",
+          "link": "https://www.amazon.in/sp?marketplaceID=A21TJRUUN4KGV&seller=A14CZOWI0VEHLG&isAmazonFulfilled=1&ref=dp_merchant_link",
+          "id": "A14CZOWI0VEHLG"
+        }
+      },
+      "price": {
+        "symbol": "₹",
+        "value": 7536,
+        "currency": "INR",
+        "raw": "₹7,536.00"
+      },
+      "rrp": {
+        "symbol": "₹",
+        "value": 11990,
+        "currency": "INR",
+        "raw": "₹11,990.00"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "more_buying_choices": [
+      {
+        "price": {
+          "symbol": "₹",
+          "value": 7499,
+          "currency": "INR",
+          "raw": "₹7,499.00"
+        },
+        "seller_name": "GoodLuck Shoppie",
+        "free_shipping": true,
+        "position": 1
+      },
+      {
+        "price": {
+          "symbol": "₹",
+          "value": 7980,
+          "currency": "INR",
+          "raw": "₹7,980.00"
+        },
+        "seller_name": "WayForward",
+        "free_shipping": true,
+        "position": 2
+      },
+      {
+        "price": {
+          "symbol": "₹",
+          "value": 7980,
+          "currency": "INR",
+          "raw": "₹7,980.00"
+        },
+        "seller_name": "DEALS AMAZING",
+        "free_shipping": true,
+        "position": 3
+      }
+    ],
+    "specifications": [
+      {
+        "name": "Brand",
+        "value": "‎Sony"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "‎Sony"
+      },
+      {
+        "name": "Model",
+        "value": "‎WFXB700/L"
+      },
+      {
+        "name": "Model Name",
+        "value": "‎Headphones"
+      },
+      {
+        "name": "Model Year",
+        "value": "‎2020"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎10.92 x 5.99 x 14.5 cm; 46 Grams"
+      },
+      {
+        "name": "Batteries",
+        "value": "‎1 A batteries required."
+      },
+      {
+        "name": "Item model number",
+        "value": "‎WFXB700/L"
+      },
+      {
+        "name": "Hardware Platform",
+        "value": "‎Smartphone"
+      },
+      {
+        "name": "Special Features",
+        "value": "‎Water Resistant"
+      },
+      {
+        "name": "Mounting Hardware",
+        "value": "‎Operating Instruction, Instruction Manual, Carrying Case, USB Cable, Earbuds"
+      },
+      {
+        "name": "Number Of Items",
+        "value": "‎1"
+      },
+      {
+        "name": "Microphone Form Factor",
+        "value": "‎Built-In"
+      },
+      {
+        "name": "Headphones Form Factor",
+        "value": "‎In Ear"
+      },
+      {
+        "name": "Battery Average Life",
+        "value": "‎18 Hours"
+      },
+      {
+        "name": "Batteries Included",
+        "value": "‎Yes"
+      },
+      {
+        "name": "Batteries Required",
+        "value": "‎Yes"
+      },
+      {
+        "name": "Battery Cell Composition",
+        "value": "‎Lithium Ion"
+      },
+      {
+        "name": "Cable Feature",
+        "value": "‎Without Cable"
+      },
+      {
+        "name": "Connector Type",
+        "value": "‎Wireless, Bluetooth 5.0"
+      },
+      {
+        "name": "Device interface - primary",
+        "value": "‎Microphone"
+      },
+      {
+        "name": "Material",
+        "value": "‎Hybrid silicone rubber"
+      },
+      {
+        "name": "Contains Liquid Contents",
+        "value": "‎No"
+      },
+      {
+        "name": "Includes Rechargable Battery",
+        "value": "‎Yes"
+      },
+      {
+        "name": "Country of Origin",
+        "value": "‎Vietnam"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎46 g"
+      },
+      {
+        "name": "ASIN",
+        "value": "B085VQFZ91"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "3.8 out of 5 stars       18,177 ratings          3.8 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#3,155 in Electronics"
+      },
+      {
+        "name": "Date First Available",
+        "value": "1 April 2020"
+      },
+      {
+        "name": "Packer",
+        "value": "Sony Corporation, 1-7-1, Konan, Minato-ku, Tokyo, 108-0075, Japan"
+      },
+      {
+        "name": "Importer",
+        "value": "SONY INDIA PRIVATE LIMITED, A-18, Mohan Cooperative Industrial Estate, Mathura Road, New Delhi - 110029"
+      },
+      {
+        "name": "Item Dimensions LxWxH",
+        "value": "10.9 x 6 x 14.5 Centimeters"
+      },
+      {
+        "name": "Generic Name",
+        "value": "Headphones"
+      },
+      {
+        "name": "Brand",
+        "value": "Sony"
+      },
+      {
+        "name": "Model Number",
+        "value": "WFXB700/L"
+      },
+      {
+        "name": "Colour",
+        "value": "Blue"
+      },
+      {
+        "name": "Connector Type",
+        "value": "Wireless, Bluetooth 5.0"
+      },
+      {
+        "name": "Wireless Communication Technology",
+        "value": "Truly wireless"
+      }
+    ],
+    "specifications_flat": "Wireless Communication Technology: Truly wireless. Connector Type: Wireless, Bluetooth 5.0. Colour: Blue. Model Number: WFXB700/L. Brand: Sony. Generic Name: Headphones. Item Dimensions LxWxH: 10.9 x 6 x 14.5 Centimeters. Importer: SONY INDIA PRIVATE LIMITED, A-18, Mohan Cooperative Industrial Estate, Mathura Road, New Delhi - 110029. Packer: Sony Corporation, 1-7-1, Konan, Minato-ku, Tokyo, 108-0075, Japan. Date First Available: 1 April 2020. Best Sellers Rank: #3,155 in Electronics. Customer Reviews: 3.8 out of 5 stars       18,177 ratings          3.8 out of 5 stars. ASIN: B085VQFZ91. Item Weight: ‎46 g. Country of Origin: ‎Vietnam. Includes Rechargable Battery: ‎Yes. Contains Liquid Contents: ‎No. Material: ‎Hybrid silicone rubber. Device interface - primary: ‎Microphone. Connector Type: ‎Wireless, Bluetooth 5.0. Cable Feature: ‎Without Cable. Battery Cell Composition: ‎Lithium Ion. Batteries Required: ‎Yes. Batteries Included: ‎Yes. Battery Average Life: ‎18 Hours. Headphones Form Factor: ‎In Ear. Microphone Form Factor: ‎Built-In. Number Of Items: ‎1. Mounting Hardware: ‎Operating Instruction, Instruction Manual, Carrying Case, USB Cable, Earbuds. Special Features: ‎Water Resistant. Hardware Platform: ‎Smartphone. Item model number: ‎WFXB700/L. Batteries: ‎1 A batteries required. Product Dimensions: ‎10.92 x 5.99 x 14.5 cm; 46 Grams. Model Year: ‎2020. Model Name: ‎Headphones. Model: ‎WFXB700/L. Manufacturer: ‎Sony. Brand: ‎Sony.",
+    "bestsellers_rank": [
+      {
+        "category": "Electronics",
+        "rank": 3155,
+        "link": "https://www.amazon.in/gp/bestsellers/electronics/ref=pd_zg_ts_electronics"
+      },
+      {
+        "category": "In-Ear Headphones",
+        "rank": 430,
+        "link": "https://www.amazon.in/gp/bestsellers/electronics/14146389031/ref=pd_zg_hrsr_electronics"
+      }
+    ],
+    "platform": "‎Smartphone",
+    "color": "Blue",
+    "material": "‎Hybrid silicone rubber",
+    "manufacturer": "‎Sony",
+    "weight": "‎46 g",
+    "first_available": {
+      "raw": "1 April 2020",
+      "utc": "2020-04-01T00:00:00.000Z"
+    },
+    "dimensions": "‎10.92 x 5.99 x 14.5 cm; 46 Grams",
+    "model_number": "WFXB700/L",
+    "bestsellers_rank_flat": "Category: Electronics | Rank: 3155, Category: In-Ear Headphones | Rank: 430"
+  },
+  "brand_store": {
+    "id": "9DD1D3D2-F019-4129-A76A-E3F6BE950E01",
+    "link": "https://www.amazon.in/stores/SonyIndia/page/9DD1D3D2-F019-4129-A76A-E3F6BE950E01"
+  },
+  "newer_model": {
+    "title": "Sony WF-C500 Bluetooth Truly Wireless in Ear Earbuds with 20 Hrs Battery, True Wireless Earbuds with Mic for Phone Calls, Fast Pair | Instant Bank Discount of INR 1000 on Select Prepaid transactions",
+    "asin": "B09CGDZHC5",
+    "link": "https://www.amazon.in/Sony-Bluetooth-Wireless-Discount-transactions-dp-B09CGDZHC5/dp/B09CGDZHC5/ref=dp_ob_image_ce",
+    "image": "https://m.media-amazon.com/images/I/51rvscpuXTL._SR75,75_.jpg",
+    "rating": 4,
+    "ratings_total": 2590,
+    "price": {
+      "symbol": "₹",
+      "value": 5917,
+      "currency": "INR",
+      "raw": "₹5,917.00"
+    }
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "₹",
+      "value": 10584,
+      "currency": "INR",
+      "raw": "₹10,584.00"
+    },
+    "products": [
+      {
+        "asin": "B085VQFZ91",
+        "title": "Sony WF-1000XM3 Industry Leading Active Noise Cancellation (TWS) Bluetooth Truly Wireless in Ear Earbuds with Bluetooth 5.0, 32hr Battery Life, Alexa Voice Control with Mic (Black)",
+        "link": "https://www.amazon.in/dp/B085VQFZ91",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      },
+      {
+        "asin": "B07WTX73MB",
+        "title": "Sony WI-XB400 Wireless Extra Bass in-Ear Headphones with 15 hrs Battery, Quick Charge, Magnetic Earbuds, Tangle Free Cord, BT",
+        "link": "https://www.amazon.in/dp/B07WTX73MB",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71+GXwLe23L._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 2649,
+          "currency": "INR",
+          "raw": "₹2,649.00"
+        }
+      },
+      {
+        "asin": "B08R65JXH9",
+        "title": "GROFL Soft Silicone Protective Case Cover Shockproof and Scratch Resistant & Dustproof case-for Sony WF-XB700 (Blue)",
+        "link": "https://www.amazon.in/dp/B08R65JXH9",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/31Hqu13NSxL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 399,
+          "currency": "INR",
+          "raw": "₹399.00"
+        }
+      }
+    ]
+  },
+  "compare_with_similar": [
+    {
+      "asin": "B085VQFZ91",
+      "image": "https://m.media-amazon.com/images/I/71+tGw-CD9L._AC_SS450_.jpg",
+      "title": "Sony WF-XB700 Bluetooth Truly Wireless in Ear Earbuds with Mic Extra Bass with 18 Hours Battery Life for Phone Calls, Quick Charge, Ver 5.0 (Blue)",
+      "rating": 4,
+      "ratings_total": 18177,
+      "link": "https://www.amazon.in/dp/B085VQFZ91"
+    },
+    {
+      "asin": "B07T81554H",
+      "image": "https://m.media-amazon.com/images/I/61zKkP36kDL._AC_SS450_.jpg",
+      "title": "Sony WF-1000XM3 Industry Leading Active Noise Cancellation (TWS) Bluetooth Truly Wireless in Ear Earbuds with Bluetooth 5.0, 32hr Battery Life, Alexa Voice Control with Mic (Black)",
+      "rating": 4,
+      "ratings_total": 20746,
+      "link": "https://www.amazon.in/dp/B07T81554H"
+    },
+    {
+      "asin": "B08C288T86",
+      "image": "https://m.media-amazon.com/images/I/71WIwMnP3hL._AC_SS450_.jpg",
+      "title": "(Renewed) Sony Wf-Xb700 Bluetooth Truly Wireless In Ear Earbuds With Extra Bass, 18 Hours Battery Life, With Mic For Phone Calls, Quick Charge, Bt Ver 5.0 (Black)",
+      "rating": 3.5,
+      "ratings_total": 1285,
+      "link": "https://www.amazon.in/dp/B08C288T86"
+    },
+    {
+      "asin": "B07T2FGG2Z",
+      "image": "https://m.media-amazon.com/images/I/41ja6TPTAIL._AC_SS450_.jpg",
+      "title": "Sony Wf-1000Xm3 Industry Leading Noise Canceling Bluetooth Truly Wireless In Ear Earbuds With Mic, One Size (Black)",
+      "rating": 4,
+      "ratings_total": 12635,
+      "link": "https://www.amazon.in/dp/B07T2FGG2Z"
+    },
+    {
+      "asin": "B09HGR1DVC",
+      "image": "https://m.media-amazon.com/images/I/51creylSFEL._AC_SS450_.jpg",
+      "title": "JBL Tune 230NC TWS, Active Noise Cancellation Earbuds with Mic, Massive 40 Hrs Playtime with Speed Charge, Adjustable EQ with JBL APP, 4Mics for Perfect Calls, Google Fast Pair, Bluetooth 5.2 (Black)",
+      "rating": 4,
+      "ratings_total": 60455,
+      "link": "https://www.amazon.in/dp/B09HGR1DVC"
+    }
+  ],
+  "sponsored_products": [
+    {
+      "title": "Sony WI-C100 Wireless Headphones with 25 Hrs Battery, Quick Charge, DSEE-Upscale, Splash Proof (IPX4), 360RA, Clear Bass, Fast Pair, in-Ear Bluetooth Headset with mic for Phone Calls & Music (Blue)",
+      "asin": "B09YLCXLKY",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A056007820F8TYY1O2R0H&qualifier=1659345916&id=2740392951562484&widgetName=sp_detail&url=%2Fdp%2FB09YLCXLKY%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB09YLCXLKY%26pd_rd_w%3DZms6o%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DZWSS674Y077YVMY0BMQW%26pd_rd_wg%3DeqBkU%26pd_rd_r%3Dd8586d09-90fc-44c8-be8b-7d9b89027ea0%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31JoMFp7uLL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 95,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1699,
+        "currency": "INR",
+        "raw": "₹1,699.00"
+      }
+    },
+    {
+      "title": "New JBL Tune 130NC TWS | Active Noise Cancellation Earbuds (Upto 40dB) | JBL APP - Adjust EQ for Extra Bass | Massive 40Hrs Playtime | Legendary JBL Sound | 4Mics for Clear Calls | BT 5.2 (Black)",
+      "asin": "B09HGW9V7D",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A07933468D90MYCFMVMN&qualifier=1659345916&id=2740392951562484&widgetName=sp_detail&url=%2Fdp%2FB09HGW9V7D%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09HGW9V7D%26pd_rd_w%3DZms6o%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DZWSS674Y077YVMY0BMQW%26pd_rd_wg%3DeqBkU%26pd_rd_r%3Dd8586d09-90fc-44c8-be8b-7d9b89027ea0%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31dT9Q0tCYL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 60455,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 4699,
+        "currency": "INR",
+        "raw": "₹4,699.00"
+      }
+    },
+    {
+      "title": "Bose Sport Earbuds - Bluetooth Truly Wireless in Ear Earbuds for Workouts and Running,Sweat Resistant with Touch Control, with mic Baltic Blue",
+      "asin": "B08CJCLV4F",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A02084111HK08GVK6LARW&qualifier=1659345916&id=2740392951562484&widgetName=sp_detail&url=%2Fdp%2FB08CJCLV4F%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB08CJCLV4F%26pd_rd_w%3DZms6o%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DZWSS674Y077YVMY0BMQW%26pd_rd_wg%3DeqBkU%26pd_rd_r%3Dd8586d09-90fc-44c8-be8b-7d9b89027ea0%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/315PbFePMkL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 25145,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 17990,
+        "currency": "INR",
+        "raw": "₹17,990.00"
+      }
+    },
+    {
+      "title": "boAt Newly Launched Airdopes 413ANC True Wireless Earbuds with Hybrid ANC, 2*Mics ENx™ Tech, boAt Signature Sound, Touch Gesture, 20 Hours Playback, ASAP™ Charge & Ambient Mode",
+      "asin": "B0B58J5N8M",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A0438263F2JADZJ2HWTZ&qualifier=1659345916&id=2740392951562484&widgetName=sp_detail&url=%2Fdp%2FB0B58J5N8M%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0B58J5N8M%26pd_rd_w%3DZms6o%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DZWSS674Y077YVMY0BMQW%26pd_rd_wg%3DeqBkU%26pd_rd_r%3Dd8586d09-90fc-44c8-be8b-7d9b89027ea0%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31j5JXzNwhL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 104,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 2499,
+        "currency": "INR",
+        "raw": "₹2,499.00"
+      }
+    },
+    {
+      "title": "boAt Bassheads 100 in Ear Wired Earphones with Mic(Black)",
+      "asin": "B071Z8M4KX",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A02508701THKBWZDC9DYO&qualifier=1659345916&id=2740392951562484&widgetName=sp_detail&url=%2Fdp%2FB071Z8M4KX%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB071Z8M4KX%26pd_rd_w%3DZms6o%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DZWSS674Y077YVMY0BMQW%26pd_rd_wg%3DeqBkU%26pd_rd_r%3Dd8586d09-90fc-44c8-be8b-7d9b89027ea0%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31IdiM9ZM8L._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 331833,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 349,
+        "currency": "INR",
+        "raw": "₹349.00"
+      }
+    },
+    {
+      "title": "Vibez by Lifelong 2-in-1 Wireless Speaker and Bluetooth TWS Earphones |Wireless in Ear Earbuds with Mic|Type-C Fast Charging & IPX4 Sweat & Water Resistant Earbuds(VBTWS01, 1 Year Warranty, Black)",
+      "asin": "B09Z6VG7GJ",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A06707563P9OEY5TWMDSK&qualifier=1659345916&id=2740392951562484&widgetName=sp_detail&url=%2Fdp%2FB09Z6VG7GJ%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB09Z6VG7GJ%26pd_rd_w%3DZms6o%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DZWSS674Y077YVMY0BMQW%26pd_rd_wg%3DeqBkU%26pd_rd_r%3Dd8586d09-90fc-44c8-be8b-7d9b89027ea0%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41xYubl6WOL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 19,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1999,
+        "currency": "INR",
+        "raw": "₹1,999.00"
+      }
+    },
+    {
+      "title": "Jabra Elite 7 Pro in Ear Bluetooth True Wireless Earbuds + Wireless Charging Pad - Active Noise Cancellation, Compact Design, Jabra MultiSensor Voice Tech & Multipoint - Titanium Black",
+      "asin": "B09GVP1QJ1",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A0377400BX9RUVPPCCQF&qualifier=1659345916&id=2740392951562484&widgetName=sp_detail&url=%2Fdp%2FB09GVP1QJ1%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB09GVP1QJ1%26pd_rd_w%3DZms6o%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DZWSS674Y077YVMY0BMQW%26pd_rd_wg%3DeqBkU%26pd_rd_r%3Dd8586d09-90fc-44c8-be8b-7d9b89027ea0%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/21gwhIn53YL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 31,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 17999,
+        "currency": "INR",
+        "raw": "₹17,999.00"
+      }
+    },
+    {
+      "title": "Boult Audio AirBass PowerBuds TWS Earbuds with 120 Hours Total Playtime, Inbuilt Powerbank, Type-C Fast Charging and IPX7 Fully Waterproof (Black)",
+      "asin": "B08D11DZ2W",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A0771782341IPL31Z6RTW&qualifier=1659345916&id=2740392951562484&widgetName=sp_detail&url=%2Fdp%2FB08D11DZ2W%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB08D11DZ2W%26pd_rd_w%3DZms6o%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DZWSS674Y077YVMY0BMQW%26pd_rd_wg%3DeqBkU%26pd_rd_r%3Dd8586d09-90fc-44c8-be8b-7d9b89027ea0%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41vEB+mY55L._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 21437,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1799,
+        "currency": "INR",
+        "raw": "₹1,799.00"
+      }
+    },
+    {
+      "title": "Jabra Elite 3 in Ear True Wireless Earbuds - Noise Isolating with 4 Built-in Microphones for Clear Calls, Rich Bass, Customizable Sound, Mono Mode- Light Beige",
+      "asin": "B09CGJ8PRR",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A07982384EH2ZWHRDG81&qualifier=1659345916&id=2740392951562484&widgetName=sp_detail&url=%2Fdp%2FB09CGJ8PRR%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB09CGJ8PRR%26pd_rd_w%3DZms6o%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DZWSS674Y077YVMY0BMQW%26pd_rd_wg%3DeqBkU%26pd_rd_r%3Dd8586d09-90fc-44c8-be8b-7d9b89027ea0%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/310H6uAmH4L._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 1590,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 4499,
+        "currency": "INR",
+        "raw": "₹4,499.00"
+      }
+    },
+    {
+      "title": "CALL MATE Sound Wave Wireless Bluetooth Over the Ear Headphone with Mic (Black)",
+      "asin": "B092D7WZN5",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A05586041VBADD0X2VY7H&qualifier=1659345916&id=2740392951562484&widgetName=sp_detail&url=%2Fdp%2FB092D7WZN5%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB092D7WZN5%26pd_rd_w%3DZms6o%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DZWSS674Y077YVMY0BMQW%26pd_rd_wg%3DeqBkU%26pd_rd_r%3Dd8586d09-90fc-44c8-be8b-7d9b89027ea0%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41OBCK8PpIL._AC_SR160,160_.jpg",
+      "rating": 3,
+      "ratings_total": 2,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 799,
+        "currency": "INR",
+        "raw": "₹799.00"
+      }
+    },
+    {
+      "title": "Samsung Galaxy M13 (Aqua Green, 6GB, 128GB Storage) | 6000mAh Battery | Upto 12GB RAM with RAM Plus",
+      "asin": "B0B4F2XCK3",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A06281043LBAZ4I418GYS&qualifier=1659345916&id=3011647716977751&widgetName=sp_detail2&url=%2Fdp%2FB0B4F2XCK3%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0B4F2XCK3%26pd_rd_w%3DghVUy%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZWSS674Y077YVMY0BMQW%26pd_rd_wg%3DeqBkU%26pd_rd_r%3Dd8586d09-90fc-44c8-be8b-7d9b89027ea0%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41op1vdp-UL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 157652,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 13999,
+        "currency": "INR",
+        "raw": "₹13,999.00"
+      }
+    },
+    {
+      "title": "Sony WI-C100 Wireless Headphones with 25 Hrs Battery, Quick Charge, DSEE-Upscale, Splash Proof (IPX4), 360RA, Clear Bass, Fast Pair, in-Ear Bluetooth Headset with mic for Phone Calls & Music (Blue)",
+      "asin": "B09YLCXLKY",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A056007820F8TYY1O2R0H&qualifier=1659345916&id=3011647716977751&widgetName=sp_detail2&url=%2Fdp%2FB09YLCXLKY%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09YLCXLKY%26pd_rd_w%3DghVUy%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZWSS674Y077YVMY0BMQW%26pd_rd_wg%3DeqBkU%26pd_rd_r%3Dd8586d09-90fc-44c8-be8b-7d9b89027ea0%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31JoMFp7uLL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 95,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1699,
+        "currency": "INR",
+        "raw": "₹1,699.00"
+      }
+    },
+    {
+      "title": "Boult Audio AirBass PowerBuds TWS Earbuds with 120 Hours Total Playtime, Inbuilt Powerbank, Type-C Fast Charging and IPX7 Fully Waterproof (Black)",
+      "asin": "B08D11DZ2W",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A0771782341IPL31Z6RTW&qualifier=1659345916&id=3011647716977751&widgetName=sp_detail2&url=%2Fdp%2FB08D11DZ2W%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB08D11DZ2W%26pd_rd_w%3DghVUy%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZWSS674Y077YVMY0BMQW%26pd_rd_wg%3DeqBkU%26pd_rd_r%3Dd8586d09-90fc-44c8-be8b-7d9b89027ea0%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41vEB+mY55L._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 21437,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1799,
+        "currency": "INR",
+        "raw": "₹1,799.00"
+      }
+    },
+    {
+      "title": "New JBL Tune 130NC TWS | Active Noise Cancellation Earbuds (Upto 40dB) | JBL APP - Adjust EQ for Extra Bass | Massive 40Hrs Playtime | Legendary JBL Sound | 4Mics for Clear Calls | BT 5.2 (Black)",
+      "asin": "B09HGW9V7D",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A07933468D90MYCFMVMN&qualifier=1659345916&id=3011647716977751&widgetName=sp_detail2&url=%2Fdp%2FB09HGW9V7D%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB09HGW9V7D%26pd_rd_w%3DghVUy%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZWSS674Y077YVMY0BMQW%26pd_rd_wg%3DeqBkU%26pd_rd_r%3Dd8586d09-90fc-44c8-be8b-7d9b89027ea0%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31dT9Q0tCYL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 60455,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 4699,
+        "currency": "INR",
+        "raw": "₹4,699.00"
+      }
+    },
+    {
+      "title": "Telekonnectors Galaxy Uno Binaural Integrated USB Wired Headset with Mic - Type A USB connectivity (Dual Colour Tone - Yellow and Black)",
+      "asin": "B0B45VRJPQ",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A002309434831UK3L84UT&qualifier=1659345916&id=3011647716977751&widgetName=sp_detail2&url=%2Fdp%2FB0B45VRJPQ%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0B45VRJPQ%26pd_rd_w%3DghVUy%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZWSS674Y077YVMY0BMQW%26pd_rd_wg%3DeqBkU%26pd_rd_r%3Dd8586d09-90fc-44c8-be8b-7d9b89027ea0%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31Udh9XmDAL._AC_SR160,160_.jpg",
+      "rating": 5,
+      "ratings_total": 1,
+      "price": {
+        "symbol": "₹",
+        "value": 995,
+        "currency": "INR",
+        "raw": "₹995.00"
+      }
+    },
+    {
+      "title": "boAt Newly Launched Airdopes 413ANC True Wireless Earbuds with Hybrid ANC, 2*Mics ENx™ Tech, boAt Signature Sound, Touch Gesture, 20 Hours Playback, ASAP™ Charge & Ambient Mode",
+      "asin": "B0B58J5N8M",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A0438263F2JADZJ2HWTZ&qualifier=1659345916&id=3011647716977751&widgetName=sp_detail2&url=%2Fdp%2FB0B58J5N8M%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0B58J5N8M%26pd_rd_w%3DghVUy%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZWSS674Y077YVMY0BMQW%26pd_rd_wg%3DeqBkU%26pd_rd_r%3Dd8586d09-90fc-44c8-be8b-7d9b89027ea0%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31j5JXzNwhL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 104,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 2499,
+        "currency": "INR",
+        "raw": "₹2,499.00"
+      }
+    },
+    {
+      "title": "Jabra Elite 7 Pro Bluetooth Truly Wireless in Ear Earbuds with Mic with Active Noise Cancellation, Compact Design, Multisensor Voice Tech & Multipoint Connectivity for Clear Calls - Gold Beige",
+      "asin": "B09FJJ61M5",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A03777121U2L0Z4XVAEKM&qualifier=1659345916&id=3011647716977751&widgetName=sp_detail2&url=%2Fdp%2FB09FJJ61M5%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB09FJJ61M5%26pd_rd_w%3DghVUy%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZWSS674Y077YVMY0BMQW%26pd_rd_wg%3DeqBkU%26pd_rd_r%3Dd8586d09-90fc-44c8-be8b-7d9b89027ea0%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31tFdrrfiKL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 4520,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 17999,
+        "currency": "INR",
+        "raw": "₹17,999.00"
+      }
+    },
+    {
+      "title": "Bose Sport Earbuds - Bluetooth Truly Wireless in Ear Earbuds for Workouts and Running,Sweat Resistant with Touch Control, with mic Baltic Blue",
+      "asin": "B08CJCLV4F",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A02084111HK08GVK6LARW&qualifier=1659345916&id=3011647716977751&widgetName=sp_detail2&url=%2Fdp%2FB08CJCLV4F%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB08CJCLV4F%26pd_rd_w%3DghVUy%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZWSS674Y077YVMY0BMQW%26pd_rd_wg%3DeqBkU%26pd_rd_r%3Dd8586d09-90fc-44c8-be8b-7d9b89027ea0%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/315PbFePMkL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 25145,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 17990,
+        "currency": "INR",
+        "raw": "₹17,990.00"
+      }
+    },
+    {
+      "title": "Boult Audio Omega Earbuds (TWS) with 30Db Active Noise Cancellation (ANC), 32H Playtime, 45m/s Latency Gaming Mode, Zen ENC Mic, Fast Charging Type-C, IPX5 Water Resistance & Equalizer Modes (Black)",
+      "asin": "B0B31FR4Y2",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A05342341DOVYLK2LI6OS&qualifier=1659345916&id=3011647716977751&widgetName=sp_detail2&url=%2Fdp%2FB0B31FR4Y2%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB0B31FR4Y2%26pd_rd_w%3DghVUy%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZWSS674Y077YVMY0BMQW%26pd_rd_wg%3DeqBkU%26pd_rd_r%3Dd8586d09-90fc-44c8-be8b-7d9b89027ea0%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31-p+ScE0kL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 2359,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 2499,
+        "currency": "INR",
+        "raw": "₹2,499.00"
+      }
+    },
+    {
+      "title": "Jabra Elite 7 Pro in Ear Bluetooth True Wireless Earbuds + Wireless Charging Pad - Active Noise Cancellation, Compact Design, Jabra MultiSensor Voice Tech & Multipoint - Titanium Black",
+      "asin": "B09GVP1QJ1",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A0377400BX9RUVPPCCQF&qualifier=1659345916&id=3011647716977751&widgetName=sp_detail2&url=%2Fdp%2FB09GVP1QJ1%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB09GVP1QJ1%26pd_rd_w%3DghVUy%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DZWSS674Y077YVMY0BMQW%26pd_rd_wg%3DeqBkU%26pd_rd_r%3Dd8586d09-90fc-44c8-be8b-7d9b89027ea0%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/21gwhIn53YL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 31,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 17999,
+        "currency": "INR",
+        "raw": "₹17,999.00"
+      }
+    }
+  ]
+}
